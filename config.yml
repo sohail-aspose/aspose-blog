@@ -1,0 +1,68 @@
+baseURL: 'https://blog-qa.aspose.com/'
+languageCode: 'en-us'
+title: 'File Format APIs Blog - aspose.com'
+theme: "PaperMod"
+paginate: 10
+enableRobotsTXT: true
+googleAnalytics: UA-27946748-1
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Aspose Blog
+  description: "Document Automation APIs to enrich .NET and Java applications to view, edit, annotate, convert, compare, e-sign, parse, split, merge, redact, or classify documents of almost all the popular file formats."
+  keywords: ["c# convert documents", "java convert documents", "c# annotate documents", "java annotate documents", "c# view documents", "java view documents", "c# compare files", "java compare files", "c# sign files", "java sign files", "c# generate report", "java generate report", "c# search in files", "java search in files", "c# document metadata", "java document metadata", "c# parse files", "java parse files", "c# watermark files", "java watermark files", "c# edit files", "java edit files", "c# split document", "java split document", "c# merge document", "java merge document", "c# redact files", "java redact files", "c# classify documents", "java classify documents", "c# convert to pdf", "c# convert pdf", "c# convert json", "c# convert csv", "c# convert xml", "c# annotate pdf", "c# annotate word", "java convert to pdf", "java convert pdf", "java convert json", "java convert csv", "java convert xml", "java annotate pdf", "java annotate word", "c# compare images", "java compare images", "c# compare pdf", "java compare pdf", "c# compare text", "java compare text", "c# annotate pdf", "java annotate pdf", "watermark pdf", "watermark images", "c# generate pdf", "java generate pdf", "c# edit metadata", "java edit metadata"]
+  mainSections: # Add name of each folder under content folder that contains blog posts.
+  - Aspose.Blog # https://gohugo.io/functions/where/#mainsections 
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowFullTextinRSS: true
+  disableSpecial1stPost: true
+  fuseOpts:
+    keys: ["title"]
+
+  label:
+    text: "Home"
+    icon: /images/logo.png
+    iconHeight: 35
+
+languages:
+  en:
+    languageName: English
+    flag: flag-us
+    weight: 1
+
+permalinks:
+  tags: /tag/:title/
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+
+deployment:
+  targets:
+    name: "production"
+    URL: "s3://blog-qa.aspose.com/?region=us-west-2"
