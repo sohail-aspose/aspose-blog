@@ -3,7 +3,7 @@ title: 'Add, Update and Delete Contacts from Microsoft Exchange Server in Java'
 date: Fri, 25 Feb 2022 08:07:00 +0000
 draft: false
 url: /2022/02/25/work-with-contacts-from-exchange-server-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Microsoft Exchange Server][1] is an email and calendaring server that provides different collaboration services like email, calendars, contacts management, etc. In [one of my posts][2], I have shown you how to access and read emails from Microsoft Exchange Server programmatically in Java. However, we often need the contact list that we have on the MS Exchange Server. So in this article, you will learn **how to add, delete, or update contacts on Microsoft Exchange Server in Java**.'
 tags: ['Add Contacts to MS Exchange Server in Java', 'Delete Contacts from MS Exchange Server in Java', 'Java API to Access Contacts on MS Exchange Server', 'Update a Contact on MS Exchange Server in Java']
 categories: ['Aspose.Email Product Family']

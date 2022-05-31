@@ -3,7 +3,7 @@ title: 'Convert PowerPoint PPT Slides to SVG in Python'
 date: Tue, 01 Feb 2022 09:31:00 +0000
 draft: false
 url: /2022/02/01/convert-powerpoint-ppt-slides-to-svg-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: ''
 tags: ['Convert Slides in PPTX to SVG Python', 'Convert Slides in a PowerPoint PPT to SVG Python', 'Python Library to Convert PowerPoint Slides to SVG', 'Python PPTX Converter Library']
 categories: ['Aspose.Slides Product Family']

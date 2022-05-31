@@ -3,7 +3,7 @@ title: 'Create Exchange Distribution List in Java'
 date: Thu, 07 Apr 2022 09:46:37 +0000
 draft: false
 url: /2022/04/07/create-exchange-distribution-list-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[MS Exchange Server][1] allows you to create email distribution lists that can be used to send emails to a group of people without entering individual email addresses. To create such lists programmatically, this article covers **how to create a distribution list on MS Exchange Server in Java**. Furthermore, it shows how to fetch a distribution list programmatically.'
 tags: ['Create an MS Exchange Distribution List in Java', 'Fetch a Distribution List from MS Exchange Server in Java', 'Java API to Create Distribution List on MS Exchange Server']
 categories: ['Aspose.Email Product Family']

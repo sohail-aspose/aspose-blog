@@ -3,7 +3,7 @@ title: 'Convert EPUB to a PNG or JPG Image in Java'
 date: Wed, 30 Mar 2022 20:12:00 +0000
 draft: false
 url: /2022/03/30/convert-epub-to-png-jpg-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'EPUB file format is popular for printing e-books, brochures, pamphlets, etc. Sometimes you may need to convert an EPUB file to an image for displaying file contents. Therefore, this article guides you on how to **convert an EPUB file to a JPG or PNG image programmatically in Java.**'
 tags: ['Convert EPUB to Image in Java', 'EPUB to JPG in Java', 'EPUB to PNG in Java']
 categories: ['Aspose.HTML Product Family']

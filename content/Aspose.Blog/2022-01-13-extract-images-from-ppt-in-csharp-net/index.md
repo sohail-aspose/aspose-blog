@@ -3,7 +3,7 @@ title: 'Extract Images from PowerPoint PPT in C#'
 date: Thu, 13 Jan 2022 12:01:00 +0000
 draft: false
 url: /2022/01/13/extract-images-from-ppt-in-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'While processing the PowerPoint presentations in a .NET application, you may need to extract content from the PPT slides. The content could be in the form of text and images. In the [previous post][1], we have covered text extraction from PowerPoint slides. In this article, we will show you **how to extract images from PowerPoint [PPT][2] or [PPTX][3] in C#**.'
 tags: ['extract images from powerpoint in csharp', 'extract images from ppt backgrounds in csharp', 'extract images from ppt in csharp', 'extract images from pptx in csharp']
 categories: ['Aspose.Slides Product Family']

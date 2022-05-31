@@ -3,7 +3,7 @@ title: 'Import Gmail Contacts in C# .NET'
 date: Wed, 19 Jan 2022 17:45:25 +0000
 draft: false
 url: /2022/01/19/import-contacts-from-gmail-in-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Gmail][1] is a popular and widely used email service provided by Google. Along with sending and receiving emails, it offers various additional features such as auto-reply, chats, etc. As a programmer, you may come across the scenario when you need to import contacts from a particular Gmail account. To accomplish that from within .NET applications, this article covers **how to import contacts from Gmail in C# .NET**. Moreover, we will demonstrate how to fetch contacts from a specific email group.'
 tags: ['Dotnet API to Import Contacts from Gmail', 'Import Contacts from Email Group in Csharp', 'Import Contacts from Gmail in Csharp']
 categories: ['Aspose.Email Product Family']

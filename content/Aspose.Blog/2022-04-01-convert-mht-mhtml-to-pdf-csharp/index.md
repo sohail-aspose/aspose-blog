@@ -3,7 +3,7 @@ title: 'Convert MHT to PDF File in C#'
 date: Fri, 01 Apr 2022 18:23:00 +0000
 draft: false
 url: /2022/04/01/convert-mht-mhtml-to-pdf-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'MHT file is a webpage archive format that includes text, graphics, animations, CSS, JavaScript, and all linked resources in a single file. Some webpages access images or other resources from a server and saving the page in MHT or MHTML format will let you see such contents even when you are offline. In certain cases, you may need to convert an MHT file to PDF format. This article covers how to convert an **MHT file to a PDF file in C#**.'
 tags: ['Convert MHT to PDF in csharp', 'MHT to PDF', 'MHTML to PDF']
 categories: ['Aspose.HTML Product Family']

@@ -3,7 +3,7 @@ title: 'Convert Excel Files to Google Sheets in Java'
 date: Tue, 01 Feb 2022 12:03:00 +0000
 draft: false
 url: /2022/02/01/convert-excel-files-to-google-sheets-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: "[Google Sheets][1] is a popular online application that lets you create and manipulate spreadsheet documents. Furthermore, it allows you to share the spreadsheets with multiple people in real-time. Therefore, often you have to export data from [Excel][2] workbooks to a spreadsheet in Google Sheets programmatically. In this article, we will give a complete walk-through of **how to export Excel data to a Google Sheets' spreadsheet in Java**."
 tags: ['Convert Excel File to Google Sheets in Java', 'Export Excel Data to Google Sheets in java', 'How to Use Google Sheets API in Java', 'Java APIs for Excel to Google Sheets Conversion']
 categories: ['Aspose.Cells Product Family']

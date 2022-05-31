@@ -3,7 +3,7 @@ title: 'Work with VBA Macros in PowerPoint PPT/PPTX in Python'
 date: Mon, 21 Feb 2022 15:11:00 +0000
 draft: false
 url: /2022/02/21/work-with-vba-macros-in-powerpoint-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'VBA macros allow you to automate various types of operations in PowerPoint presentations. You can use them for generating charts, unhiding the hidden objects, and performing different repetitive tasks in the presentations. While working with PowerPoint presentations from within your Python applications, you may need to manipulate VBA macros. Therefore, in this article, you will learn **how to add, extract and remove VBA Macros in PowerPoint using Python**.'
 tags: ['Add VBA Macros in a PowerPoint Presentation Python', 'Extract VBA Macros from a Presentation Python', 'Python Library to Work with PowerPoint VBA Macros', 'Remove VBA Macros from a Presentation Python']
 categories: ['Aspose.Slides Product Family']

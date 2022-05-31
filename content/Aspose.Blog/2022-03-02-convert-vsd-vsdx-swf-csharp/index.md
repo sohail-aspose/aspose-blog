@@ -3,7 +3,7 @@ title: 'Convert VSD or VSDX Visio File to SWF Programmatically in C#'
 date: Wed, 02 Mar 2022 10:14:00 +0000
 draft: false
 url: /2022/03/02/convert-vsd-vsdx-swf-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In some use cases, you might need to convert a VSD or VSDX diagram to an SWF file. In accordance with similar requirements, this article covers how to **convert a VSD or VSDX file to an SWF file programmatically in C#**.'
 tags: ['Convert VSDX to SWF csharp', 'Convert Visio to SWF in csharp', 'VSD VSDX to SWF .NET', 'VSD to SWF', 'VSDX to SWF']
 categories: ['Aspose.Diagram Product Family']

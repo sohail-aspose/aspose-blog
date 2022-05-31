@@ -3,7 +3,7 @@ title: 'Convert OBJ to USDZ File Programmatically in C#'
 date: Tue, 01 Mar 2022 10:55:00 +0000
 draft: false
 url: /2022/03/01/convert-obj-usdz-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'An OBJ file is a geometry definition file format that can contain texture maps, polygonal faces, and 3D coordinates. You may need to convert an OBJ file to a USDZ file for certain requirements. This article covers how to **convert OBJ to USDZ file programmatically in C#**.'
 tags: ['Convert OBJ to USDZ', 'OBJ to USDZ', 'OBJ to USDZ in .NET', 'OBJ to USDZ in csharp']
 categories: ['Aspose.3D Product Family']

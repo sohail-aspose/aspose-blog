@@ -3,7 +3,7 @@ title: 'Import Gmail Contacts Programmatically in Java'
 date: Thu, 24 Mar 2022 15:04:57 +0000
 draft: false
 url: /2022/03/24/import-gmail-contacts-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: "Google's [Gmail][1] is among the most popular and commonly used email services. Gmail provides a range of features along with just sending and receiving emails, such as calendars, chats, etc. In certain cases, you may need to connect to Gmail and import contacts programmatically from within your applications. To achieve that, this article shows **how to import Gmail contacts using Java**. Also, we will cover how to access contacts in a specific email group."
 tags: ['Import Contacts from Gmail in Java', 'Import Contacts from a Specific Gmail Group in Java', 'Java API to Import Contacts from Gmail']
 categories: ['Aspose.Email Product Family']

@@ -3,7 +3,7 @@ title: 'Create Zoom Video Downloader in C#'
 date: Mon, 03 Jan 2022 20:02:09 +0000
 draft: false
 url: /2022/01/03/create-zoom-video-downloader-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Zoom is a famous platform for video teleconferencing, which is popularly used for online meetings, classes, etc. In certain situations, you may need to download a recording or some other video resource from Zoom. This article covers how to **create a Zoom video downloader programmatically in C#**.'
 tags: ['Create Zoom Video Downloader', 'Zoom Video Downloader in .NET', 'Zoom Video Downloader in csharp']
 categories: ['Aspose.HTML Product Family']

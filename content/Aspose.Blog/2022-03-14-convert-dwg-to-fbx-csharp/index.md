@@ -3,7 +3,7 @@ title: 'Convert DWG to FBX Programmatically in C#'
 date: Mon, 14 Mar 2022 08:32:00 +0000
 draft: false
 url: /2022/03/14/convert-dwg-to-fbx-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'DWG files are CAD drawings that are commonly used by architectural or engineering applications. Whereas, FBX files are used for data compatibility between several 3D modeling applications. In some scenarios, you may want to convert a DWG file to FBX format. This article elaborates on how to **convert DWG to FBX file programmatically in C#.**'
 tags: ['Convert DWG to FBX', 'DWG to FBX', 'DWG to FBX Conversion', 'DWG to FBX in csharp', 'DWG to FBX in dotnet']
 categories: ['Aspose.CAD Product Family']

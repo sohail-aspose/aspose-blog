@@ -3,7 +3,7 @@ title: 'Convert USDZ to OBJ File in C#'
 date: Fri, 18 Feb 2022 10:04:00 +0000
 draft: false
 url: /2022/02/18/convert-usdz-obj-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'USDZ files contain 3D geometry and shading data for a scene and are commonly used for creating augmented reality content. Sometimes, you may need to convert USDZ to a 3D Object file. In accordance with such scenarios, this article covers how to **convert a USDZ file to an OBJ file programmatically in C#.**'
 tags: ['Convert USDZ to OBJ', 'Convert USDZ to OBJ csharp', 'USDZ to OBJ', 'USDZ to OBJ Conversion', 'USDZ to OBJ in csharp']
 categories: ['Aspose.3D Product Family']

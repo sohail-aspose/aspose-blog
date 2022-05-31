@@ -3,7 +3,7 @@ title: 'Convert HTML to MHT in Java'
 date: Mon, 21 Mar 2022 21:01:00 +0000
 draft: false
 url: /2022/03/21/convert-html-to-mht-mhtml-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'MHT files are used to keep images, text, CSS, and other related resources in a single webpage. In some use cases, you might want to convert an HTML file to MHT format. Accordingly, this article covers how to **convert HTML to MHT format programmatically in Java.**'
 tags: ['HTML to MHT in Java', 'Java HTML to MHTML', 'Jave HTML to MHT']
 categories: ['Aspose.HTML Product Family']

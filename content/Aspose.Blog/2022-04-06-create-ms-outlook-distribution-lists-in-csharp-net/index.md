@@ -3,7 +3,7 @@ title: 'Create and Read MS Outlook Distribution Lists in C#'
 date: Wed, 06 Apr 2022 14:39:00 +0000
 draft: false
 url: /2022/04/06/create-ms-outlook-distribution-lists-in-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: "Email distribution lists make it easier to send a single email to a group of people without writing their individual email IDs. You can create as many lists as required based on the circles you have, such as official, social, etc. [MS Outlook][1] also allows you to make the distribution lists and often you may need to create such lists programmatically. So let's see **how to create and read MS Outlook distribution lists in C# .NET**."
 tags: ['Create a Distribution List in MS Outlook in Csharp', 'Csharp Dotnet API to Create MS Outlook Distribution Lists', 'Read an MS Outlook Distribution List in Csharp']
 categories: ['Aspose.Email Product Family']

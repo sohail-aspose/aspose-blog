@@ -3,7 +3,7 @@ title: 'Convert Visio VSD or VSDX to VDX in Java'
 date: Fri, 25 Feb 2022 20:19:00 +0000
 draft: false
 url: /2022/02/25/convert-vsd-vsdx-to-vdx-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Sometimes you might need to convert a VSD or VSDX file to a VDX file which is based on XML schema. In accordance with such scenarios, this article explains how to **convert a VSD or VSDX Diagram file to a VDX file in Java**.'
 tags: ['Convert Visio Diagram to VDX in Java', 'VSD to VDX', 'VSD to VDX in Java', 'VSDX to VDX', 'VSDX to VDX in Java']
 categories: ['Aspose.Diagram Product Family']

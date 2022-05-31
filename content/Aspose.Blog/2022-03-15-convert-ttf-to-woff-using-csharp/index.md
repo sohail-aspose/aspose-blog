@@ -3,7 +3,7 @@ title: 'Convert TTF to WOFF using C#'
 date: Tue, 15 Mar 2022 06:28:25 +0000
 draft: false
 url: /2022/03/15/convert-ttf-to-woff-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: ''
 tags: ['C# API to Convert TTF', 'Convert TTF to WOFF', 'TTF to WOFF .NET Converter', 'TTF to WOFF Converter API', 'TTF to WOFF Converter C#', 'TTF to WOFF in C#']
 categories: ['Aspose.Font Product Family']

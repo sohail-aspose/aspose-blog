@@ -3,7 +3,7 @@ title: 'Convert EPUB to Word DOCX in C#'
 date: Wed, 23 Feb 2022 08:53:00 +0000
 draft: false
 url: /2022/02/23/convert-epub-to-word-docx-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'EPUB files are frequently used to share or print brochures, pamphlets, or eBooks. In some cases, you might need to convert EPUB to a Word DOCX file. In accordance with such use cases, this article explains how to **convert an EPUB file to DOCX format programmatically in C#**.'
 tags: ['Convert EPUB to Word Document', 'EPUB to DOCX', 'EPUB to DOCX Converter', 'EPUB to DOCX in csharp', 'EPUB to Word', 'EPUB to Word in .NET']
 categories: ['Aspose.HTML Product Family']

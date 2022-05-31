@@ -3,7 +3,7 @@ title: 'Convert OBJ to USDZ in Java'
 date: Tue, 01 Feb 2022 11:05:00 +0000
 draft: false
 url: /2022/02/01/convert-obj-usdz-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In some scenarios, you might want to convert an OBJ file to USDZ format. In accordance with such requirements, this article covers how to **convert an OBJ file to a USDZ file programmatically in Java**.'
 tags: ['Java Convert OBJ to USDZ', 'OBJ to USDZ', 'OBJ to USDZ in Java']
 categories: ['Aspose.3D Product Family']

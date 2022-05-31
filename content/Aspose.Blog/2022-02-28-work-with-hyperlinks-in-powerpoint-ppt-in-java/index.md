@@ -3,7 +3,7 @@ title: 'Add or Remove Hyperlinks in PowerPoint PPT in Java'
 date: Mon, 28 Feb 2022 16:06:49 +0000
 draft: false
 url: /2022/02/28/work-with-hyperlinks-in-powerpoint-ppt-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'In various cases, we have to insert hyperlinks in the PowerPoint presentations, such as for providing the URL of a webpage. You can create a hyperlink of text, image, shape, or a media element in PowerPoint PPT slides. In this article, you will learn **how to add hyperlinks to PowerPoint PPT/PPTX in Java**. In the end, we will also discuss how to remove hyperlinks from PPT slides programmatically.'
 tags: ['Add Audio Video Hyperlink in PPT in Java', 'Add Text Hyperlink in PPT in Java', 'Add image Hyperlink in PPT in Java', 'Java API to Work with Hyperlinks in PowerPoint', 'Remove Hyperlink in PPT in Java']
 categories: ['Aspose.Slides Product Family']

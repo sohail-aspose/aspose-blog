@@ -3,7 +3,7 @@ title: 'Convert DWF to PNG or JPG Image in C#'
 date: Sun, 30 Jan 2022 08:15:00 +0000
 draft: false
 url: /2022/01/30/convert-dwf-to-png-jpg-image-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'DWF files are based on vectors that can consist of CAD drawings, text, images, etc. You may need to create a thumbnail or preview image of a DWF file. In accordance with that, the article covers how to **convert a DWF file to a JPG or PNG image programmatically in C#**.'
 tags: ['Convert DWF in csharp', 'DWF to Image', 'DWF to JPG', 'DWF to PNG', 'DWF to PNG csharp']
 categories: ['Aspose.CAD Product Family']

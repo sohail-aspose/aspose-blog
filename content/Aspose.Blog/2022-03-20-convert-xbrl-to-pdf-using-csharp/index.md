@@ -3,7 +3,7 @@ title: 'Convert XBRL to PDF using C#'
 date: Sun, 20 Mar 2022 16:36:01 +0000
 draft: false
 url: /2022/03/20/convert-xbrl-to-pdf-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a .NET developer, you can easily convert XBRL files or financial data from XML files to PDF documents. In this article, you will learn **how to convert XBRL to PDF using C#**.'
 tags: ['Convert XBRL in Csharp', 'Convert XBRL to PDF', 'Convert XBRL to PDF in C#', 'Convert XML to PDF in C#', 'XBRL', 'XBRL to PDF', 'XBRL to PDF in C#', 'XBRL to XLSX']
 categories: ['Aspose.Finance Product Family']

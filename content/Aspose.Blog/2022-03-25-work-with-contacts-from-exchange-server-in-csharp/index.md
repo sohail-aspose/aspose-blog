@@ -3,7 +3,7 @@ title: 'Add, Update and Delete Contacts from Microsoft Exchange Server in C#'
 date: Fri, 25 Mar 2022 14:36:06 +0000
 draft: false
 url: /2022/03/25/work-with-contacts-from-exchange-server-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Microsoft Exchange Server][1] is a popular platform that provides various collaboration services like email, calendars, contacts, etc. In the [previous post][2], we have shown you how to read emails from Microsoft Exchange Server. However, you may also need to work with the contacts on the Exchange Server programmatically. In this article, you will learn **how to add, delete, or update contacts on Microsoft Exchange Server in C# .NET**.'
 tags: ['Add Contacts to MS Exchange Server Csharp', 'Delete Contacts from MS Exchange Server Csharp', 'Update a Contact on MS Exchange Server Csharp']
 categories: ['Aspose.Email Product Family']

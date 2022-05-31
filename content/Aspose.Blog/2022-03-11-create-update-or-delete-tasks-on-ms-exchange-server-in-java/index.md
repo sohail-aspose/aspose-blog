@@ -3,7 +3,7 @@ title: 'Create, Update or Delete Tasks on MS Exchange Server in Java'
 date: Fri, 11 Mar 2022 13:14:00 +0000
 draft: false
 url: /2022/03/11/create-update-or-delete-tasks-on-ms-exchange-server-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'To-do lists are used to keep track of the activities to be performed. People create such lists on paper, text editors, spreadsheets, etc. [Microsoft Exchange Server][1] also provides the feature of creating and managing to-do lists that are composed of tasks. To work with these tasks programmatically, this article shows **how to add, update, or delete tasks on MS Exchange Server in Java**.'
 tags: ['Create a Task on MS Exchange Server in Java', 'Delete a Task on MS Exchange Server in Java', 'Java API to Manage Tasks on MS Exchange Server', 'Java EWS API', 'Update a Task on MS Exchange Server in Java']
 categories: ['Aspose.Email Product Family']

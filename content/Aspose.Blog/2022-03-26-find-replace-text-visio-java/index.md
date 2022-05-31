@@ -3,7 +3,7 @@ title: 'Find and Replace Text in Visio Diagram in Java'
 date: Sat, 26 Mar 2022 08:14:00 +0000
 draft: false
 url: /2022/03/26/find-replace-text-visio-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In certain scenarios, you might want to find and replace some text in a VSD or VSDX format Visio diagram. Accordingly, this article explains how to **find and replace text in Visio drawings programmatically in Java.**'
 tags: ['Find Replace text In Visio Diagram in Java', 'Java Search and Replace Text in Visio', 'Search and Replace Text in Visio Diagram in Java']
 categories: ['Aspose.Diagram Product Family']

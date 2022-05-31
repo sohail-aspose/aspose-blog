@@ -3,7 +3,7 @@ title: 'Add Comments to PowerPoint PPT Slides in Python'
 date: Fri, 14 Jan 2022 04:18:00 +0000
 draft: false
 url: /2022/01/14/add-comments-to-ppt-slides-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Often, the content in presentations is required to be reviewed by other people to get their feedback. In PowerPoint, comments are used to write feedback about a particular word, phrase, or anything on a slide. In this article, we will cover **how to add comments to PowerPoint PPT slides programmatically in Python**. Moreover, you will learn how to read the existing comments and add replies.'
 tags: ['Add Comment Replies in PPT Slides in Python', 'Python Library to Add Comments in PowerPoint PPT', 'Read Comments from PPT Slides in Python']
 categories: ['Aspose.Slides Product Family']

@@ -3,7 +3,7 @@ title: 'Create Scanned PDF to Excel Converter with OCR using C#'
 date: Tue, 18 Jan 2022 09:47:00 +0000
 draft: false
 url: /2022/01/18/create-scanned-pdf-to-excel-converter-ocr-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Scanned PDF files contain data in image format and sometimes you may need information from such documents. In certain situations, a scanned PDF file can contain numeric information which may need to be manipulated in Excel. In accordance with that, you can perform OCR operations and create an Excel file. This article covers how to **create a scanned PDF to Excel converter with OCR feature programmatically using C#.**'
 tags: ['Convert Scanned PDF to Excel in csharp', 'Scanned PDF to Excel', 'Scanned PDF to Excel Converter', 'Scanned PDF to Excel OCR', 'Scanned PDF to Excel in C#']
 categories: ['Aspose.OCR Product Family']

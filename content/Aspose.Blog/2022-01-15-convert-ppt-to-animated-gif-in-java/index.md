@@ -3,7 +3,7 @@ title: 'Convert PowerPoint PPT to Animated GIF in Java'
 date: Sat, 15 Jan 2022 10:12:00 +0000
 draft: false
 url: /2022/01/15/convert-ppt-to-animated-gif-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Animated [GIF][1] has the ability to contain a number of images in a single file. Therefore, PowerPoint presentations are often converted to GIF files where each image in the GIF represents a slide. To perform the conversion programmatically, this article covers **how to convert a PowerPoint [PPT][2] or [PPTX][3] presentation to an animated GIF in Java**. Furthermore, you will learn how to customize frame size, the delay between slides, and frames per second programmatically.'
 tags: ['Java API for PowerPoint to GIF Conversion', 'powerpoint to gif java', 'ppt to gif java', 'pptx to gif java']
 categories: ['Aspose.Slides Product Family']

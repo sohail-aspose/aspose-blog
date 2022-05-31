@@ -3,7 +3,7 @@ title: 'Convert USDZ to STL Programmatically in Java'
 date: Mon, 28 Feb 2022 21:33:00 +0000
 draft: false
 url: /2022/02/28/usdz-to-stl-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'USDZ files are popularly used to work with augmented reality-based scenarios. They contain all the information including mapping, shading, and skeletal deformation. In some use cases, you may need to export a USDZ file to STL format. For such scenarios, this article demonstrates how to **convert USDZ to STL files in Java**.'
 tags: ['Convert USDZ to STL Format', 'Java Convert USDZ to STL', 'USDZ to STL Conversion Java', 'USDZ to STL File']
 categories: ['Aspose.3D Product Family']

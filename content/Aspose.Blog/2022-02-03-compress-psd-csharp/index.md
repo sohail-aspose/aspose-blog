@@ -3,7 +3,7 @@ title: 'Compress PSD Photoshop File in C#'
 date: Thu, 03 Feb 2022 10:50:09 +0000
 draft: false
 url: /2022/02/03/compress-psd-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Sometimes the file size can grow up to hundreds of megabytes so you may need to compress a PSD image to reduce the file size. In accordance with that, the article discusses how to **compress a PSD file programmatically in C#**.'
 tags: ['Compress PSD', 'Compress PSD in csharp', 'PSD Compression in C#', 'Reduce PSD File Size']
 categories: ['Aspose.PSD Product Family']
