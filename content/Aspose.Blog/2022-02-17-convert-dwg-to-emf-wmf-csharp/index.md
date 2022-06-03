@@ -3,7 +3,7 @@ title: 'Convert DWG to EMF or WMF in C#'
 date: Thu, 17 Feb 2022 08:13:00 +0000
 draft: false
 url: /2022/02/17/convert-dwg-to-emf-wmf-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In some cases, you may need to create WMF or EMF images to display the file contents in a picture. In accordance with such use cases, this article covers how to **convert a DWG file to an EMF or WMF image programmatically in C#**.'
 tags: ['Convert DWG to EMF', 'Convert DWG to WMF', 'DWG to EMF', 'DWG to EMF in csharp', 'DWG to WMF', 'DWG to WMF in csharp']
 categories: ['Aspose.CAD Product Family']

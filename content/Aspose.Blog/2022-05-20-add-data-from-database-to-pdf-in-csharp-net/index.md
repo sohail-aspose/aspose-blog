@@ -3,7 +3,7 @@ title: 'Add Data from Database to PDF in C# .NET'
 date: Fri, 20 May 2022 15:48:37 +0000
 draft: false
 url: /2022/05/20/add-data-from-database-to-pdf-in-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Databases are almost everywhere to store and manage the data. It is a common practice of the programmers to retrieve the data from the databases and load it into the applications. When generating [PDF][1] files programmatically, one may need to populate the document with the data in database. To accomplish that in .NET applications, this article shows **how to add data from database to PDF files in C#**.'
 tags: ['Add Data from Database to PDF Csharp', 'Add Data from Database to PDF in Entity Framework', 'DotNet API to Add Data from Database to PDF', 'DotNet PDF Generator API']
 categories: ['Aspose.PDF Product Family']

@@ -3,7 +3,7 @@ title: 'Add or Remove Hyperlinks in PowerPoint PPT in C#'
 date: Wed, 02 Feb 2022 21:25:00 +0000
 draft: false
 url: /2022/02/02/work-with-hyperlinks-in-powerpoint-ppt-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Hyperlinks in documents are used to navigate from one location to another. Generally, in PowerPoint presentations, they are used to insert URLs of webpages. You can create a hyperlink of text, image, shape, or a media element in PowerPoint PPT slides. In this article, you will learn **how to add hyperlinks to PowerPoint PPT/PPTX in C#**. Moreover, we will cover how to remove hyperlinks from PPT slides programmatically.'
 tags: ['add hyperlink to ppt in csharp', 'add hyperlink to ppt slides in csharp', 'add hyperlink to pptx in csharp', 'insert hyperlink to ppt in csharp', 'remove hyperlink from ppt in csharp']
 categories: ['Aspose.Slides Product Family']

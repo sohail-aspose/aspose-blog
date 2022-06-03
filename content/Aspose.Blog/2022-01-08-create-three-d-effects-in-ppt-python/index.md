@@ -3,7 +3,7 @@ title: 'Apply 3D Effects in PowerPoint PPT using Python'
 date: Sat, 08 Jan 2022 06:08:00 +0000
 draft: false
 url: /2022/01/08/create-three-d-effects-in-ppt-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'MS PowerPoint provides 3D effects to make the presentations more attractive. You can use 3D text, shapes, and images to enhance the interactivity of the content. In this article, you will learn **how to apply the 3D effects in PowerPoint PPT programmatically in Python**. We will cover how to create 3D effects for text, shapes, and images in the presentations.'
 tags: ['Apply 3D Effects to an Image in PowerPoint Python', 'Create a 3D Shape in PowerPoint in Python', 'Create a 3D Text in PowerPoint in Python', 'Python Library to Create 3D Effects in PowerPoint']
 categories: ['Aspose.Slides Product Family']

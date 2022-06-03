@@ -3,7 +3,7 @@ title: 'Create Exchange Distribution List in C# .NET'
 date: Sun, 06 Mar 2022 18:08:00 +0000
 draft: false
 url: /2022/03/06/create-exchange-distribution-list-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[MS Exchange Server][1] provides the feature of creating distribution lists or groups. These distribution lists allow you to send emails to a group of people without requiring you to enter individual email addresses. In this article, you will learn **how to create a distribution list on MS Exchange Server in C# .NET**. Furthermore, we will cover how to fetch a distribution list programmatically.'
 tags: ['Create an MS Exchange Distribution List Csharp', 'Fetch a Distribution List from MS Exchange Server Cshapr', 'Work with Exchange Distribution List in CSharp']
 categories: ['Aspose.Email Product Family']

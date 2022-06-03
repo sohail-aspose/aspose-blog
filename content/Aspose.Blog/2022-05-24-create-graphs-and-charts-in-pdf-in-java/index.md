@@ -3,7 +3,7 @@ title: 'Create Graphs and Charts in PDF in Java'
 date: Tue, 24 May 2022 17:16:56 +0000
 draft: false
 url: /2022/05/24/create-graphs-and-charts-in-pdf-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Graphs and charts are used to visually represent the data in [PDF][1] files. Furthermore, you can use them to graphically describe the flow of the activities or operations in a system such as flow charts. In this article, you will learn **how to create graphs and charts in PDF files programmatically in Java**. We will explicitly cover how to create different graphical objects in a PDF file.'
 tags: ['Add a Curve in PDF in Java', 'Add a Line in PDF in Java', 'Create a Circle in PDF in Java', 'Create a Rectangle in PDF in Java', 'Create an Arc in PDF in Java', 'Create an Ellipse in PDF in Java']
 categories: ['Aspose.PDF Product Family']

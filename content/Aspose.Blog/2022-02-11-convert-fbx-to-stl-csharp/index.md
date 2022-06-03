@@ -3,7 +3,7 @@ title: 'Convert FBX to an STL File in C#'
 date: Fri, 11 Feb 2022 12:34:51 +0000
 draft: false
 url: /2022/02/11/convert-fbx-to-stl-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In certain scenarios, you may need to convert an FBX file to an STL file. In accordance with such use cases, this article discusses how to **convert FBX to STL programmatically in C#**.'
 tags: ['Convert FBX to STL in csharp', 'FBX to STL', 'FBX to STL Conversion', 'FBX to STL csharp']
 categories: ['Aspose.3D Product Family']

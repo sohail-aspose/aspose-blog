@@ -3,7 +3,7 @@ title: 'Convert MHT or MHTML to Word DOCX File in C#'
 date: Tue, 19 Apr 2022 08:45:00 +0000
 draft: false
 url: /2022/04/19/convert-mht-mhtml-to-word-docx-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In certain cases, you may need to convert an MHT or MHTML file to a Word document. Accordingly, this article covers how to **convert an MHT or MHTML file to a Word document in DOCX format programmatically in C#**.'
 tags: ['Convert MHTML to Word in csharp', 'MHT to DOCX', 'MHT to Word', 'MHTML to DOCX', 'MHTML to Word', 'csharp MHT to Word']
 categories: ['Aspose.HTML Product Family']

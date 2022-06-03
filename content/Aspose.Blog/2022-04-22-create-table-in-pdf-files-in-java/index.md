@@ -3,7 +3,7 @@ title: 'Create Table in PDF Files in Java'
 date: Fri, 22 Apr 2022 18:54:00 +0000
 draft: false
 url: /2022/04/22/create-table-in-pdf-files-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'A table lets the readers go through the data quickly without reading a lot of text. Therefore, tables are considered an integral part of the documents. While working on [PDF][1] automation and generating the PDF files programmatically, you may come across the need to create tables very often. To accomplish that, this article covers **how to create tables in PDF files using Java**.'
 tags: ['Apply Column Adjustment to PDF Tables Java', 'Create a Table in a PDF File in Java', 'Java API to Create Tables in PDF', 'Java PDF Generator API', 'Set Borders and Margins in PDF Tables in Java']
 categories: ['Aspose.PDF Product Family']

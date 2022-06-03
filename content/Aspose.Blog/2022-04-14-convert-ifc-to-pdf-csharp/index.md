@@ -3,7 +3,7 @@ title: 'Convert IFC to PDF in C#'
 date: Thu, 14 Apr 2022 09:44:00 +0000
 draft: false
 url: /2022/04/14/convert-ifc-to-pdf-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Sometimes you might need to convert an IFC file to PDF format because only a limited number of applications support viewing the IFC files. Accordingly, this article covers how to **convert an IFC file to PDF format programmatically in C#**.'
 tags: ['Convert IFC to PDF', 'IFC to PDF', 'IFC to PDF conversion', 'IFC to PDF in csharp']
 categories: ['Aspose.CAD Product Family']

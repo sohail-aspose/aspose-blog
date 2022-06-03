@@ -3,7 +3,7 @@ title: 'Convert EPS or PS to SVG in C#'
 date: Tue, 08 Mar 2022 08:25:00 +0000
 draft: false
 url: /2022/03/08/convert-eps-ps-to-svg-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'EPS or PS files contain vector graphics and are commonly used by designers. They can contain high-resolution images including shapes or text and are often used for billboard printing or building wraps. In some scenarios, you might need to convert an EPS or PS file to an SVG image. This article covers how to **convert EPS or PS PostScript files to SVG in C#.**'
 tags: ['Convert EPS PS to SVG in csharp', 'EPS to SVG using csharp', 'PS to SVG using csharp', 'PostScript to SVG Conversion']
 categories: ['Aspose.Page Product Family']

@@ -3,7 +3,7 @@ title: 'Generate and Display Barcode Image in ASP.NET MVC'
 date: Mon, 04 Apr 2022 16:16:39 +0000
 draft: false
 url: /2022/04/04/generate-and-display-barcode-image-in-asp-net-mvc/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a .NET developer, you can easily generate various types of barcodes and display them in Razor pages. In this article, you will learn **how to generate and display a barcode in an ASP.NET MVC application.**'
 tags: ['.NET BarCode Generation API', 'Display Barcode Image', 'Display Barcode in ASP.NET MVC', 'Generate Barcode in ASP.NET MVC', 'Generate Barcodes', 'MVC Barcode Generator']
 categories: ['Aspose.BarCode Product Family']

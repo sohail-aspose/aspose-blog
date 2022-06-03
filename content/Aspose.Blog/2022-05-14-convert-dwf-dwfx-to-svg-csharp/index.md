@@ -3,7 +3,7 @@ title: 'Convert DWF or DWFX to SVG in C#'
 date: Sat, 14 May 2022 21:34:00 +0000
 draft: false
 url: /2022/05/14/convert-dwf-dwfx-to-svg-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'DWF or DWFX files can contain design data and graphics in one or multiple drawings and sheet sets. Such files are often used to the design data for review or approval purposes. Whereas, SVG images are famous because of their scalability without affecting the quality of the image. In some use cases, you may need to convert a DWF or DWFX file to an SVG image. Accordingly, this article explains how to **convert a DWF or DWFX file to an SVG image programmatically in C#.**'
 tags: ['DWF to SVG', 'DWFX to SVG', 'DWFX to SVG in csharp']
 categories: ['Aspose.CAD Product Family']

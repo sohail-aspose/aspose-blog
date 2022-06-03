@@ -3,7 +3,7 @@ title: 'Convert PUB to PPT/PPTX Presentation in C#'
 date: Tue, 11 Jan 2022 09:42:00 +0000
 draft: false
 url: /2022/01/11/convert-pub-to-pptx-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Microsoft Publisher, PUB, files are often used for large scale printing of documents like brochures, booklets, posters, etc. In certain situations, you may need to convert a PUB file to a Presentation file as a PPT or PPTX file. This article covers how to **convert the publisher files programmatically in C#**.'
 tags: ['Convert PUB to PPTX in csharp', 'PUB to PPT', 'PUB to PPTX', 'PUB to Presentation']
 categories: ['Aspose.PUB Product Family']

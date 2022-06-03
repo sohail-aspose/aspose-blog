@@ -3,7 +3,7 @@ title: 'Create Thumbnails for PPT Slides in Python'
 date: Fri, 28 Jan 2022 07:21:47 +0000
 draft: false
 url: /2022/01/28/create-thumbnails-for-ppt-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Thumbnails][1] are small-sized images that make it easier to look at or scroll through the list of images. They are also used in MS PowerPoint to list the slides and navigate in a PPT. While creating a PPT viewer application, you may need to generate thumbnail images for the slides. To accomplish that, this article covers **how to create thumbnails for [PPTX][2] or [PPT][3] slides programmatically in Python**.'
 tags: ['Create PPT Viewer in Python', 'Create Thumbnails for PPT Slides in Python', 'Generate Thumbnails for PPT Slides Show in Python', 'Python Library to Create Thumbnails for PPT Slides']
 categories: ['Aspose.Slides Product Family']

@@ -3,7 +3,7 @@ title: 'Download Youku Video Programmatically in C#'
 date: Fri, 04 Mar 2022 11:42:00 +0000
 draft: false
 url: /2022/03/04/download-youku-video-csharp-downloader/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Youku is China’s famous online video hosting and streaming platform. In some specific scenarios, you may need to download a video from Youku. This article covers how to **download a Youku video programmatically in C#**.'
 tags: ['Download Youku Video', 'Download Youku Video in .NET', 'Download Youku Video in C#', 'YouKu Video Downloader', 'Youku Video Downloader in C#']
 categories: ['Aspose.HTML Product Family']

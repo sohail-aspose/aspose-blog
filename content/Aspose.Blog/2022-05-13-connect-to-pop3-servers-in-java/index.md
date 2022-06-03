@@ -3,7 +3,7 @@ title: 'Connect to POP3 Servers in Java'
 date: Fri, 13 May 2022 05:40:08 +0000
 draft: false
 url: /2022/05/13/connect-to-pop3-servers-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Post Office Protocol][1] (POP3) is an email protocol that is used to fetch emails from the mailing servers. While implementing email clients and working with POP3 servers, you will first need to establish a connection to access the mailbox. To achieve this, in this article, you will learn **how to connect to POP3 servers in Java**.'
 tags: ['Connect to a POP3 Server using Java', 'Connect to a POP3 Server via HTTP Proxy in Java', 'Connect to a POP3 Server via SOCKS Proxy in Java', 'Java API to Connect POP3 Servers']
 categories: ['Aspose.Email Product Family']

@@ -3,7 +3,7 @@ title: 'Convert PowerPoint PPT to Animated GIF in Python'
 date: Thu, 24 Feb 2022 14:28:09 +0000
 draft: false
 url: /2022/02/24/convert-ppt-to-gif-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'In various cases, PowerPoint presentations are converted to other formats such as HTML, images, etc. It is usually done to avoid dependency on MS PowerPoint to view the presentations. In accordance with that, this article shows **how to convert a PowerPoint [PPT][1] or [PPTX][2] presentation to an animated [GIF][3] in Python**. Moreover, we will cover how to set frame size, the delay between slides, and frames per second programmatically.'
 tags: ['Python PowerPoint to GIF Converter', 'convert powerpoint to gif in python', 'convert ppt to gif in python', 'convert pptx to gif in python']
 categories: ['Aspose.Slides Product Family']

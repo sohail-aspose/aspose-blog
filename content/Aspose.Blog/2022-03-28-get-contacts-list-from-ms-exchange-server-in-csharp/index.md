@@ -3,7 +3,7 @@ title: 'Get Contacts List from Microsoft Exchange Server in C#'
 date: Mon, 28 Mar 2022 14:30:13 +0000
 draft: false
 url: /2022/03/28/get-contacts-list-from-ms-exchange-server-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Microsoft Exchange Server][1] is a well-known platform for email, calendaring and other collaboration services. Often you may need to connect to your MS Exchange Server and retrieve the list of contacts programmatically. To achieve that, this article shows **how to get the contacts list from Microsoft Exchange Server in C# .NET**.'
 tags: ['Csharp DotNET API to Retrieve Contacts from MS Exchange Server', 'Get Contacts List from MS Exchange Server in Csharp', 'Get a Contact using ID from Exchange Server Csharp']
 categories: ['Aspose.Email Product Family']

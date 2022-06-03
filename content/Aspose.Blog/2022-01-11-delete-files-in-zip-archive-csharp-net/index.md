@@ -3,7 +3,7 @@ title: 'Delete Files in a ZIP Archive in C# .NET'
 date: Tue, 11 Jan 2022 16:18:25 +0000
 draft: false
 url: /2022/01/11/delete-files-in-zip-archive-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: "While working with archives from within your .NET applications, you may need to manipulate files inside a [ZIP][1]. In the [previous post][2], you have seen how to add files/folders in a ZIP archive. In this article, you will learn **how to delete files inside the ZIP archives programmatically in C#**. So let's begin."
 tags: ['Delete Files from ZIP Archives Csharp', 'Delete a ZIP folder programmatically in Csharp', 'Delete a directory in ZIP in Csharp net', 'Delete folders inside ZIP archives in csharp']
 categories: ['Aspose.ZIP Product Family']

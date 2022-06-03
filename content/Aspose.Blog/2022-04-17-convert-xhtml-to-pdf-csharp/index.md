@@ -3,7 +3,7 @@ title: 'Convert XHTML to PDF in C#'
 date: Sun, 17 Apr 2022 12:10:00 +0000
 draft: false
 url: /2022/04/17/convert-xhtml-to-pdf-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'XHTML is a stricter and XML based version of the HTML files. It was developed to enhance interoperability with different data formats. Whereas, PDF files are popular owing to their support in multiple platforms and operating systems. In some cases, you may need to convert an XHTML file to PDF format. Accordingly, this article covers how to **convert an XHTML file to a PDF document programmatically in C#.**'
 tags: ['Convert XHTML to PDF Document', 'XHTML to PDF Converter', 'XHTML to PDF in csharp']
 categories: ['Aspose.HTML Product Family']

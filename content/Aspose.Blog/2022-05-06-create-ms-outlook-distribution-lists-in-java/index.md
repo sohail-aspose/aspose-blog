@@ -3,7 +3,7 @@ title: 'Create MS Outlook Distribution Lists in Java'
 date: Fri, 06 May 2022 17:06:00 +0000
 draft: false
 url: /2022/05/06/create-ms-outlook-distribution-lists-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: "Email distribution lists make it possible to send emails to a group of people without writing individual email addresses. You can create a number of lists based on types of people such as official, social, etc. [MS Outlook][1] also allows you to make the distribution lists and often you may need to create such lists programmatically. So let's see **how to create and read MS Outlook distribution lists programmatically in Java**."
 tags: ['Create a Distribution List in MS Outlook in Java', 'Java API to Create MS Outlook Distribution Lists', 'Java MS Outlook Library', 'Read an MS Outlook Distribution List in Java']
 categories: ['Aspose.Email Product Family']

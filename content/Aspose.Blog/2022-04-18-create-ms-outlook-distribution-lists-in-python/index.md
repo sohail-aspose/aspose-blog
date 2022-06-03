@@ -3,7 +3,7 @@ title: 'Create MS Outlook Distribution Lists in Python'
 date: Mon, 18 Apr 2022 17:26:35 +0000
 draft: false
 url: /2022/04/18/create-ms-outlook-distribution-lists-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'MS Outlook allows creating the distribution lists to send emails to multiple people without writing individual email addresses. Furthermore, you can create different lists based on types of people such as official, social, etc. While working with MS Outlook programmatically, you can create and save a distribution list on disk in [PST][1] format. This PST file can be loaded and utilized in MS Outlook or from within your application. In this article, you will learn **how to create MS Outlook distribution lists in Python**.'
 tags: ['Create a Distribution List in MS Outlook in Python', 'Python Library to Create MS Outlook Distribution Lists', 'Python Outlook Library']
 categories: ['Aspose.Email Product Family']

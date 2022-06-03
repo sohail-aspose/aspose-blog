@@ -3,7 +3,7 @@ title: 'Create a To-Do List in a OneNote Document (.ONE) using C#'
 date: Wed, 09 Feb 2022 10:55:00 +0000
 draft: false
 url: /2022/02/09/todolist-onenote-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'To-Do lists are commonly used for project management or personal task management to stay organized. OneNote (.ONE) files can be used to create to-do lists for planning tasks. In accordance with that, the article discusses how to **create a To-Do list on the OneNote file programmatically using C#**.'
 tags: ['csharp onenote to do list', 'one note to do list', 'onenote for programmers', 'onenote reminders', 'onenote to do list with dates', 'onenote todolist in csharp', 'using onenote for project management', 'using onenote to stay organized']
 categories: ['Aspose.Note Product Family']

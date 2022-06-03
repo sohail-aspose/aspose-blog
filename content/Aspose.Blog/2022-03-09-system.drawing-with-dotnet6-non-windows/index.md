@@ -3,7 +3,7 @@ title: 'Using System.Drawing with .NET 6 on non-Windows Platform'
 date: Wed, 09 Mar 2022 09:18:00 +0000
 draft: false
 url: /2022/03/09/system.drawing-with-dotnet6-non-windows/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'The System.Drawing.Common is the actual implementation of the System.Drawing library. However, it is now attributed as a Windows-specific library in .NET 6 Framework. Therefore, you can use Aspose.Drawing to **create a cross-platform .NET 6 Framework-based application.**'
 tags: ['System.Drawing in macOS', 'System.Drawing in non-windows platform', 'system.drawing in linux']
 categories: ['Aspose.Drawing Product Family']

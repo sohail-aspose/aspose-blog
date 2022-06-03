@@ -3,7 +3,7 @@ title: 'Convert USDZ to OBJ File in Java'
 date: Mon, 17 Jan 2022 21:33:00 +0000
 draft: false
 url: /2022/01/17/convert-usdz-obj-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'USDZ is an unencrypted and uncompressed ZIP archive for storing Universal Scene Description files. They are popularly used by different organizations to show their products online with the help of augmented reality. However, you might need to convert USDZ to an OBJ file, in some use cases. Accordingly, this article explains how to **convert a USDZ file to an OBJ file programmatically in Java.**'
 tags: ['Convert USDZ to OBJ', 'Convert USDZ to OBJ Java', 'Export USDZ to OBJ']
 categories: ['Aspose.3D Product Family']

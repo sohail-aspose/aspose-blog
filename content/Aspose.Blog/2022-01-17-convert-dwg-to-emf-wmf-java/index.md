@@ -3,7 +3,7 @@ title: 'Convert DWG to EMF or WMF in Java'
 date: Mon, 17 Jan 2022 08:41:00 +0000
 draft: false
 url: /2022/01/17/convert-dwg-to-emf-wmf-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'DWG files contain vector image data and metadata written with binary coding and are widely used for designing purposes. In particular scenarios, you may want to convert DWG to image format. Considering such requirements, this article covers how to **convert a DWG file to an EMF or WMF image programmatically in Java**.'
 tags: ['Convert DWG to EMF', 'Convert DWG to WMF', 'DWG to EMF', 'DWG to EMF Converter', 'DWG to WMF', 'DWG to WMF Converter']
 categories: ['Aspose.CAD Product Family']

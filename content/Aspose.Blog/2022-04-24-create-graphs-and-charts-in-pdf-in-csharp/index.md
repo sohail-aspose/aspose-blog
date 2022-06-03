@@ -3,7 +3,7 @@ title: 'Create Graphs and Charts in PDF in C#'
 date: Sun, 24 Apr 2022 07:11:00 +0000
 draft: false
 url: /2022/04/24/create-graphs-and-charts-in-pdf-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: ''
 tags: ['Create an Arc in PDF in Csharp', 'Create an Circle in PDF in Csharp', 'Create an Ellipse in PDF in Csharp', 'Create an Line in PDF in Csharp', 'Create an Rectangle in PDF in Csharp', 'DotNet API to Create Graphs and Charts in PDF']
 categories: ['Aspose.PDF Product Family']

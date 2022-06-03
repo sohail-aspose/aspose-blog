@@ -3,7 +3,7 @@ title: 'Using System.Drawing in Blazor WebAssembly App in C#'
 date: Sat, 21 May 2022 22:43:00 +0000
 draft: false
 url: /2022/05/21/use-system-drawing-blazor-webassembly-app-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Blazor framework is widely used to build interactive and reusable web UI in web technologies. Moreover, Blazor WebAssembly apps execute directly in the browser on a WebAssembly-based .NET runtime. This article covers how to use **System.Drawing library in a Blazor WebAssembly app.**'
 tags: ['Aspose.Drawing in Blazor WebAssembly', 'Blazor WebAssembly System.Drawing', 'System.Drawing Blazor WebAssembly App', 'System.Drawing WebAssembly']
 categories: ['Aspose.Drawing Product Family']

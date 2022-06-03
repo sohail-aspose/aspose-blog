@@ -3,7 +3,7 @@ title: 'Generate Thumbnails for PDF Files in Java'
 date: Fri, 15 Apr 2022 16:14:00 +0000
 draft: false
 url: /2022/04/15/generate-thumbnails-for-pdf-files-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'While embedding the [PDF][1] documents into a web application you may need to generate a thumbnail. In other scenarios, such as creating a PDF viewer, you may need to create a thumbnail for each page in the PDF. In this article, we will show you **how to generate thumbnails of a PDF file programmatically in Java**. We will explicitly cover how to create a thumbnail of a particular page or all the pages in a PDF file.'
 tags: ['Generate Thumbnails of all Pages in PDF Java', 'Generate a Thumbnail of a PDF File Java', 'Java API to Generate Thumbnails of PDF', 'Java PDF Generator API']
 categories: ['Aspose.PDF Product Family']

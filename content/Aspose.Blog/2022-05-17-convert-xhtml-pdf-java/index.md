@@ -3,7 +3,7 @@ title: 'Convert XHTML to PDF in Java'
 date: Tue, 17 May 2022 12:10:00 +0000
 draft: false
 url: /2022/05/17/convert-xhtml-pdf-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'XHTML is a text-based file format with markup in the XML format. This format is widely used because of being generic and involves less scripting. Whereas, PDF files are fixed-layout format files that are popularly used because of being platform-independent. In certain cases, you may need to convert XHTML files to PDF format. In accordance with such use cases, this article demonstrates how to convert **XHTML to PDF format in Java.**'
 tags: ['Convert XHTML to PDF file', 'XHTML to PDF', 'XHTML to PDF in Java']
 categories: ['Aspose.HTML Product Family']

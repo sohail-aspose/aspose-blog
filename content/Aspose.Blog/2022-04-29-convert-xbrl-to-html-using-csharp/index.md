@@ -3,7 +3,7 @@ title: 'Convert XBRL to HTML using C#'
 date: Fri, 29 Apr 2022 09:51:50 +0000
 draft: false
 url: /2022/04/29/convert-xbrl-to-html-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a .NET developer, you can easily convert XBRL files or financial data from XML files to HTML webpages programmatically. In this article, you will learn **how to convert XBRL to HTML using C#**.'
 tags: ['Convert XBRL in Csharp', 'Convert XBRL to HTML', 'Convert XBRL to HTML in C#', 'View XBRL in Browser C#', 'XBRL', 'XBRL to HTML', 'XBRL to HTML in C#', 'XBRL to XLSX']
 categories: ['Aspose.Cells Product Family', 'Aspose.Finance Product Family']

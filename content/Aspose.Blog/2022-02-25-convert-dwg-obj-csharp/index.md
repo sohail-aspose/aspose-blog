@@ -3,7 +3,7 @@ title: 'Convert DWG to OBJ File in C#'
 date: Fri, 25 Feb 2022 09:08:00 +0000
 draft: false
 url: /2022/02/25/convert-dwg-obj-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'You may need to render such drawings in 3D modeling applications for visualizing or manipulating the designs. You can convert the DWG file to a 3D Object file in OBJ format. This article covers how to **convert a DWG drawing to an OBJ file programmatically in C#.**'
 tags: ['Convert DWG to OBJ', 'Convert DWG to OBJ in csharp', 'DWG to OBJ', 'DWG to OBJ Conversion', 'DWG to OBJ in csharp']
 categories: ['Aspose.CAD Product Family']

@@ -3,7 +3,7 @@ title: 'Convert FBX to STL in Java'
 date: Tue, 11 Jan 2022 20:04:00 +0000
 draft: false
 url: /2022/01/11/convert-fbx-to-stl-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'in certain cases, you might want to convert an FBX file to STL format. Accordingly, this article covers **how to convert FBX to STL programmatically using Java.**'
 tags: ['Convert FBX to STL', 'Convert FBX to STL in java', 'FBX to STL', 'Java convert FBX to STL']
 categories: ['Aspose.3D Product Family']

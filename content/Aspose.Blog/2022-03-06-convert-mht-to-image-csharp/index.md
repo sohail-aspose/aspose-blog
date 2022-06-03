@@ -3,7 +3,7 @@ title: 'Convert MHT to an Image in C#'
 date: Sun, 06 Mar 2022 08:25:00 +0000
 draft: false
 url: /2022/03/06/convert-mht-to-image-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'You might need to convert an MHT file to an image for previewing the contents as a thumbnail. In accordance with such requirements, this article covers how to **convert an MHT or MHTML file to an image in JPG, PNG, and other image formats programmatically in C#.**'
 tags: ['Convert MHT to Image', 'MHT to JPG csharp', 'MHT to PNG csharp']
 categories: ['Aspose.HTML Product Family']

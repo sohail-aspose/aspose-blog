@@ -3,7 +3,7 @@ title: 'Convert DWG to DWF Programmatically in C#'
 date: Fri, 11 Mar 2022 08:55:00 +0000
 draft: false
 url: /2022/03/11/convert-dwg-to-dwf-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'DWG files are basically CAD drawings containing vector image data. Designers or architects frequently work with DWG format files. In some cases, you might need to convert a DWG file to a DWF format. In accordance with such requirements, this article covers how to **convert a DWG to a DWF file programmatically in C#.**'
 tags: ['Convert DWG to DWF', 'DWG to DWF', 'DWG to DWF csharp']
 categories: ['Aspose.CAD Product Family']

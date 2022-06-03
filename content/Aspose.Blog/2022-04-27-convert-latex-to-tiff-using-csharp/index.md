@@ -3,7 +3,7 @@ title: 'Convert LaTeX to TIFF using C#'
 date: Wed, 27 Apr 2022 09:33:31 +0000
 draft: false
 url: /2022/04/27/convert-latex-to-tiff-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a C# developer, we can easily convert LaTeX source files (TeX or LTX) to TIFF images programmatically. In this article, you will learn **how to convert LaTeX to TIFF using C#**.'
 tags: ['Convert LTX to TIFF using C#', 'Convert TeX to TIFF using C#', 'LTX to TIFF C#', 'LaTeX to TIFF', 'LaTeX to TIFF C#', 'TeX to TIFF C#']
 categories: ['Aspose.TeX Product Family']

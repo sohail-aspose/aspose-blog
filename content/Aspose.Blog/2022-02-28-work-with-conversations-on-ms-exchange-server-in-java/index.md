@@ -3,7 +3,7 @@ title: 'Work with Conversations on MS Exchange Server in Java'
 date: Mon, 28 Feb 2022 07:41:00 +0000
 draft: false
 url: /2022/02/28/work-with-conversations-on-ms-exchange-server-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Often, an email is composed of multiple messages (or replies) forming a thread. In [Microsoft Exchange Server][1], these threads are termed as conversations. While working with MS Exchange Server programmatically, you may need to access and manage the conversations. To accomplish that, in this article, you will learn **how to find, copy, move and delete conversations on Microsoft Exchange Server in Java**.'
 tags: ['Copy a Conversation on MS Exchange Server in Java', 'Delete a Conversation on MS Exchange Server in Java', 'Find Conversation on MS Exchange Server in Java', 'Java API to Work with Conversations on MS Exchange Server', 'Move a Conversation on MS Exchange Server in Java']
 categories: ['Aspose.Email Product Family']

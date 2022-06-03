@@ -3,7 +3,7 @@ title: 'Create Table in PDF Files using C# .NET'
 date: Thu, 19 May 2022 15:39:16 +0000
 draft: false
 url: /2022/05/19/create-table-in-pdf-files-in-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'Tables are used to represent data in the form of rows and columns. It lets the readers go through the data quickly without reading a lot of text. When generating the [PDF][1] files programmatically, you may often come across the requirement of creating tables. In accordance with that, this article covers **how to create tables in PDF files in C# .NET**.'
 tags: ['Apply Auto Fit Settings to PDF Tables in Csharp', 'Create a Table in a PDF File in Csharp', 'DotNet API to Create Tables in PDF', 'DotNet PDF Generator API', 'Set Borders and Margins in PDF Tables in Csharp']
 categories: ['Aspose.PDF Product Family']

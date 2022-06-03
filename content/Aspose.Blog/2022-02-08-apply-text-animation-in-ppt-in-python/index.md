@@ -3,7 +3,7 @@ title: 'Apply Animation Effects to Text in PowerPoint PPT using Python'
 date: Tue, 08 Feb 2022 17:26:00 +0000
 draft: false
 url: /2022/02/08/apply-text-animation-in-ppt-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'MS PowerPoint provides various animation effects which are used to make the presentations interesting and draw the attention of the viewers. These animations can be applied to slides, text, shapes, or other elements. In this article, we will focus on animating text in a PowerPoint PPT. Particularly, you will learn **how to apply and retrieve text animation programmatically in Python**.'
 tags: ['Apply Animation to Text in PowerPoint', 'Create animated text in PowerPoint PPT in Python', 'Get Animation Effects from a Text in PowerPoint', 'Python Library to Apply Animation to Text in PowerPoint']
 categories: ['Aspose.Slides Product Family']

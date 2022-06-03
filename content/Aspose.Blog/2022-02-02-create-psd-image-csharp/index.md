@@ -3,7 +3,7 @@ title: 'Create a PSD Image in C#'
 date: Wed, 02 Feb 2022 09:23:18 +0000
 draft: false
 url: /2022/02/02/create-psd-image-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'PSD files are used to create images using different layers containing shapes, text, effects, etc. You may need to create a PSD image programmatically in your applications. In accordance with such image processing scenarios, this article covers how to **create a PSD image programmatically in C#**.'
 tags: ['Create PSD File', 'Create PSD Image', 'Create PSD in csharp', 'Make PSD File', 'Make PSD in C#']
 categories: ['Aspose.PSD Product Family']

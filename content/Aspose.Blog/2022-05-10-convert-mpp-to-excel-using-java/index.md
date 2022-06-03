@@ -3,7 +3,7 @@ title: 'Convert MPP to Excel using Java'
 date: Tue, 10 May 2022 04:56:18 +0000
 draft: false
 url: /2022/05/10/convert-mpp-to-excel-using-java/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a Java developer, you can easily export project data from MPP files to Excel spreadsheets (XLSX) programmatically. In this article, you will learn **how to convert MPP to Excel using Java**.'
 tags: ['Convert MPP to Excel in Java', 'Convert MPP to XLSX in Java', 'Export Project Data to Excel', 'MPP to Excel using Java', 'MPP to XLSX Converter', 'MPP to XLSX using Java', 'Save Project as Excel']
 categories: ['Aspose.Tasks Product Family']

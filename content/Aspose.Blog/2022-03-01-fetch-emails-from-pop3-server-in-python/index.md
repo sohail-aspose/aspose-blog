@@ -3,7 +3,7 @@ title: 'Fetch Emails from POP3 Server in Python'
 date: Tue, 01 Mar 2022 18:09:00 +0000
 draft: false
 url: /2022/03/01/fetch-emails-from-pop3-server-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: ''
 tags: ['Connect to a POP3 Server in Python', 'Fetch Emails from Mailbox on POP3 Server in Python', 'Python Library to Fetch Emails from POP3 Server', 'python email library']
 categories: ['Aspose.Email Product Family']

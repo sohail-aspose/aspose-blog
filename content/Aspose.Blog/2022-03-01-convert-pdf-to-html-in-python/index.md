@@ -3,7 +3,7 @@ title: 'Convert PDF Files to HTML in Python'
 date: Tue, 01 Mar 2022 07:41:16 +0000
 draft: false
 url: /2022/03/01/convert-pdf-to-html-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[PDF][1] is a widely used document format that provides cross-platform support. Thus, you can open the PDF files without worrying about the underlying platform. However, in certain cases, you have to convert the PDF files to [HTML][2], for example for embedding them into web pages. In this article, you will learn **how to convert a PDF document to an HTML file programmatically in Python**.'
 tags: ['Convert PDF to HTML Python', 'Python PDF to HTML Converter Library']
 categories: ['Aspose.Words Product Family']

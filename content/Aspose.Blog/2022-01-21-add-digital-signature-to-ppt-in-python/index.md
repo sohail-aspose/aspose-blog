@@ -3,7 +3,7 @@ title: 'Add Digital Signature to PowerPoint PPT in Python'
 date: Fri, 21 Jan 2022 09:46:15 +0000
 draft: false
 url: /2022/01/21/add-digital-signature-to-ppt-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'The [digital signature][1] is a well-known and commonly used way of protecting digital documents. It makes it easier to validate the authenticity of the content in a document. Thus, you can identify if someone attempted to tamper with the document. MS PowerPoint also allows you to sign the [PPT][2] or [PPTX][3] presentations with digital signatures. To automate this feature programmatically, this article covers **how to add digital signatures to PowerPoint PPT files in Python**.'
 tags: ['Add Digital Signature to PPT in Python', 'Add Digital Signature to PowerPoint in Python', 'Python Library to Digitally Sign PowerPoint Files', 'Verify a Digitally Signed PPT in Python']
 categories: ['Aspose.Slides Product Family']

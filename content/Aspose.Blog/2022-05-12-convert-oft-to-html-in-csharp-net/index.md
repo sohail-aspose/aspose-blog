@@ -3,7 +3,7 @@ title: 'Convert OFT Files to HTML in C# .NET'
 date: Thu, 12 May 2022 06:08:44 +0000
 draft: false
 url: /2022/05/12/convert-oft-to-html-in-csharp-net/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[OFT][1] is a template format for the emails used by MS Outlook. In an OFT, you can define the layout of the emails, which can be populated by the content of the messages. This template could be pre-formatted and dynamically used for creating custom messages. In certain cases, you may need to convert the OFT files to HTML format programmatically. To achieve that, this article shows **how to convert an OFT file to HTML in C# .NET**.'
 tags: ['Convert a OFT File to HTML in Csharp', 'DotNeT API for OFT to HTML Conversion']
 categories: ['Aspose.Email Product Family']

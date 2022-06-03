@@ -3,7 +3,7 @@ title: 'Convert Visio VSD or VSDX to XAML in C#'
 date: Tue, 29 Mar 2022 22:51:58 +0000
 draft: false
 url: /2022/03/29/convert-vsd-vsdx-to-xaml-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'You may need to **convert a Visio file in VSDX or VSD format to a XAML file**. This article covers how to convert a VSD or VSDX diagram to a XAML file programmatically in C#.'
 tags: ['Export VSD to XAML', 'VSD to XAML', 'VSDX to XAML', 'Visio to XAML', 'Visio to XAML in csharp', 'Visio to XAML in dotnet']
 categories: ['Aspose.Diagram Product Family']

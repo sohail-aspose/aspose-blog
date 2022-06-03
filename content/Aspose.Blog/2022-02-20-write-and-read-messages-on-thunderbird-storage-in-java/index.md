@@ -3,7 +3,7 @@ title: 'Write and Read Messages on Thunderbird Storage in Java'
 date: Sun, 20 Feb 2022 17:11:00 +0000
 draft: false
 url: /2022/02/20/write-and-read-messages-on-thunderbird-storage-in-java/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Thunderbird][1] is an open-source application that allows you to configure your email accounts and access email messages from them. The application makes it possible to manage emails from multiple accounts in a single place. In certain cases, you may need to create and access email messages in Thunderbird storage programmatically. In accordance with that, this article shows **how to write and read messages on Thunderbird storage in Java**.'
 tags: ['Java API to Write and Read Messages in Thunderbird Storage', 'Read Messages from Thunderbird Storage in Java', 'Write Messages on Thunderbird Storage in Java']
 categories: ['Aspose.Email Product Family']

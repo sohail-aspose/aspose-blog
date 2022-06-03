@@ -3,7 +3,7 @@ title: 'Find and Replace Text in Visio Files in C#'
 date: Tue, 26 Apr 2022 19:58:00 +0000
 draft: false
 url: /2022/04/26/find-replace-visio-text-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Visio files are used to create diagrams like organizational charts, flow charts, etc. Such diagrams comprise different shapes which can also contain text information. In some use cases, you may need to update the text in any shape of a Visio diagram. In accordance with such requirements, this article covers how to **find and replace text in Visio drawings programmatically in C#**.'
 tags: ['find and replace text in visio', 'find and replace visio text in csharp', 'search and replace text in VSD VSDX']
 categories: ['Aspose.Diagram Product Family']

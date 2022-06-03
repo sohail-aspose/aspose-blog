@@ -3,7 +3,7 @@ title: 'Change SVG Color or Background Programmatically in C#'
 date: Thu, 24 Mar 2022 14:39:22 +0000
 draft: false
 url: /2022/03/24/change-svg-color-background-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'SVG images are getting popular because of their scalability and quality features. In some scenarios, you might need to change the color of SVG images to make them more attractive. This article covers how to **change the color of different SVG elements programmatically in C#**.'
 tags: ['change svg background', 'change svg color', 'change svg color in csharp', 'edit svg elements', 'set svg background', 'set svg background in csharp']
 categories: ['Aspose.SVG Product Family']

@@ -3,7 +3,7 @@ title: 'Compress PSD Photoshop File in Java'
 date: Mon, 03 Jan 2022 12:41:00 +0000
 draft: false
 url: /2022/01/03/compress-psd-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'PSD files are created to design images using different layers. Different PSD files can become huge in size owing to the visual data and layers. In such cases, you might want to compress a PSD image to reduce the file size. This article explains how to **compress a PSD Photoshop file programmatically in Java**.'
 tags: ['Compress PSD', 'Compress PSD in Java', 'PSD Compression in Java', 'Reduce PSD Size']
 categories: ['Aspose.PSD Product Family']

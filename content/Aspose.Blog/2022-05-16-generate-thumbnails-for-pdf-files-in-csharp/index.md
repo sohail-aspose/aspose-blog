@@ -3,7 +3,7 @@ title: 'Generate Thumbnails for PDF Files in C#'
 date: Mon, 16 May 2022 05:45:00 +0000
 draft: false
 url: /2022/05/16/generate-thumbnails-for-pdf-files-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: 'You may often need to generate thumbnails while embedding the [PDF][1] documents into a web application. Also, thumbnails of pages are required when creating a PDF viewer. For such scenarios, this article covers **how to generate thumbnails of a PDF file programmatically in C# .NET**. We will explicitly cover how to create a thumbnail of a particular page or all the pages in a PDF file.'
 tags: ['DotNeT API to Generate Thumbnails of PDF', 'DotNet PDF Generator API', 'Generate Thumbnails of all Pages in PDF in CSharp', 'Generate a Thumbnail of a PDF File in CSharp']
 categories: ['Aspose.PDF Product Family']

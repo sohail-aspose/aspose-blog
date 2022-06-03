@@ -3,7 +3,7 @@ title: 'Convert VSD or VSDX File to VTX in C#'
 date: Thu, 19 May 2022 08:58:00 +0000
 draft: false
 url: /2022/05/19/convert-vsd-vsdx-visio-to-vtx-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'Visio diagrams are popularly used to create flowcharts, floor maps, and other technical drawings. However, a VTX file is a 3D model used by 3D modeling and animation programs. Sometimes, you may need to convert a VSD or VSDX file to a VTX file. This article covers how to **convert a VSD or VSDX format Visio diagram to a VTX file programmatically in C#.**'
 tags: ['Convert VSD VSDX to VTX in csharp', 'VSD to VTX', 'VSDX to VTX', 'Visio to VTX File']
 categories: ['Aspose.Diagram Product Family']

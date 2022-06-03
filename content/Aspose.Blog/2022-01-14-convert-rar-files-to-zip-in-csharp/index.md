@@ -3,7 +3,7 @@ title: 'Convert RAR Files to ZIP Archive in C#'
 date: Fri, 14 Jan 2022 09:50:47 +0000
 draft: false
 url: /2022/01/14/convert-rar-files-to-zip-in-csharp/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[RAR][1] is a commonly used archive file format that supports lossless compression of data. Often, people prefer RAR over [ZIP][2] because it provides a better compression rate and keeps the archive size smaller. However, in certain cases, you may need to convert RAR files to ZIP archives. To achieve that, this article covers **how to convert a RAR file to ZIP programmatically in C#**.'
 tags: ['Convert RAR to ZIP', 'Convert RAR to ZIP Csharp', 'Convert RAR to ZIP Programmatically', 'Dotnet RAR to ZIP Converter']
 categories: ['Aspose.ZIP Product Family']

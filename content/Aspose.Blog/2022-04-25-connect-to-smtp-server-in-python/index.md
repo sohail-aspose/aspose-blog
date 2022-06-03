@@ -3,7 +3,7 @@ title: 'Connect to SMTP Server in Python'
 date: Mon, 25 Apr 2022 18:02:45 +0000
 draft: false
 url: /2022/04/25/connect-to-smtp-server-in-python/
-author: ''Usman Aziz''
+author: 'Usman Aziz'
 summary: '[Simple Mail Transfer Protocol][1] (SMTP) is a well-known and commonly used protocol for sending email messages from client applications to the email server. While implementing email automation features, you may need to connect to the SMTP servers from within your Python applications. For such scenarios, this article covers **how to connect to an SMTP server programmatically in Python**. Furthermore, you will learn how to send an email after making a connection to an SMTP server.'
 tags: ['Connect to an SMTP Server in Python', 'Python Library to Connect SMTP Server', 'Send an Email via SMTP in Python']
 categories: ['Aspose.Email Product Family']

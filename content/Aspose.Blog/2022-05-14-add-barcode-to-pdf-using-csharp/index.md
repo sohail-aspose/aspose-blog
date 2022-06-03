@@ -3,7 +3,7 @@ title: 'Add Barcode to PDF using C#'
 date: Sat, 14 May 2022 13:58:36 +0000
 draft: false
 url: /2022/05/14/add-barcode-to-pdf-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a C# developer, you can add a machine-readable barcode image to a PDF document programmatically in .NET applications. In this article, you will learn how to add a barcode to PDF documents and read barcode from PDF using C#.'
 tags: ['Add Barcode to PDF', 'Add Barcode to PDF in C#', 'Add QR Code to PDF', 'Add QR Code to PDF C#', 'C# API to Add Barcode to PDF', 'C# Barcode API', 'Embed Barcode in PDF C#', 'Read Barcode from PDF', 'Read Barcode from PDF in C#']
 categories: ['Aspose.PDF Product Family', 'Aspose.BarCode Product Family']

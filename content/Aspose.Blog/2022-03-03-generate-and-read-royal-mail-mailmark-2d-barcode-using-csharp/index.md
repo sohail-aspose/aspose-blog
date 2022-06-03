@@ -3,7 +3,7 @@ title: 'Generate and Read Royal Mail Mailmark 2D Barcode using C#'
 date: Thu, 03 Mar 2022 16:51:19 +0000
 draft: false
 url: /2022/03/03/generate-and-read-royal-mail-mailmark-2d-barcode-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: "The Royal Mail Mailmark 2D barcode is a machine-readable barcode used in letters. It provides information about mail tracking & delivery status, delivery schedule and reporting statistics. In this article, you will learn **how to generate and read Royal Mail Mailmark 2D barcodes using C#**."
 tags: ['Decode Mailmark 2D Barcode in C#', 'Generate Barcodes', 'Mailmark 2D Barcode in C#', 'Read Barcodes in C#', 'Royal Mail Barcode in C#']
 categories: ['Aspose.BarCode Product Family']

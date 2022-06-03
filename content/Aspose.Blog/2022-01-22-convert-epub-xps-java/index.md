@@ -3,7 +3,7 @@ title: 'Convert EPUB to XPS in Java'
 date: Sat, 22 Jan 2022 08:37:00 +0000
 draft: false
 url: /2022/01/22/convert-epub-xps-java/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'EPUB file is in Open eBook file format which is usually used to publish books. In particular use cases, you may need to convert an EPUB file to XPS file format. In this article, you will learn how to **convert EPUB to XPS files programmatically in Java.**'
 tags: ['Convert EPUB to XPS in Java', 'EPUB to XPS', 'EPUB to XPS Converter', 'Java EPUB to XPS Converter']
 categories: ['Aspose.HTML Product Family']

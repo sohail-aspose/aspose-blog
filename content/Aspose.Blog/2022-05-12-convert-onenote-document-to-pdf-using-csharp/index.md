@@ -3,7 +3,7 @@ title: 'Convert OneNote Document to PDF using C#'
 date: Thu, 12 May 2022 06:27:20 +0000
 draft: false
 url: /2022/05/12/convert-onenote-document-to-pdf-using-csharp/
-author: ''Muzammil Khan''
+author: 'Muzammil Khan'
 summary: 'As a .NET developer, you can easily export notes from OneNote documents to PDF. In this article, you will learn **how to convert a OneNote document to a PDF using C#.**'
 tags: ['Convert OneNote to PDF', 'Convert OneNote to PDF C#', 'OneNote to PDF', 'OneNote to PDF Converter', 'OneNote to PDF using C#', 'Save OneNote as PDF in C#']
 categories: ['Aspose.Note Product Family']

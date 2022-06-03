@@ -3,7 +3,7 @@ title: 'Convert HTML to MHT File in C#'
 date: Thu, 21 Apr 2022 09:01:00 +0000
 draft: false
 url: /2022/04/21/convert-html-to-mht-mhtml-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'In some situations, you may need to convert an HTML file to MHT format. In accordance with such requirements, this article discusses how to **convert HTML to MHT format programmatically in C#.**'
 tags: ['Convert HTML to MHT in csharp', 'HTML to MHT', 'HTML to MHTML']
 categories: ['Aspose.HTML Product Family']

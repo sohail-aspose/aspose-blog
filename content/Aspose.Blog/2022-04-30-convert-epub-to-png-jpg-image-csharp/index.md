@@ -3,7 +3,7 @@ title: 'Convert EPUB to a PNG or JPG Image in C#'
 date: Sat, 30 Apr 2022 20:12:00 +0000
 draft: false
 url: /2022/04/30/convert-epub-to-png-jpg-image-csharp/
-author: ''Farhan Raza''
+author: 'Farhan Raza'
 summary: 'EPUB files are commonly used for large-scale printing purposes. In certain scenarios, you may need to preview the contents of an EPUB file in the form of an image. In accordance with such use cases, this article explains how to **convert an EPUB file to a PNG or JPG programmatically in C#**.'
 tags: ['EPUB to Image', 'EPUB to JPG', 'EPUB to JPG in csharp', 'EPUB to PNG', 'EPUB to PNG in csharp']
 categories: ['Aspose.HTML Product Family']
