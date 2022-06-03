@@ -3,7 +3,7 @@ title: 'Extract Images from PowerPoint Presentations in Python'
 date: Wed, 26 Jan 2022 15:13:19 +0000
 draft: false
 url: /2022/01/26/extract-images-from-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'Images are an effective way of communication that makes the content lively. This is the reason the images are widely adopted in web pages, documents, presentations, etc. MS PowerPoint presentations are usually built up with less text and more graphical objects and images. Therefore, when processing the presentations programmatically, you may need to extract images along with the text. To accomplish that, this article covers **how to extract images from [PPT][1] or [PPTX][2] presentations in Python**.'
 tags: ['Python Library to Extract Images from Presentations', 'extract images from ppt in python', 'extract images from presentations in python', 'python image extractor for powerpoint']
 categories: ['Aspose.Slides Product Family']

@@ -3,7 +3,7 @@ title: 'Convert PCL to PDF File in C#'
 date: Tue, 15 Feb 2022 08:57:00 +0000
 draft: false
 url: /2022/02/15/convert-pcl-pdf-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'In some scenarios, you may need to convert PCL files to preview the file contents in different environments. This article covers **how to convert PCL to PDF files programmatically using C#**.'
 tags: ['Convert PCL to PDF in csharp', 'PCL file to PDF', 'PCL to PDF File', 'PCL to PDF in csharp']
 categories: ['Aspose.CAD Product Family']

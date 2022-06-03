@@ -3,7 +3,7 @@ title: 'Add Audio to PowerPoint PPT in Python'
 date: Sat, 15 Jan 2022 07:29:00 +0000
 draft: false
 url: /2022/01/15/add-audio-to-powerpoint-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'In various cases, audio clips are used to make the PowerPoint presentations more interactive. To add audio in a PPT/PPTX presentation, MS PowerPoint provides an audio frame object. In this article, you will learn **how to add an audio frame to a PowerPoint PPT in Python**. Moreover, you will come to know how to extract audio from a presentation and save it as a file.'
 tags: []
 categories: ['Aspose.Slides Product Family']

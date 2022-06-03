@@ -3,7 +3,7 @@ title: 'Convert Visio VSD VSDX to Word DOC DOCX in Java'
 date: Wed, 16 Feb 2022 20:40:00 +0000
 draft: false
 url: /2022/02/16/convert-visio-to-word-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'Visio files like a VSD or VSDX are used to create drawings like organizational charts, a map of a building, etc. Likewise, it can include text or graphics which you may need to edit with a word processor. For such requirements, you can **convert a Visio VSD or VSDX file to a Word document in DOC or DOCX format programmatically in Java.**'
 tags: ['Convert VSDX to Word in Java', 'Java Visio to Word', 'Visio to DOCX Java', 'Visio to Word Java']
 categories: ['Aspose.Diagram Product Family']

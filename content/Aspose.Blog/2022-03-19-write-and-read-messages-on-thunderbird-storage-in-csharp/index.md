@@ -3,7 +3,7 @@ title: 'Write and Read Messages on Thunderbird Storage in C# .NET'
 date: Sat, 19 Mar 2022 10:13:00 +0000
 draft: false
 url: /2022/03/19/write-and-read-messages-on-thunderbird-storage-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[Thunderbird][1] is an open-source email client application that lets you configure multiple email servers and access their email messages. This makes it possible for you to manage emails from multiple accounts in a single place. In certain cases, you may need to create and access email messages in Thunderbird storage programmatically. Accordingly, in this article, you will learn **how to write and read messages on Thunderbird storage in C# .NET**.'
 tags: ['CSharp DotNet Email API', 'DotNet API to Write and Read Messages on Thunderbird', 'Read Messages from Thunderbird Storage in CSharp', 'Write Messages on Thunderbird Storage in Csharp']
 categories: ['Aspose.Email Product Family']

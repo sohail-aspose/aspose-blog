@@ -3,7 +3,7 @@ title: 'Convert VSD or VSDX to VDX in C#'
 date: Fri, 25 Feb 2022 07:57:00 +0000
 draft: false
 url: /2022/02/25/convert-vsd-vsdx-to-vdx-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'Visio drawings are collections of shapes and icons which can be used for different purposes. For example, a floor plan or a blueprint of a building. In some cases, you might need to convert a Visio drawing to a VDX file. In accordance with such scenarios, this article covers how to **convert VSD or VSDX diagrams to a VDX file programmatically in C#.**'
 tags: ['Convert VSD VSDX to VDX in csharp', 'Convert Visio to VDX', 'Convert Visio to VDX in csharp', 'VSD to VDX', 'VSDX to VDX']
 categories: ['Aspose.Diagram Product Family']

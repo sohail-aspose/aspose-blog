@@ -3,7 +3,7 @@ title: 'Convert USDZ to STL File in C#'
 date: Sun, 27 Mar 2022 21:12:00 +0000
 draft: false
 url: /2022/03/27/usdz-to-stl-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'USDZ files are commonly used to create augmented reality-based scenes. USDZ files include data for rigging, textures, geometry, etc. to precisely portray a 3D scene. In certain scenarios, you might need to convert a USDZ file to STL format. Accordingly, this article explains how to **convert a USDZ file to an STL file programmatically in C#.**'
 tags: ['Convert USDZ to STL', 'USDZ to STL', 'USDZ to STL Conversion']
 categories: ['Aspose.3D Product Family']

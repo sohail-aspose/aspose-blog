@@ -3,7 +3,7 @@ title: 'Convert PCL to PDF Document in Java'
 date: Sun, 16 Jan 2022 10:21:00 +0000
 draft: false
 url: /2022/01/16/convert-pcl-pdf-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'PCL stands for Printer Command Language which is a Page Description Language and is used to control printing devices. In some scenarios, you might need to convert PCL files to PDF files to make it compatible with multiple operating systems. This article covers how to **convert PCL to PDF files programmatically in Java.**'
 tags: ['Convert PCL to PDF File using Java', 'PCL to PDF File Converter', 'PCL to PDF in Java']
 categories: ['Aspose.CAD Product Family']

@@ -3,7 +3,7 @@ title: 'Add Signature to an Image Programmatically in C#'
 date: Fri, 18 Mar 2022 23:15:00 +0000
 draft: false
 url: /2022/03/18/sign-image-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'These days many organizations and institutions have adopted paperless policies. In some use cases, you might need to sign images for different purposes. Aspose.PSD for .NET API can be used to work with different graphic layers and images. This article covers how to **add a signature to an image programmatically in C#.**'
 tags: ['Add Sign to Image', 'Image Signature', 'Image signing csharp', 'Sign Image', 'Sign Image Csharp']
 categories: ['Aspose.PSD Product Family']

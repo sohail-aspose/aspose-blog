@@ -3,7 +3,7 @@ title: 'Create a To-Do List in a OneNote Document (.ONE) in Java'
 date: Sun, 09 Jan 2022 11:49:00 +0000
 draft: false
 url: /2022/01/09/todolist-onenote-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'OneNote (.ONE) files can be used as reminders so that any activity is not missed and every checkbox is checked in the to-do list. This article discusses how to **create a To-Do list on a OneNote file programmatically using Java**.'
 tags: ['one note to do list', 'one note to do list java', 'onenote todolist in Java', 'todolist onenote', 'using onenote as a to do list in Java']
 categories: ['Aspose.Note Product Family']

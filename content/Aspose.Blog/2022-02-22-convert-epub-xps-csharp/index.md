@@ -3,7 +3,7 @@ title: 'Convert EPUB to XPS File in C#'
 date: Tue, 22 Feb 2022 07:59:00 +0000
 draft: false
 url: /2022/02/22/convert-epub-xps-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'EPUB files are commonly used to share or print files on a large scale. For instance, EBooks are very common these days, which are created in EPUB format. In certain situations, you may need to convert EPUB to an XPS file. Accordingly, this article covers how to **convert an EPUB file to XPS format programmatically in C#**.'
 tags: ['Convert EPUB to XPS', 'EPUB to XPS', 'EPUB to XPS Conversion', 'EPUB to XPS in .NET', 'EPUB to XPS in csharp']
 categories: ['Aspose.HTML Product Family']

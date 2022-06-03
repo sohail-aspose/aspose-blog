@@ -3,7 +3,7 @@ title: 'Convert EML and MSG Emails to PDF in Java'
 date: Tue, 22 Mar 2022 14:28:32 +0000
 draft: false
 url: /2022/03/22/convert-eml-msg-emails-to-pdf-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[EML][1] and [MSG][2] are popular email formats used by MS Outlook to store emails. There could be the cases when you need to share the content of EML or MSG files from within your web or desktop applications. One of the most suitable solutions is the conversion of email files to PDF format. In this article, you will learn **how to convert an EML or MSG email to PDF programmatically in Java.**'
 tags: ['EML to PDF in Java', 'Java APIs for Email to PDF Conversion', 'MSG to PDF in java']
 categories: ['Aspose.Email Product Family']

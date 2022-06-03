@@ -3,7 +3,7 @@ title: 'Aspose sponsors DevNexus 2022 Java conference'
 date: Tue, 22 Mar 2022 18:11:29 +0000
 draft: false
 url: /2022/03/22/aspose-sponsors-devnexus-2022-java-conference/
-author: 'Tomislav'
+author: ''Tomislav''
 summary: 'DevNexus 2022 is right around the corner! Hosted on April 12-14 at the Georgia World Congress Center (GWCC), DevNexus is Atlanta’s most exciting conference for professional software developers. Come and discover how the industry’s best minds use the latest Java technologies to build solutions to business problems. Connect with other software developers, and study real-life case studies in Java application development. DevNexus provides exceptional speakers and presentations and also great food and much more.'
 tags: ['Aspose Sponsors DevNexus 2022', 'Developer Community Support']
 ---

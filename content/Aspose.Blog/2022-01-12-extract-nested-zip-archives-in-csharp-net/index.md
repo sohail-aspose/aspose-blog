@@ -3,7 +3,7 @@ title: 'Extract Nested ZIP Archives in C#'
 date: Wed, 12 Jan 2022 15:02:35 +0000
 draft: false
 url: /2022/01/12/extract-nested-zip-archives-in-csharp-net/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'We often come across the scenario where multiple [ZIP][1] archives are encapsulated inside another ZIP. In such cases, first, you have to extract the parent ZIP and then the nested archives one by one. To make things easier for you, in this article, we will demonstrate **how to extract the nested ZIP archives in C# .NET** without writing complex code.'
 tags: ['Dotnet API to Extract Nested ZIP Archives', 'Extract Nested ZIP Archives in Csharp', 'Open Nested ZIP Archives in CSharp', 'Unzip Nested ZIP Archives in Csharp']
 categories: ['Aspose.ZIP Product Family']

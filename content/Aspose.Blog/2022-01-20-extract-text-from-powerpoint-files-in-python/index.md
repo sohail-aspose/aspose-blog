@@ -3,7 +3,7 @@ title: 'Extract Text from PowerPoint Files in Python'
 date: Thu, 20 Jan 2022 14:40:51 +0000
 draft: false
 url: /2022/01/20/extract-text-from-powerpoint-files-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'In various scenarios, the text is extracted from the documents for further processing such as in text analysis, classification, etc. Among other documents such as PDF and Word, PowerPoint files are also used in text extraction. Therefore, this article aims to show you **how to extract text from PowerPoint files in Python**. We will cover how to extract text from a specific slide or the whole presentation.'
 tags: ['Extract Text from PowerPoint Files', 'Extract Text from a PowerPoint Slide Python', 'Python Library to Extract Text from PowerPoint Files', 'Python Text Extractor for PowerPoint']
 categories: ['Aspose.Slides Product Family']

@@ -3,7 +3,7 @@ title: 'Create Flowchart Programmatically in C#'
 date: Thu, 20 Jan 2022 10:22:00 +0000
 draft: false
 url: /2022/01/20/create-flowchart-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'Flowcharts are created or designed to represent different workflows. In certain situations, you may need to create flowcharts to manage different situations. This article covers how to **create a flowchart diagram programmatically in C#**.'
 tags: ['Create Flowchart', 'Create Flowchart in .NET', 'Create Flowchart in C#', 'Flowchart Maker in C#', 'Flowchart creator in C#', 'Make Flowchart']
 categories: ['Aspose.Diagram Product Family']

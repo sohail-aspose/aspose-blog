@@ -3,7 +3,7 @@ title: 'Convert PDF Files to PowerPoint PPT in Python'
 date: Fri, 04 Mar 2022 11:49:19 +0000
 draft: false
 url: /2022/03/04/convert-pdf-to-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[PDF][1] format is very much in the business for creating and sharing digital documents. Since it provides cross-platform support, people opt to send and receive documents in PDF format. There could be the case when you need to import the content from a PDF file to another document such as Word, PowerPoint, etc. To accomplish this programmatically, in this article, you will learn **how to convert a PDF file to PowerPoint PPT/PPTX in Python**.'
 tags: ['Convert a PDF File to PowerPoint PPT', 'Python Library for PDF to PowerPoint Conversion', 'convert pdf to ppt in python', 'convert pdf to pptx in python']
 categories: ['Aspose.Slides Product Family']

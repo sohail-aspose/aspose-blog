@@ -3,7 +3,7 @@ title: 'Convert USDZ to FBX in C#'
 date: Tue, 12 Apr 2022 11:22:00 +0000
 draft: false
 url: /2022/04/12/convert-usdz-to-fbx-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'In some cases, you may need to convert USDZ to FBX format. For such requirements, this article covers how to **convert a USDZ file to an FBX file programmatically in C#.**'
 tags: ['Convert USDZ to FBX', 'USDZ to FBX', 'USDZ to FBX in csharp']
 categories: ['Aspose.3D Product Family']

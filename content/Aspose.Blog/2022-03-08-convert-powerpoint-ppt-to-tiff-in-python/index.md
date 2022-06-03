@@ -3,7 +3,7 @@ title: 'Convert PowerPoint PPT/PPTX to TIFF in Python'
 date: Tue, 08 Mar 2022 11:00:34 +0000
 draft: false
 url: /2022/03/08/convert-powerpoint-ppt-to-tiff-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[TIFF][1] is a popular format that is used for the conversion of PowerPoint presentations to image format. This conversion could be useful for generating thumbnails of the PPT slides. In this article, you will learn **how to convert PowerPoint PPT or PPTX to TIFF using Python**. Furthermore, you will learn how to customize PPT to TIFF conversion using different options.'
 tags: ['Convert PPT to TIFF in Python', 'Convert PPTX to TIFF in Python', 'Generate PPT Thumbnails in Python', 'Python PowerPoint to TIFF Converter']
 categories: ['Aspose.Slides Product Family']

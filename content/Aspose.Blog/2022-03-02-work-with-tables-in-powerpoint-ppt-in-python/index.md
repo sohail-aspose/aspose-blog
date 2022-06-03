@@ -3,7 +3,7 @@ title: 'Create and Manipulate Tables in PowerPoint PPT using Python'
 date: Wed, 02 Mar 2022 15:54:00 +0000
 draft: false
 url: /2022/03/02/work-with-tables-in-powerpoint-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'Tables are commonly used to organize the data in the form of rows and columns. They make it quite easier to view, understand and analyze the data. In various cases, you have to insert tables in your PowerPoint presentations. To accomplish that programmatically, this article covers **how to create tables in PowerPoint PPT or PPTX using Python**. Moreover, you will learn how to access, modify, and format the existing PowerPoint tables.'
 tags: ['Create a Table in PowerPoint PPT in Python', 'Edit a Table in PowerPoint PPT in Python', 'Format a Table in PowerPoint PPT in Python', 'Python Library to Create PowerPoint Tables']
 categories: ['Aspose.Slides Product Family']

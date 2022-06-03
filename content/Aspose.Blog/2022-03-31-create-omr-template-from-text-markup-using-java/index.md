@@ -3,7 +3,7 @@ title: 'Create OMR Template from Text Markup using Java'
 date: Thu, 31 Mar 2022 09:19:39 +0000
 draft: false
 url: /2022/03/31/create-omr-template-from-text-markup-using-java/
-author: 'Muzammil Khan'
+author: ''Muzammil Khan''
 summary: 'As a Java developer, you can easily generate OMR surveys, quizzes, or answer sheets from text markup programmatically. In this article, you will learn **how to create an OMR Template from text markup using Java**.'
 tags: ['Create OMR Survey from Text Markup', 'Create OMR Template Java', 'Generate OMR Template using Java', 'Java API to Generate OMR Template', 'Java OMR API', 'OMR Java', 'OMR Template from Text Markup']
 categories: ['Aspose.OMR Product Family']

@@ -3,7 +3,7 @@ title: 'Convert IFC to PDF in Java'
 date: Mon, 14 Mar 2022 09:44:00 +0000
 draft: false
 url: /2022/03/14/convert-ifc-to-pdf-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'In certain scenarios, you might need to convert an IFC file to PDF format. This article covers how to **convert IFC files to PDF with only a few lines of code in Java.**'
 tags: ['Convert IFC to PDF using Java', 'IFC to PDF in Java', 'Java IFC to PDF']
 categories: ['Aspose.CAD Product Family']

@@ -3,7 +3,7 @@ title: 'Convert CFF to PDF in C#'
 date: Thu, 06 Jan 2022 08:46:00 +0000
 draft: false
 url: /2022/01/06/convert-cff-to-pdf-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'CFF files are used to store three-dimensional packaging and die-cutting designs. However, you need specific applications to open, view or process the CFF or CF2 files. In accordance with that, you might need to convert a CFF file to a PDF document. This article covers how to **convert CFF to PDF files programmatically in C#**.'
 tags: ['Convert CF2 to PDF', 'Convert CFF to PDF', 'Convert CFF to PDF in .NET', 'Convert CFF to PDF in csharp']
 categories: ['Aspose.CAD Product Family']

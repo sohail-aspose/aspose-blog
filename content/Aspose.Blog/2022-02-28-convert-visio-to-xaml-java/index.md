@@ -3,7 +3,7 @@ title: 'Convert Visio VSD or VSDX File to XAML in Java'
 date: Mon, 28 Feb 2022 20:09:00 +0000
 draft: false
 url: /2022/02/28/convert-visio-to-xaml-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'In some scenarios, you may need to convert a VSD or VSDX Visio to XAML format. In accordance with similar use cases, this article covers how to **convert a VSD or VSDX file to a XAML file in Java**.'
 tags: ['Convert Visio to XAML in Java', 'Java VSD to XAML', 'Java VSDX to XAML', 'Java Visio to XAML', 'VSDX to XAML in Java']
 categories: ['Aspose.Diagram Product Family']

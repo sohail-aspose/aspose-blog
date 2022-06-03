@@ -3,7 +3,7 @@ title: 'Convert WOFF to TTF using C#'
 date: Fri, 08 Apr 2022 19:50:19 +0000
 draft: false
 url: /2022/04/08/convert-woff-to-ttf-using-csharp/
-author: 'Muzammil Khan'
+author: ''Muzammil Khan''
 summary: 'As a C# developer, you can easily convert Web fonts (WOFF or WOFF2) to True Type Fonts (TTF) programmatically. In this article, you will learn **how to convert WOFF to TTF using C#.**'
 tags: ['C# Font Converter', 'Convert WOFF to TTF', 'Convert WOFF2 to TTF in C#', 'Font Converter API', 'WOFF to TTF C#', 'WOFF to TTF Converter API', 'WOFF2 to TTF C#', 'WOFF2TTF']
 categories: ['Aspose.Font Product Family']

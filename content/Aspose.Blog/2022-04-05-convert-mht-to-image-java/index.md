@@ -3,7 +3,7 @@ title: 'Convert MHT to an Image in Java'
 date: Tue, 05 Apr 2022 20:29:00 +0000
 draft: false
 url: /2022/04/05/convert-mht-to-image-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'In certain situations, you may need to convert an MHT file to an image format. Accordingly, this article covers how to **convert an MHT or MHTML to an image in JPG or PNG format programmatically in Java**.'
 tags: ['MHT to Image Java', 'MHT to JPG Java', 'MHT to PNG Java', 'MHTML to Image', 'MHTML to JPG', 'MHTML to PNG']
 categories: ['Aspose.HTML Product Family']

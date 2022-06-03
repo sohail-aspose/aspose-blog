@@ -3,7 +3,7 @@ title: 'Create and Send Messages using Microsoft Graph API in Java'
 date: Fri, 01 Apr 2022 17:42:00 +0000
 draft: false
 url: /2022/04/01/create-and-send-messages-using-microsoft-graph-api-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[Microsoft Graph API][1] allows you to access and utilize various services of Office 365 and Microsoft Cloud programmatically. In the [previous article][2], we have shown you how to use Microsoft Graph API to create and update folders. In this article, we will demonstrate **how to create and send messages using Graph API in Java**.'
 tags: ['Create Messages using Microsoft Graph API in Java', 'Java Microsoft Graph API', 'Java Microsoft Graph API to Create and Send Messages', 'Send Messages using Microsoft Graph API in Java']
 categories: ['Aspose.Email Product Family']

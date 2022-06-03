@@ -3,7 +3,7 @@ title: 'Convert DWG to FBX in Java'
 date: Mon, 14 Feb 2022 08:50:00 +0000
 draft: false
 url: /2022/02/14/convert-dwg-to-fbx-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'DWG files are used to work with CAD drawings while FBX format is commonly used by 3D modeling applications. In some use cases, you may want to convert a DWG file to an FBX file. In accordance with such requirements, this article demonstrates how to **convert a DWG file to an FBX file programmatically in Java.**'
 tags: ['Convert DWG to FBX format', 'DWG to FBX', 'DWG to FBX Conversion in Java', 'DWG to FBX Java', 'Java DWG to FBX']
 categories: ['Aspose.CAD Product Family']

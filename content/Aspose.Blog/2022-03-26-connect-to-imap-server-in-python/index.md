@@ -3,7 +3,7 @@ title: 'Connect to IMAP Servers in Python'
 date: Sat, 26 Mar 2022 10:08:00 +0000
 draft: false
 url: /2022/03/26/connect-to-imap-server-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[Internet Message Access Protocol][1] (IMAP) is one of the most commonly used protocols for reading messages from an email server. In order to access the mailbox from your client applications, you would first need to establish a connection with the IMAP server. To achieve this, this article covers **how to connect to an IMAP server using Python**. Furthermore, you will learn how to fetch messages from an IMAP server programmatically.'
 tags: ['Connect to an IMAP Server in Python', 'Fetch Messages from IMAP Server in Python', 'Python Library to Connect IMAP Server', 'python email library']
 categories: ['Aspose.Email Product Family']

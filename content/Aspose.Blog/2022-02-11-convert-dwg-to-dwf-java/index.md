@@ -3,7 +3,7 @@ title: 'Convert DWG to DWF in Java'
 date: Fri, 11 Feb 2022 21:22:00 +0000
 draft: false
 url: /2022/02/11/convert-dwg-to-dwf-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'DWG is a native format for several CAD applications as they store two or three-dimensional design data and metadata. Some applications or workflow requirements may need to convert a DWG file to a DWF file. Accordingly, this article explains how to **convert a DWG file to a DWF format programmatically in Java.**'
 tags: ['Convert DWG to DWF in Java', 'DWG to DWF', 'Export DWG to DWF using Java']
 categories: ['Aspose.CAD Product Family']

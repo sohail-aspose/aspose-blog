@@ -3,7 +3,7 @@ title: 'Extract Text and Images from OneNote Documents using C#'
 date: Tue, 22 Feb 2022 05:01:50 +0000
 draft: false
 url: /2022/02/22/extract-text-and-images-from-onenote-documents-using-csharp/
-author: 'Muzammil Khan'
+author: ''Muzammil Khan''
 summary: 'You can easily extract text or images from OneNote documents programmatically without using MS OneNote. In this article, you will learn **how to extract text and images from OneNote documents using C#**.'
 tags: ['extract images', 'extract images from onenote', 'extract images onenote c#', 'extract text from onenote', 'extract text onenote c#']
 categories: ['Aspose.Note Product Family']

@@ -3,7 +3,7 @@ title: 'Get Contacts List from Microsoft Exchange Server in Java'
 date: Mon, 28 Feb 2022 05:55:00 +0000
 draft: false
 url: /2022/02/28/get-contacts-list-from-ms-exchange-server-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'While working with [Microsoft Exchange Server][1] programmatically, you may need to access the contacts from it. For example, to export the contacts, manipulate them, or use them for other purposes. In this article, you will learn **how to get the contacts list from Microsoft Exchange Server in Java**.'
 tags: ['Get Contacts List from MS Exchange Server in Java', 'Get a Contact using ID from Exchanger Server in Java', 'Java API to Retrieve Contacts from MS Exchange Server']
 categories: ['Aspose.Email Product Family']

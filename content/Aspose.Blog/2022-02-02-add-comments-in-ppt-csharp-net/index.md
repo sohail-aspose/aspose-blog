@@ -3,7 +3,7 @@ title: 'Add or Remove Comments in PowerPoint PPT in C#'
 date: Wed, 02 Feb 2022 12:12:56 +0000
 draft: false
 url: /2022/02/02/add-comments-in-ppt-csharp-net/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'While reviewing the content in PowerPoint presentations, the comments are used to write the feedback. The comments can be added against a particular word, phrase, or anything on a PPT slide. In this article, you will learn **how to add comments to PowerPoint PPT slides programmatically in C#**. Moreover, we will cover how to read or remove slide comments and add their replies.'
 tags: ['Add Comment Reply in PPT Slides in Csharp', 'Add Comments in PPT Slides in Csharp', 'Add Comments in PowerPoint Slides in Csharp', 'Read Comments in PPT Slides in Csharp', 'Remove Comments in PPT Slides in Csharp']
 categories: ['Aspose.Slides Product Family']

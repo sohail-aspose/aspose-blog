@@ -3,7 +3,7 @@ title: 'Convert XPS or OXPS to Word DOCX/DOC in C#'
 date: Mon, 07 Feb 2022 07:58:00 +0000
 draft: false
 url: /2022/02/07/convert-xps-oxps-word-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'XPS and OXPS files are used for printing purposes as they produce high-quality prints on any resolution. In some scenarios, you may want to **convert an XPS or OXPS file to a Word file in DOCX or DOC format.** In accordance with such scenarios, you can make the files editable as per your requirements.'
 tags: ['Convert XPS to DOCX csharp', 'OXPS to DOCX', 'OXPS to Word', 'XPS to DOCX', 'XPS to Word', 'csharp XPS to DOCX']
 categories: ['Aspose.Page Product Family']

@@ -3,7 +3,7 @@ title: 'Convert VSD or VSDX Visio to Word DOC or DOCX in C#'
 date: Wed, 16 Mar 2022 08:31:00 +0000
 draft: false
 url: /2022/03/16/convert-visio-to-word-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'Visio files can contain text, lines, or shapes to create drawings like a flowchart, organizational chart, etc. In some scenarios, you may want to convert a Visio drawing to a Word document in DOC or DOCX file format. Accordingly, this article explains how to **convert a VSD or VSDX diagrams file to a Word document in DOC or DOCX file format programmatically in C#.**'
 tags: ['VSD to Word', 'VSDX to DOCX in csharp', 'VSDX to Word', 'Visio to Word', 'Visio to Word in csharp']
 categories: ['Aspose.Diagram Product Family']

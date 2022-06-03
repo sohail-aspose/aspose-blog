@@ -3,7 +3,7 @@ title: 'Add or Remove Shapes in PowerPoint Slides using Python'
 date: Mon, 21 Feb 2022 14:17:22 +0000
 draft: false
 url: /2022/02/21/work-with-shapes-in-powerpoint-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'Various types of diagrams are used in PowerPoint presentations to make the content more elaborative. These diagrams are comprised of different shapes such as ellipses, lines, rectangles, and connectors. In this article, you will learn **how to add, clone, and remove shapes in PowerPoint slides programmatically in Python**.'
 tags: ['Add Connector to Shapes in PowerPoint Python', 'Add Shape to PowerPoint Slides in Python', 'Clone a Shape in PowerPoint Slides in Python', 'Python Library to Work with PowerPoint Shapes', 'Remove Shapes from PowerPoint in Python']
 categories: ['Aspose.Slides Product Family']

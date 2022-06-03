@@ -3,7 +3,7 @@ title: 'Convert YouTube to MP3 in C#'
 date: Tue, 04 Jan 2022 08:03:00 +0000
 draft: false
 url: /2022/01/04/convert-youtube-to-mp3-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'YouTube is a collection of millions of videos. In certain scenarios, you may need the audio from YouTube in MP3 format. In accordance with that, the article covers how to **convert YouTube to MP3 programmatically in C#**.'
 tags: ['Convert YouTube to Audio', 'Convert YouTube to MP3', 'YouTube to MP3', 'YouTube to MP3 Converter', 'YouTube to MP3 Converter in csharp', 'download youtube mp3', 'y2mp3', 'youtube audio download', 'youtube2mp3', 'youtubemp3', 'yt2mp3']
 categories: ['Aspose.HTML Product Family']

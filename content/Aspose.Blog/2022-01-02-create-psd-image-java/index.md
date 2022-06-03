@@ -3,7 +3,7 @@ title: 'Create a PSD Image in Java'
 date: Sun, 02 Jan 2022 09:32:00 +0000
 draft: false
 url: /2022/01/02/create-psd-image-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'PSD files are used to create images using different layers containing shapes, text, effects, etc. You may need to add several layers for inserting graphics or text by your image processing applications. Accordingly, this article covers how to **create a PSD image programmatically in Java**.'
 tags: ['Create PSD File', 'Create PSD Image', 'Create PSD in Java', 'Make PSD in Java', 'Make PSD without Photoshop']
 categories: ['Aspose.PSD Product Family']

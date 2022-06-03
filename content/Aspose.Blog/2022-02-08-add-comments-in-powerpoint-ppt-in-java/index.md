@@ -3,7 +3,7 @@ title: 'Add or Remove Comments in PowerPoint PPT in Java'
 date: Tue, 08 Feb 2022 14:23:00 +0000
 draft: false
 url: /2022/02/08/add-comments-in-powerpoint-ppt-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'In PowerPoint presentations, the comments are used to write the feedback about the content in the slides. While manipulating PowerPoint PPT/PPTX presentations, you may need to add comments programmatically. In this article, you will learn **how to add comments to PowerPoint PPT slides in Java**. Moreover, we will cover how to read or remove slide comments and add their replies.'
 tags: ['Add Comment Replies in PPT Slides in Java', 'Add Comments in PPT Slides in Java', 'Java API to Work with Comments in PowerPoint', 'Read Comments from PPT Slides in Java', 'Remove Comments from Slides in Java']
 categories: ['Aspose.Slides Product Family']

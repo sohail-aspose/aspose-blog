@@ -3,7 +3,7 @@ title: 'Convert OpenOffice ODP to PDF in Python'
 date: Tue, 01 Mar 2022 10:38:47 +0000
 draft: false
 url: /2022/03/01/convert-openoffice-odp-to-pdf-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[ODP][1] format is used by [OpenOffice][2] to store the presentation documents. Similar to PowerPoint PPT/PPTX, ODP presentation contains slides and each slide is composed of text, images, and other elements. In certain cases, e.g. for sharing the presentations, you have to convert ODP files to [PDF][3] format. To achieve that, this article covers **how to convert an ODP presentation to PDF in Python**.'
 tags: ['Convert an ODP File to PDF in Python', 'ODP to PDF in Python', 'OpenOffice ODP to PDF in Python', 'Python Library for ODP to PDF Conversion']
 categories: ['Aspose.Slides Product Family']

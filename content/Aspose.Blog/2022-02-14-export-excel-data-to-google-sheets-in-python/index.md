@@ -3,7 +3,7 @@ title: 'Export Excel Data to Google Sheets in Python'
 date: Mon, 14 Feb 2022 07:06:00 +0000
 draft: false
 url: /2022/02/14/export-excel-data-to-google-sheets-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[Excel][1] files are widely used to store the data and perform various types of operations on it, such as generating charts, applying formulas. On the other hand, [Google Sheets][2] is a popular online application for creating and manipulating spreadsheets. Google Sheets also provides real-time sharing of spreadsheets with multiple people. In certain cases, you may need to export Excel XLS or XLSX files to Google Sheets programmatically. To achieve that, this article provides a complete guide on **how to set up a Google project and export data from Excel files to Google Sheets in Python**.'
 tags: ['Convert Excel File to Google Sheets Python', 'Export Data from Excel XLSX to Google Sheets Python', 'Export Excel to Google Sheet in Python']
 categories: ['Aspose.Cells Product Family']

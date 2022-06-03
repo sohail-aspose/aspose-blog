@@ -3,7 +3,7 @@ title: 'Create Survey Form from JSON Markup using C#'
 date: Sat, 26 Feb 2022 12:31:24 +0000
 draft: false
 url: /2022/02/26/create-survey-form-from-json-markup-using-csharp/
-author: 'Muzammil Khan'
+author: ''Muzammil Khan''
 summary: 'You can easily generate surveys, quizzes, and ready-to-print OMR answer sheets from JSON markup programmatically. In this article, you will learn **how to create a survey form from JSON markup using C#**.'
 tags: ['C# OMR API', 'Create Survey in C#', 'JSON to Survey C#', 'OMR Survey C#', 'Survey from JSON using C#']
 categories: ['Aspose.Total Product Family', 'Aspose.OMR Product Family']

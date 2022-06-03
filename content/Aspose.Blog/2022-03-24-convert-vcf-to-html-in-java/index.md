@@ -3,7 +3,7 @@ title: 'Convert VCF Files to HTML in Java'
 date: Thu, 24 Mar 2022 07:01:39 +0000
 draft: false
 url: /2022/03/24/convert-vcf-to-html-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[VCF][1] is a commonly used format to store the contact information of single or multiple persons. Also, it can contain the contact information of the business. The fields of a VCF file include name, address, phone, email, etc. In certain cases, you may need to convert a VCF file to HTML, for example, to embed it into a web page. To accomplish that programmatically, this article shows **how to convert a VCF file to HTML in Java**.'
 tags: ['Java Email Library', 'convert vcf files to html in java', 'vcf to html in java']
 categories: ['Aspose.Email Product Family']

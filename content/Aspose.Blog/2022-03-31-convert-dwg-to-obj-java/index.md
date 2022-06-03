@@ -3,7 +3,7 @@ title: 'Convert DWG to OBJ in Java'
 date: Thu, 31 Mar 2022 10:04:00 +0000
 draft: false
 url: /2022/03/31/convert-dwg-to-obj-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'DWG files contain vector images as well as metadata so that any off-book information is not needed to comprehend the drawings. Such drawings are used by engineers, architects, or town planners to create huge designs. In certain situations, you might require to convert a DWG file to an OBJ 3D Object format file. According to such use cases, this article covers how to **convert a DWG file to an OBJ file programmatically in Java**.'
 tags: ['DWG Drawing to OBJ Object', 'DWG to OBJ in Java', 'Java DWG to OBJ']
 categories: ['Aspose.CAD Product Family']

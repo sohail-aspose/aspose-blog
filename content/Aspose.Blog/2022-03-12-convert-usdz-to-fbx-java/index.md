@@ -3,7 +3,7 @@ title: 'Convert USDZ to FBX in Java'
 date: Sat, 12 Mar 2022 23:22:00 +0000
 draft: false
 url: /2022/03/12/convert-usdz-to-fbx-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'USDZ files contain robust schemas which are helpful for the interchange of skeletal, geometry, and shading information. Different 3D graphics manipulating applications might sometime need to export a USDZ file to FBX file format. In accordance with such requirements, this article covers how to **convert USDZ to FBX format programmatically in Java**.'
 tags: ['Convert USDZ to FBX in Java', 'Java USDZ to FBX', 'USDZ to FBX in Java']
 categories: ['Aspose.3D Product Family']

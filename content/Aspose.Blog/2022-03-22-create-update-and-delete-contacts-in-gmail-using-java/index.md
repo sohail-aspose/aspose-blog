@@ -3,7 +3,7 @@ title: 'Create, Update, and Delete Contacts in Gmail using Java'
 date: Tue, 22 Mar 2022 22:19:00 +0000
 draft: false
 url: /2022/03/22/create-update-and-delete-contacts-in-gmail-using-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '[Gmail][1] is one of the commonly used online applications for sending and receiving emails. In addition, it allows working with calendars, contacts, chats, etc., and provides various other collaboration services. Recently, in [an article][2], we have covered how to import contacts from a Gmail account. Today, you will learn **how to create, update, and delete contacts in a Gmail account using Java**.'
 tags: ['Create a Contact on Gmail in Java', 'Delete a Contact on Gmail in Java', 'Java API to Manage Gmail Contacts', 'Java Gmail API', 'Update a Contact on Gmail in Java']
 categories: ['Aspose.Email Product Family']

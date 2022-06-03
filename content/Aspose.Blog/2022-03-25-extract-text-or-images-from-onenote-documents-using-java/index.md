@@ -3,7 +3,7 @@ title: 'Extract Text or Images from OneNote Documents using Java'
 date: Fri, 25 Mar 2022 09:49:20 +0000
 draft: false
 url: /2022/03/25/extract-text-or-images-from-onenote-documents-using-java/
-author: 'Muzammil Khan'
+author: ''Muzammil Khan''
 summary: 'As a Java developer, you can easily extract text or images from OneNote documents programmatically without using MS OneNote. In this article, you will learn **how to extract text and images from OneNote documents using Java**.'
 tags: ['Extract Image', 'Extract Images from OneNote Java', 'Extract Text', 'Extract Text from OneNote Java', 'Text and Image Extractor Java API']
 categories: ['Aspose.Note Product Family']

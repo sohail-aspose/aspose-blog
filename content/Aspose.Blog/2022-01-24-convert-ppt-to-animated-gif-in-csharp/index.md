@@ -3,7 +3,7 @@ title: 'Convert PowerPoint PPT to Animated GIF in C#'
 date: Mon, 24 Jan 2022 07:48:00 +0000
 draft: false
 url: /2022/01/24/convert-ppt-to-animated-gif-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'PowePoint to GIF conversion is usually performed to avoid the necessity of MS PowerPoint for previewing the presentations. The animated GIF has the ability to contain all the PPT slides in a single file. Therefore, this article covers **how to convert a PowerPoint [PPT][1] or [PPTX][2] presentation to an animated [GIF][3] in C#**. Furthermore, you will learn how to customize frame size, the delay between slides, and frames per second programmatically.'
 tags: ['Convert a PowerPoint PPT to GIF in Csharp', 'powerpoint to gif csharp', 'ppt to gif csharp', 'pptx to gif csharp']
 categories: ['Aspose.Slides Product Family']

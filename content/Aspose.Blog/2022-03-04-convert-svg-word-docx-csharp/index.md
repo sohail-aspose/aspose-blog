@@ -3,7 +3,7 @@ title: 'Convert SVG to Word DOCX/DOC Document in C#'
 date: Fri, 04 Mar 2022 19:19:00 +0000
 draft: false
 url: /2022/03/04/convert-svg-word-docx-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'SVG images are popular because of their being scalable in nature. In certain scenarios, you might need to convert an SVG image to a Word document in DOCX or DOC format. Accordingly, this article covers how to **convert an SVG file to a Word document programmatically in C#.**'
 tags: ['Convert SVG to DOCX', 'SVG to DOC', 'SVG to DOCX', 'SVG to DOCX Converter in C#', 'SVG to DOCX in csharp', 'SVG to Word']
 categories: ['Aspose.HTML Product Family']

@@ -3,7 +3,7 @@ title: 'Extract Images from PowerPoint PPT in Java'
 date: Thu, 13 Jan 2022 15:46:00 +0000
 draft: false
 url: /2022/01/13/extract-images-from-ppt-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'In certain cases, you may need to extract images from PowerPoint presentations along with the text. To achieve that, this article covers **how to extract images from PowerPoint [PPT][1] or [PPTX][2] programmatically in Java**. You will also learn how to extract images only from the backgrounds or the shapes in PPT slides.'
 tags: ['Extract Images from PowerPoint PPT in Java', 'Extract Images from a PPT in Java', 'Extract Images from a PPTX Presentation in Java', 'Java API to Extract Images from PowerPoint PPT']
 categories: ['Aspose.Slides Product Family']

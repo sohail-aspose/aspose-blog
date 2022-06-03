@@ -3,7 +3,7 @@ title: 'Create Charts in PowerPoint Presentations in Python'
 date: Wed, 16 Feb 2022 14:51:58 +0000
 draft: false
 url: /2022/02/16/create-charts-in-powerpoint-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'Charts are used for the graphical representation of the data to make the analysis easier. Therefore, MS PowerPoint supports a range of charts to visualize the data in different ways. Among all, the most commonly used charts include pie charts, line charts, bar charts, histograms, stock charts, etc. In this article, you will learn **how to create these charts in PowerPoint PPT or PPTX in Python**.'
 tags: ['Add Histogram Chart in PowerPoint in Python', 'Add Pie Chart in PowerPoint in Python', 'Create Column Chart in PowerPoint in Python', 'Create Scatter Chart in PowerPoint in Python', 'Create a Stock Chart in PowerPoint in Python', 'Python Library to Create Charts in PowerPoint']
 categories: ['Aspose.Slides Product Family']

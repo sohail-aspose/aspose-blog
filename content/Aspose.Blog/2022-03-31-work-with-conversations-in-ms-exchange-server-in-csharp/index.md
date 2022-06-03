@@ -3,7 +3,7 @@ title: 'Work with Conversations on MS Exchange Server in C#'
 date: Thu, 31 Mar 2022 06:05:38 +0000
 draft: false
 url: /2022/03/31/work-with-conversations-in-ms-exchange-server-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'The conversations on [Microsoft Exchange Server][1] are referred to as the group of email messages in a thread. In simple words, an email and all its replies are known to be a conversation. In this article, we will show you how to work with conversations in MS Exchange Server programmatically. Particularly, you will learn **how to find, copy, move and delete conversations on MS Exchange Server in C# .NET**.'
 tags: ['API to Work with Conversations in MS Exchange Server in Csharp', 'Copy a Conversation in MS Exchange Server Csharp', 'Delete a Conversation in MS Exchange Server Csharp', 'Find Conversations in MS Exchange Server Csharp', 'Move a Conversation in MS Exchange Server Csharp']
 categories: ['Aspose.Email Product Family']

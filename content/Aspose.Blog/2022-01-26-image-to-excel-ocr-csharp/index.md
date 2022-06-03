@@ -3,7 +3,7 @@ title: 'Convert Image to Excel with OCR in C#'
 date: Wed, 26 Jan 2022 10:18:00 +0000
 draft: false
 url: /2022/01/26/image-to-excel-ocr-csharp/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'Images contain visual information which may be needed in text format for processing data. In such situations, **you can convert an image to Excel format programmatically in C#**. For example, an image can contain numeric values which you might need to perform calculations. In accordance with that, this article covers how to convert an image to an Excel file.'
 tags: ['Image to Excel', 'Image to Excel in csharp', 'JPG to Excel in csharp', 'PNG to Excel in csharp', 'Scanned Image to Excel']
 categories: ['Aspose.OCR Product Family']

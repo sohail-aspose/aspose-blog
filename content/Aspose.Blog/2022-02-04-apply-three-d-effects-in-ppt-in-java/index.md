@@ -3,7 +3,7 @@ title: 'Apply 3D Effects in PowerPoint PPT in Java'
 date: Fri, 04 Feb 2022 10:28:09 +0000
 draft: false
 url: /2022/02/04/apply-three-d-effects-in-ppt-in-java/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: "3D effects in PowerPoint are used to make the presentations more attractive and catch users' attention Therefore, you may come across the requirement of adding 3D objects to presentations programmatically. In this article, you will learn **how to create 3D effects in PowerPoint PPT or PPTX in Java**. We will show you how to create 3D text and shapes and apply 3D effects to images."
 tags: ['Apply 3D Effects to an Image in PowerPoint Java', 'Create a 3D Shape in PowerPoint in Java', 'Create a 3D Text in PowerPoint in Java', 'Java API to Create 3D Effects in PowerPoint', 'Java PowerPoint Library']
 categories: ['Aspose.Slides Product Family']

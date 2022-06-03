@@ -3,7 +3,7 @@ title: 'Add Signature to an Image in Java'
 date: Fri, 18 Feb 2022 20:50:00 +0000
 draft: false
 url: /2022/02/18/sign-image-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'Images and other document formats are frequently used in everyday business. Many images are therefore signed in order to avoid copyright infringement or to exhibit the ownership of work. For such requirements, you can use Aspose.PSD for Java API to manipulate images or graphic contents. This article explains how to **add a signature to an image programmatically in Java.**'
 tags: ['Sign PNG image', 'image signature in java', 'java image signature', 'sign PSD image', 'sign image in java']
 categories: ['Aspose.PSD Product Family']

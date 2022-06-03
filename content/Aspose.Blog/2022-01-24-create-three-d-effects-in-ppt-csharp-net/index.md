@@ -3,7 +3,7 @@ title: 'Apply 3D Effects in PowerPoint PPT using C#'
 date: Mon, 24 Jan 2022 15:13:27 +0000
 draft: false
 url: /2022/01/24/create-three-d-effects-in-ppt-csharp-net/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: '3D effects in PowerPoint presentations make the content more attractive. Using 3D text or shapes, you can enhance the interactivity and catch the attention of the audience. While working on the automation of PowerPoint from within .NET applications, you may need to add 3D effects to the presentations. To accomplish that, this article covers **how to apply the 3D effects in PowerPoint PPT in C#**.'
 tags: ['Apply 3D Effects to an Image in PPT Csharp', 'Create a 3D Shape in PowerPoint in Csharp', 'Create a 3D Text in PowerPoint in Csharp', 'Dotnet API to Create 3D Effects in PowerPoint', 'Set Gradient for 3D Shapes in PPT in Csharp']
 categories: ['Aspose.Slides Product Family']

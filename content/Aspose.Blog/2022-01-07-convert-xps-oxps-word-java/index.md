@@ -3,7 +3,7 @@ title: 'Convert XPS or OXPS to Word Document using Java'
 date: Fri, 07 Jan 2022 08:08:00 +0000
 draft: false
 url: /2022/01/07/convert-xps-oxps-word-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'XPS and OXPS files are often preferred owing to their resolution-independent nature to create high-quality printing output. In certain cases, you might need to convert an XPS or OXPS file to a Word document. This article discusses how to **convert XPS or OXPS documents to a word file with DOCX or DOC file extension programmatically in Java**.'
 tags: ['Convert OXPS to Word Java', 'Java Convert XPS to Word', 'OXPS to DOCX', 'OXPS to Word', 'XPS to DOCX', 'XPS to Word']
 categories: ['Aspose.Page Product Family']

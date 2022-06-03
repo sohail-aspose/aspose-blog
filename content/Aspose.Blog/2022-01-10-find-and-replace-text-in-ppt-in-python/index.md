@@ -3,7 +3,7 @@ title: 'Find and Replace Text in PowerPoint PPT in Python'
 date: Mon, 10 Jan 2022 13:56:00 +0000
 draft: false
 url: /2022/01/10/find-and-replace-text-in-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'While processing digital documents, you often need to find and replace a specific text in the content. This could be required when a piece of information is to be censored before sharing the documents. To accomplish this programmatically, this article covers **how to find and replace text in PowerPoint [PPT][1] or [PPTX][2] in Python**.'
 tags: ['Find and Replace Text in PPT in Python', 'Find and Replace Text in PPTX in Python', 'Python Library to Find and Replace Text in PowerPoint', 'Search Text in PowerPoint PPT in Python']
 categories: ['Aspose.Slides Product Family']

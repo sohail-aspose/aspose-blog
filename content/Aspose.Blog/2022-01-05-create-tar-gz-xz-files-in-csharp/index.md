@@ -3,7 +3,7 @@ title: 'Create TAR.GZ and TAR.XZ Files in C#'
 date: Wed, 05 Jan 2022 03:29:00 +0000
 draft: false
 url: /2022/01/05/create-tar-gz-xz-files-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: "[TAR][1] is a popular UNIX-based archiving format that is used to package multiple files including audios, videos, installers, etc. On the other hand, GNU is a data compression algorithm to compress large files before sharing. The TAR.GZ is the combination of TAR's archiving and GNU's compression. Similarly, [XZ Utils][2] also provides compression of TAR archives as TAR.XZ format. In this article, you will learn **how to compress TAR archives and create TAR.GZ and TAR.XZ files in C#**."
 tags: ['Compress TAR Archives in Csharp', 'Create a TAR GZ File in Csharp', 'Create a TAR XZ File in Csharp']
 categories: ['Aspose.ZIP Product Family']

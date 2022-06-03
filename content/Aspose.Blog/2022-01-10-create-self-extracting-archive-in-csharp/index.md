@@ -3,7 +3,7 @@ title: 'Create Executable Self-extracting Archive in C#'
 date: Mon, 10 Jan 2022 09:07:24 +0000
 draft: false
 url: /2022/01/10/create-self-extracting-archive-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: "A [self-extracting archive][1] (SFX or SEA) is a special type of file that contains compressed data along with executable instructions. This archive has the ability to extract the files it contains by itself. Therefore, you don't need any specific extractor or decompressor application to open self-extracting archives. In this article, you will learn **how to create executable self-extracting archives in C# from within your .NET applications**."
 tags: ['Create SFX in Csharp', 'Create a Self-extracting Archive in CSharp Dotnet', 'Dotnet API to Create Self-extracting Archives', 'Executing Self-extracting Archives from Command Line']
 categories: ['Aspose.ZIP Product Family']

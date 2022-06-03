@@ -3,7 +3,7 @@ title: 'Convert Excel Files to Google Sheets in C# .NET'
 date: Thu, 10 Mar 2022 09:30:25 +0000
 draft: false
 url: /2022/03/10/convert-excel-to-google-sheets-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: "Spreadsheets are commonly used for storing small or large-scale data in the form of rows and columns. Various applications are available to create and manipulate spreadsheets, of which [MS Excel][1] is a popular one. Alongside, Google provides [Google Sheets][2], which is used to create and update spreadsheets online. In addition, Google Sheets lets you share the spreadsheets with multiple people in real-time. In certain cases, you may need to export data from Excel XLS or XLSX files to a spreadsheet in Google Sheets programmatically. So let's see **how you can read data from an Excel file and write it to Google Sheets' spreadsheet in C# .NET**."
 tags: ['Excel to Google Sheets in Csharp', 'Export Excel Data to Google Sheets in Csharp', 'XLS to Google Sheets in Csharp', 'XLSX to Google Sheets in Csharp']
 categories: ['Aspose.Cells Product Family']

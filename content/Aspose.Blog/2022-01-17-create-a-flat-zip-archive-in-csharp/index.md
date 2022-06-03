@@ -3,7 +3,7 @@ title: 'Create a Flat ZIP Archive in C#'
 date: Mon, 17 Jan 2022 23:45:00 +0000
 draft: false
 url: /2022/01/17/create-a-flat-zip-archive-in-csharp/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'Often, you get a [ZIP][1] archive that contains other ZIP archives inside it forming a nested structure of the archives. In such cases, you may want to get a flat structure by extracting all the inner ZIP archives into the outer archive. To perform this operation programmatically, this article shows **how to create a flat ZIP archive in C#**.'
 tags: ['Create a Flat ZIP Archive in Csharp', 'Dotnet API to Create Flat ZIP Archives', 'Dotnet ZIP Library']
 categories: ['Aspose.ZIP Product Family']

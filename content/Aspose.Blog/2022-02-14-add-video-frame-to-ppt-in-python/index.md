@@ -3,7 +3,7 @@ title: 'Add Video Frame in PowerPoint PPT using Python'
 date: Mon, 14 Feb 2022 02:55:00 +0000
 draft: false
 url: /2022/02/14/add-video-frame-to-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'MS PowerPoint allows adding media elements to the presentations such as audio and video. Video frames are used to insert the video clips from local files or web sources. In this article, you will learn **how to add video frames in a PowerPoint PPT or PPTX in Python**. We will also demonstrate how to embed videos from a web source such as YouTube and extract videos from a PPT.'
 tags: ['Add YouTube Video in PPT in Python', 'Add a Video Frame in a PowerPoint PPT Python', 'Extract Video from a PowerPoint PPT in Python', 'Python Library to Add Video Frame in PowerPoint PPT']
 categories: ['Aspose.Slides Product Family']

@@ -3,7 +3,7 @@ title: 'Add Text or Image Watermark to PowerPoint PPT in Python'
 date: Wed, 09 Feb 2022 13:48:02 +0000
 draft: false
 url: /2022/02/09/add-watermark-to-powerpoint-ppt-in-python/
-author: 'Usman Aziz'
+author: ''Usman Aziz''
 summary: 'Watermarks are commonly used to protect a document or to specify its ownership. On the other hand, they are used to display the status of a document such as manuscript, draft, etc. In this article, we will demonstrate how to insert watermarks in PowerPoint presentations. You will learn **how to add text or image watermark to PowerPoint PPT slides in Python**.'
 tags: ['Add Text Watermark to PPT Slides in Python', 'Insert Image Watermark to PPT Slides in Python', 'Python Library to Add Watermark to PowerPoint Slides', 'Remove Watermark from PPT in Python']
 categories: ['Aspose.Slides Product Family']

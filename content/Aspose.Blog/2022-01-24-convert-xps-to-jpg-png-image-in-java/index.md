@@ -3,7 +3,7 @@ title: 'Convert XPS to JPG or PNG Image in Java'
 date: Mon, 24 Jan 2022 08:16:00 +0000
 draft: false
 url: /2022/01/24/convert-xps-to-jpg-png-image-in-java/
-author: 'Farhan Raza'
+author: ''Farhan Raza''
 summary: 'XPS files are used to save documents in the page description language. You may need to convert an XPS file to an image for previewing the contents or creating thumbnails. In accordance with such scenarios, this article covers how to **convert XPS to JPG or PNG images using Java**.'
 tags: ['Convert XPS to JPG', 'Convert XPS to PNG Java', 'Java XPS to JPG', 'XPS to Image in Java']
 categories: ['Aspose.Page Product Family']
