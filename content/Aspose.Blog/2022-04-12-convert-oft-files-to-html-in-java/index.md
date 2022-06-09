@@ -1,9 +1,11 @@
 ---
 title: 'Convert OFT Files to HTML in Java'
+seoTitle: "Convert OFT to HTML in Java | Java Email Converter API"
+description: "Use Java email API to convert OFT template files to HTML programmatically in Java. Convert OFT to HTML within a couple of lines of code."
 date: Tue, 12 Apr 2022 07:10:00 +0000
 draft: false
 url: /2022/04/12/convert-oft-files-to-html-in-java/
-author: 'Usman Aziz'
+author: Usman Aziz
 summary: 'MS Outlook uses [OFT][1] as a template format to create layouts for the emails. The template can be preformatted and populated with the content dynamically for creating custom messages. In some instances, you may get the OFT files and need to convert them to HTML format programmatically. To achieve that, this article shows **how to convert an OFT file to HTML in Java**.'
 tags: ['Convert an OFT File to HTML in Java', 'Java API for OFT to HTML Conversion', 'Java Email API', 'Java Email Converter API']
 categories: ['Aspose.Email Product Family']

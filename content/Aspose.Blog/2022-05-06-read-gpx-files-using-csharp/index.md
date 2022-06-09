@@ -1,9 +1,11 @@
 ---
 title: 'Read GPX Files using C#'
+seoTitle: "Read GPX Files using C# | Read Features from GPX File using C#"
+description: "Programmatically read GPX files using C# with Aspose.GIS for .NET API. Read features, points, and geometries from GPX files in your .NET applications."
 date: Fri, 06 May 2022 13:33:54 +0000
 draft: false
 url: /2022/05/06/read-gpx-files-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a C# developer, you can easily read GPX files and extract GPS data such as waypoints, tracks, routes, etc. In this article, you will learn **how to read GPX files using C#**.'
 tags: ['C# API to Read GPX files', 'Extract GPS from GPX C#', 'GPX', 'GPX in C#', 'Load GPX C#', 'Read Features from GPX File using C#', 'Read GPX files in C#', 'Read Points from GPX C#', 'Read Routes from GPX C#', 'Read Tracks from GPX C#']
 categories: ['Aspose.GIS Product Family']
@@ -14,19 +16,19 @@ categories: ['Aspose.GIS Product Family']
 {{< figure align=center src="images/read-gpx-files-using-csharp.jpg" alt="Read GPX Files using C#">}}
 
 
-A [GPX](https://docs.fileformat.com/gis/gpx/) file contains GPS data saved in GPS Exchange Format. It is an XML schema to describe geographic information such as waypoints, tracks, routes, etc. It allows transferring GPS data between GPS units and software applications. We can easily load the GPX file and extract GPS information programmatically in .NET applications. In this article, we will learn **how to read GPX files using C#**.
+A [GPX][1] file contains GPS data saved in GPS Exchange Format. It is an XML schema to describe geographic information such as waypoints, tracks, routes, etc. It allows transferring GPS data between GPS units and software applications. We can easily load the GPX file and extract GPS information programmatically in .NET applications. In this article, we will learn **how to read GPX files using C#**.
 
 The article shall cover the following topics:
 
-*   [C# API to Read GPX Files](#CSharp-API-to-Read-GPX-Files)
-*   [Read Waypoints from the GPX File](#Read-Waypoints-from-the-GPX-File-in-CSharp)
-*   [Read Routes from the GPX File](#Read-Routs-from-the-GPX-File-in-CSharp)
-*   [Extract Tracks from GPX File](#Extract-Tracks-from-the-GPX-File-in-CSharp)
-*   [Read GPX Nested Attributes](#Read-GPX-Nested-Attributes-in-CSharp)
+*   [C# API to Read GPX Files][2]
+*   [Read Waypoints from the GPX File][3]
+*   [Read Routes from the GPX File][4]
+*   [Extract Tracks from GPX File][5]
+*   [Read GPX Nested Attributes][6]
 
 ## C# API to Read GPX Files {#CSharp-API-to-Read-GPX-Files}
 
-For reading features from GPX files, we will be using the [Aspose.GIS for .NET](https://products.aspose.com/gis/net/) API. It allows you to render maps, and create, read, and convert geographic data without additional software. It also enables you to convert KML files to GPX format and vice versa. Please either [download](https://downloads.aspose.com/gis/net) the DLL of the API or install it using [NuGet](https://www.nuget.org/packages/Aspose.GIS/).
+For reading features from GPX files, we will be using the [Aspose.GIS for .NET][7] API. It allows you to render maps, and create, read, and convert geographic data without additional software. It also enables you to convert KML files to GPX format and vice versa. Please either [download][8] the DLL of the API or install it using [NuGet][9].
 
 ```
 PM> Install-Package Aspose.GIS
@@ -36,14 +38,14 @@ PM> Install-Package Aspose.GIS
 
 We can read waypoints from the GPX file as Point Geometry by following the steps given below:
 
-1.  Firstly, load the GPX file using the [OpenLayer](https://apireference.aspose.com/gis/net/aspose.gis.filedriver/openlayer/methods/2) method.
-2.  Next, for each feature in the layer, check if [GeometryType](https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype) is [Point](https://apireference.aspose.com/gis/net/aspose.gis.geometries/point).
+1.  Firstly, load the GPX file using the [OpenLayer][10] method.
+2.  Next, for each feature in the layer, check if [GeometryType][11] is [Point][12].
 3.  After that, get the geometry of the feature as a **_Point_**.
 4.  Finally, show X and Y coordinate points.
 
 The following code sample shows **how to read waypoints from a GPX file using C#**.
 
-\[gist id="9d89bd3d5ce5d0447a62b629d0fc2337" file="ReadGPXFiles\_CSharp\_ReadWayPoints.cs"\]
+{{< gist aspose-com-gists 9d89bd3d5ce5d0447a62b629d0fc2337 "ReadGPXFiles_CSharp_ReadWayPoints.cs" >}}
 
 ```
 POINT (-90.29408 38.63473) X: -90.29408 Y: 38.63473
@@ -62,14 +64,14 @@ POINT (-90.28769 38.63347) X: -90.28769 Y: 38.63347
 
 We can read routes from the GPX file as Line String geometry by following the steps given below:
 
-1.  Firstly, load the GPX file using the [OpenLayer](https://apireference.aspose.com/gis/net/aspose.gis.filedriver/openlayer/methods/2) method.
-2.  Next, for each feature in the layer, check if [GeometryType](https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype) is [LineString](https://apireference.aspose.com/gis/net/aspose.gis.geometries/linestring).
+1.  Firstly, load the GPX file using the [OpenLayer][13] method.
+2.  Next, for each feature in the layer, check if [GeometryType][14] is [LineString][15].
 3.  After that, get the geometry of the feature as **_LineString_**.
 4.  Finally, show X, Y, and Z coordinate points.
 
 The following code sample shows **how to read routes from a GPX file using C#**.
 
-\[gist id="9d89bd3d5ce5d0447a62b629d0fc2337" file="ReadGPXFiles\_CSharp\_ReadRoutes.cs"\]
+{{< gist aspose-com-gists 9d89bd3d5ce5d0447a62b629d0fc2337 "ReadGPXFiles_CSharp_ReadRoutes.cs" >}}
 
 ```
 =====================================================
@@ -92,14 +94,14 @@ The following code sample shows **how to read routes from a GPX file using C#**.
 
 We can read tracks from the GPX file as MultiLineString geometry by following the steps given below:
 
-1.  Firstly, load the GPX file using the [OpenLayer](https://apireference.aspose.com/gis/net/aspose.gis.filedriver/openlayer/methods/2) method.
-2.  Next, for each feature in the layer, check if [GeometryType](https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype) is [MultiLineString](https://apireference.aspose.com/gis/net/aspose.gis.geometries/multilinestring).
+1.  Firstly, load the GPX file using the [OpenLayer][16] method.
+2.  Next, for each feature in the layer, check if [GeometryType][17] is [MultiLineString][18].
 3.  After that, get the geometry of the feature as **_MultiLineString_**.
 4.  Finally, show the tracks.
 
 The following code sample shows **how to read tracks from a GPX file using C#**.
 
-\[gist id="9d89bd3d5ce5d0447a62b629d0fc2337" file="ReadGPXFiles\_CSharp\_ReadTracks.cs"\]
+{{< gist aspose-com-gists 9d89bd3d5ce5d0447a62b629d0fc2337 "ReadGPXFiles_CSharp_ReadTracks.cs" >}}
 
 ```
 LINESTRING (0 0, 1 1, 2 2, 3 3)
@@ -112,21 +114,21 @@ LINESTRING (10 10, 11 11, 12 12, 13 13)
 
 We can read features for each point in the segment and extract nested attribute values by following the steps given below:
 
-1.  Firstly, create an instance of the [GpxOptions](https://apireference.aspose.com/gis/net/aspose.gis.formats.gpx/gpxoptions) class.
+1.  Firstly, create an instance of the [GpxOptions][19] class.
 2.  Next, set the **_ReadNestedAttributes_** to true.
-3.  Then, load the GPX file using the [OpenLayer()](https://apireference.aspose.com/gis/net/aspose.gis.formats.gpx.gpxdriver/openlayer/methods/2) method with the **_GpxOptions_** object as an argument.
-4.  Next, for each feature in the layer, check if [GeometryType](https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype) is [MultiLineString](https://apireference.aspose.com/gis/net/aspose.gis.geometries/multilinestring).
+3.  Then, load the GPX file using the [OpenLayer()][20] method with the **_GpxOptions_** object as an argument.
+4.  Next, for each feature in the layer, check if [GeometryType][21] is [MultiLineString][22].
 5.  Then, get the geometry of the feature as **_MultiLineString_**.
 6.  After that, read the segment as **_LineString_** from each **_MultiLineString_**.
 7.  Finally, read points in the segment and show the attribute values.
 
 The following code sample shows **how to read GPX nested attributes from a GPX file using C#**.
 
-\[gist id="9d89bd3d5ce5d0447a62b629d0fc2337" file="ReadGPXFiles\_CSharp\_ReadGPSNestedAttributes.cs"\]
+{{< gist aspose-com-gists 9d89bd3d5ce5d0447a62b629d0fc2337 "ReadGPXFiles_CSharp_ReadGPSNestedAttributes.cs" >}}
 
 ## Get a Free License {#Get-a-Free-API-License}
 
-You can [get a free temporary license](https://purchase.aspose.com/temporary-license) to try the library without evaluation limitations.
+You can [get a free temporary license][23] to try the library without evaluation limitations.
 
 ## Conclusion
 
@@ -136,12 +138,44 @@ In this article, we have learned how to:
 *   read waypoints, routes, and tracks from the GPX file programmatically;
 *   read the nested attribute from a GPX file using C#.
 
-Besides, you can learn more about Aspose.GIS for .NET API using the [documentation](https://docs.aspose.com/gis/net/). In case of any ambiguity, please feel free to contact us on the [forum](https://forum.aspose.com/c/gis/33).
+Besides, you can learn more about Aspose.GIS for .NET API using the [documentation][24]. In case of any ambiguity, please feel free to contact us on the [forum][25].
 
 ## See Also
 
-*   [Convert KML to GPX and GPX to KML using C#](https://blog.aspose.com/2021/11/19/convert-kml-to-gpx-and-gpx-to-kml-using-csharp/)
-*   [Read Vector Layer Features, Points, and Geometries from CSV Files](https://blog.aspose.com/2021/11/05/read-vector-layer-features-points-and-geometries-from-csv-files/)
+*   [Convert KML to GPX and GPX to KML using C#][26]
+*   [Read Vector Layer Features, Points, and Geometries from CSV Files][27]
+
+
+
+
+[1]: https://docs.fileformat.com/gis/gpx/
+[2]: #CSharp-API-to-Read-GPX-Files
+[3]: #Read-Waypoints-from-the-GPX-File-in-CSharp
+[4]: #Read-Routs-from-the-GPX-File-in-CSharp
+[5]: #Extract-Tracks-from-the-GPX-File-in-CSharp
+[6]: #Read-GPX-Nested-Attributes-in-CSharp
+[7]: https://products.aspose.com/gis/net/
+[8]: https://downloads.aspose.com/gis/net
+[9]: https://www.nuget.org/packages/Aspose.GIS/
+[10]: https://apireference.aspose.com/gis/net/aspose.gis.filedriver/openlayer/methods/2
+[11]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype
+[12]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/point
+[13]: https://apireference.aspose.com/gis/net/aspose.gis.filedriver/openlayer/methods/2
+[14]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype
+[15]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/linestring
+[16]: https://apireference.aspose.com/gis/net/aspose.gis.filedriver/openlayer/methods/2
+[17]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype
+[18]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/multilinestring
+[19]: https://apireference.aspose.com/gis/net/aspose.gis.formats.gpx/gpxoptions
+[20]: https://apireference.aspose.com/gis/net/aspose.gis.formats.gpx.gpxdriver/openlayer/methods/2
+[21]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/geometrytype
+[22]: https://apireference.aspose.com/gis/net/aspose.gis.geometries/multilinestring
+[23]: https://purchase.aspose.com/temporary-license
+[24]: https://docs.aspose.com/gis/net/
+[25]: https://forum.aspose.com/c/gis/33
+[26]: https://blog.aspose.com/2021/11/19/convert-kml-to-gpx-and-gpx-to-kml-using-csharp/
+[27]: https://blog.aspose.com/2021/11/05/read-vector-layer-features-points-and-geometries-from-csv-files/
+
 
 
 

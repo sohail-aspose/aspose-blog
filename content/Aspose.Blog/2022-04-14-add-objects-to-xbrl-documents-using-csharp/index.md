@@ -1,9 +1,11 @@
 ---
 title: 'Add Objects to XBRL Documents using C#'
+seoTitle: "Add Objects to XBRL Documents using C# | Add XBRL Objects in C#"
+description: "Programmatically create XBRL instance document and Add Objects to XBRL Documents using C# with Aspose.Finance for .NET API."
 date: Thu, 14 Apr 2022 12:22:02 +0000
 draft: false
 url: /2022/04/14/add-objects-to-xbrl-documents-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'You can easily create an XBRL instance document programmatically and add objects or elements such as schema reference, context, unit, items, etc. In this article, you will learn **how to add objects to XBRL instance documents using C#**.'
 tags: ['Add Context Object in XBRL using C#', 'Add Fact Object in XBRL using C#', 'Add Schema Reference to XBRL using C#', 'Create Units in XBRL using C#', 'XBRL', 'XBRL Instance C#']
 categories: ['Aspose.Finance Product Family']

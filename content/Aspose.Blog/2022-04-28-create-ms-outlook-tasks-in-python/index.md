@@ -1,9 +1,11 @@
 ---
 title: 'Create MS Outlook Tasks in Python'
+seoTitle: "Create MS Outlook Task in Python | Automate Outlook in Python"
+description: "Use Python email processing library to create MS Outlook tasks in Python. Add reminder and recurrence to the Outlook task programmatically in Python."
 date: Thu, 28 Apr 2022 17:50:26 +0000
 draft: false
 url: /2022/04/28/create-ms-outlook-tasks-in-python/
-author: 'Usman Aziz'
+author: Usman Aziz
 summary: '[MS Outlook][1] allows you to create to-do lists that are comprised of different tasks. Each task is an activity that is to be performed within a particular period of time. Thus, you can keep track of the tasks assigned to you. While automating MS Outlook operations, you may need to work with Outlook tasks. Accordingly, in this article, you will learn **how to create MS Outlook tasks programmatically in Python**.'
 tags: ['Add Reminder to Outlook Tasks Python', 'Adding Recurrence to Outlook Task in Python', 'Create a Task on MS Outlook in Python', 'Python Library to Create MS Outlook Tasks', 'python email library']
 categories: ['Aspose.Email Product Family']

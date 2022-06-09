@@ -1,9 +1,11 @@
 ---
 title: 'Apply Gaussian Blur Filter on Images in C#'
+seoTitle: "Apply Gaussian Blur Filter on Image in C# .NET - Quick and Easy"
+description: "You can apply Gaussian blur filter on an image programmatically in C#. Work with gaussian blur smart filter in PSD and other images in .NET."
 date: Sun, 24 Apr 2022 21:22:00 +0000
 draft: false
 url: /2022/04/24/gaussian-blur-filter-csharp/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'In certain cases, you may need to work with a Gaussian blur filter in your applications. Accordingly, this article covers how to apply the **Gaussian blur filter on the images programmatically in C#**.'
 tags: ['Gaussian Blur Filter', 'Gaussian Blur Filter C#', 'Gaussian Blur Filter csharp', 'Gaussian Blur Filter dotnet', 'Gaussian Filter C#']
 categories: ['Aspose.PSD Product Family']

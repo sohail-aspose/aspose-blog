@@ -1,9 +1,11 @@
 ---
 title: 'Convert DWF or DWFX to SVG in Java'
+seoTitle: "Convert DWF or DWFX to SVG Image Programmatically in Java"
+description: "Convert DWF or DWFX to SVG Image Programmatically in Java. Export DWF DWFX to vector image in java based applications with high fidelity."
 date: Mon, 18 Apr 2022 21:34:00 +0000
 draft: false
 url: /2022/04/18/convert-dwf-dwfx-to-svg-java/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'DWF or DWFX files contain design data in 2D or 3D format. They comprise vector image data and metadata in binary coding. In certain scenarios, you may need to convert DWF or DWFX files to an SVG image file as per your requirements. In accordance with that, the article covers how to **convert DWF or DWFX to SVG images programmatically using Java.**'
 tags: ['DWF to SVG Image', 'DWF to SVG in Java', 'DWFX to SVG Image']
 categories: ['Aspose.CAD Product Family']

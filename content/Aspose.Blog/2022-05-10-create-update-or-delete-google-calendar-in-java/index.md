@@ -1,9 +1,11 @@
 ---
 title: 'Create, Update or Delete Google Calendar in Java'
+seoTitle: "Create or Update Google Calendar in Java | Delete Calendar | Java API"
+description: "Use Java email API to create and update Google Calendar programmatically in Java. Delete a particular Google Calendar from within your Java application."
 date: Tue, 10 May 2022 07:03:40 +0000
 draft: false
 url: /2022/05/10/create-update-or-delete-google-calendar-in-java/
-author: 'Usman Aziz'
+author: Usman Aziz
 summary: '[Google Calendar][1] is a scheduling service that lets you create and keep track of the events such as meetings. You can log the events on the calendar and get reminders about the upcoming ones. Google also allows you to use its calendaring service programmatically. Thus, you can manage your events using Google Calendars from within your applications. In this article, you will learn **how to create, update, and delete Google Calendar programmatically in Java**.'
 tags: ['Create a Google Calendar in Java', 'Delete a Google Calendar in Java', 'Java API to Create and Manipulate Google Calendar', 'Update a Google Calendar in Java']
 categories: ['Aspose.Email Product Family']

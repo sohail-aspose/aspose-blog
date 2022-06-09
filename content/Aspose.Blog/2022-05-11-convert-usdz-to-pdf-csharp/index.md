@@ -1,9 +1,11 @@
 ---
 title: 'Convert USDZ to PDF in C#'
+seoTitle: "Convert USDZ to PDF Programmatically in C# .NET"
+description: "Convert USDZ to PDF document programmatically in C#. Export USDZ to PDF file in .NET or .NET Core framework based applications."
 date: Wed, 11 May 2022 11:16:00 +0000
 draft: false
 url: /2022/05/11/convert-usdz-to-pdf-csharp/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'USDZ files are getting popular due to their usability in augmented reality scenarios. However, a limited number of applications support viewing or manipulating such files. So you might need to convert a USDZ file to PDF format in certain situations because of the cross-platform support for the PDF files. In accordance with such scenarios, this article covers how to **convert a USDZ file to a PDF** format file programmatically in C#.'
 tags: ['Convert USDZ to PDF', 'USDZ to PDF', 'USDZ to PDF in csharp']
 categories: ['Aspose.3D Product Family']
@@ -37,7 +39,7 @@ You can convert a USDZ file to a PDF document with the following steps:
 
 The following code sample demonstrates how to convert a USDZ file to PDF format programmatically in C#:
 
-
+\[gist id="92fc9b922340b3005b9af5177d429abe" file="USDZ to PDF.cs"\]
 
 ## Get Free Temporary License
 
@@ -54,7 +56,6 @@ In this article, you have learned how to convert a USDZ file to PDF format progr
 ## See Also
 
 [Convert OBJ to USDZ File Programmatically in C#][14]
-
 
 
 

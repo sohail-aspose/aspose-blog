@@ -1,9 +1,11 @@
 ---
 title: 'Convert STL to USDZ File in Java'
+seoTitle: "Convert STL to USDZ Programmatically in Java | Export STL"
+description: "Convert STL to USDZ file programmatically in Java. Export STL file in Java applications with a few API calls. Quick and simple conversion."
 date: Wed, 27 Apr 2022 09:53:00 +0000
 draft: false
 url: /2022/04/27/convert-stl-to-usdz-java/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'An STL file describes the surface geometry of 3D objects and they are commonly used 3D printing, rapid prototyping, etc. While the USDZ files are getting popular to be used in augmented reality scenarios. They are the uncompressed ZIP archives that contain Universal Scene Description information. In certain cases, you may need to **convert an STL file to USDZ format**.'
 tags: ['Convert STL to USDZ', 'Java STL to USDZ Java', 'STL to USDZ Java']
 categories: ['Aspose.3D Product Family']

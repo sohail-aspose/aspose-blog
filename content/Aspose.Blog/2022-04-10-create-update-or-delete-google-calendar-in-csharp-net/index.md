@@ -1,9 +1,11 @@
 ---
 title: 'Create, Update or Delete Google Calendar in C#'
+seoTitle: "Create or Update Google Calendar in C# .NET | Delete Calendar | .NET API"
+description: "Use .NET email API to create and update Google Calendar programmatically in C#. Delete a particular Google Calendar from within your .NET applications."
 date: Sun, 10 Apr 2022 15:16:00 +0000
 draft: false
 url: /2022/04/10/create-update-or-delete-google-calendar-in-csharp-net/
-author: 'Usman Aziz'
+author: Usman Aziz
 summary: '[Google Calendar][1] is a scheduling service that lets you create and keep track of the events such as meetings. You can log the events on the calendar and get reminders about the upcoming ones. Google also allows you to use its calendaring service programmatically. Thus, you can manage your events using Google Calendars from within your applications. In this article, you will learn **how to create, update, and delete Google Calendar programmatically in C#**.'
 tags: ['Create a Google Calendar in CSharp', 'Delete a Google Calendar in CSharp', 'DotNet API to Create and Manipulate Google Calendar', 'Update a Google Calendar in CSharp']
 categories: ['Aspose.Email Product Family']

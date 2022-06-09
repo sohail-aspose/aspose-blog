@@ -1,9 +1,11 @@
 ---
 title: 'Create PDF from LaTeX in Java'
+seoTitle: "Create PDF from LaTeX in Java | Convert LaTeX to PDF in Java"
+description: "Programmatically Create PDF from LaTeX in Java with Aspose.TeX for Java API. Convert TeX to PDF and XPS, convert LTX to PDF and XPS using Java."
 date: Thu, 07 Apr 2022 14:12:44 +0000
 draft: false
 url: /2022/04/07/create-pdf-from-latex-in-java/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a Java developer, you can easily create a PDF document from the LaTeX source file programmatically. In this article, you will learn **how to create PDF from LaTeX in Java**.'
 tags: ['Convert Latex to PDF in Java', 'LTX to PDF in Java', 'TeX to PDF', 'TeX to PDF in Java', 'TeX to XPS']
 categories: ['Aspose.TeX Product Family']

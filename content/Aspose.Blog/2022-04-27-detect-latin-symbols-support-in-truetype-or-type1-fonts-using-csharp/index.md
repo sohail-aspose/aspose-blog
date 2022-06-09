@@ -1,9 +1,11 @@
 ---
 title: 'Detect Latin Symbols Support in TrueType or Type1 Fonts using C#'
+seoTitle: "Detect Latin Symbols Support in TrueType or Type1 Fonts using C#"
+description: "Programmatically Detect Latin Symbols Support in TrueType or Type1 Fonts using C# with Aspose.Font for .NET API. Check font glyph for Latin symbols in C#."
 date: Wed, 27 Apr 2022 09:30:21 +0000
 draft: false
 url: /2022/04/27/detect-latin-symbols-support-in-truetype-or-type1-fonts-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a C# developer, you can easily determine whether any TrueType font or Type1 font supports Latin symbols or not. In this article, you will learn **how to detect Latin symbols support in fonts using C#**.'
 tags: ['Check Latin Symbols in TTF C#', 'Check Latin Symbols in Type1 C#', 'Detect Latin Symbols in Fonts C#', 'Detect Latin Symbols in TrueType', 'Detect Latin Symbols in Type1']
 categories: ['Aspose.Font Product Family']

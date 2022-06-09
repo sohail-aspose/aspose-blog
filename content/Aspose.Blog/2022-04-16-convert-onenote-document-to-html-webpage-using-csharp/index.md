@@ -1,9 +1,11 @@
 ---
 title: 'Convert OneNote Document to HTML Webpage using C#'
+seoTitle: "Convert OneNote Document to HTML Webpage using C#"
+description: "Programmatically Convert OneNote Document to HTML Webpage using C# with Aspose.Note for .NET API. Save OneNote (.one) as HTML using C#."
 date: Sat, 16 Apr 2022 09:19:29 +0000
 draft: false
 url: /2022/04/16/convert-onenote-document-to-html-webpage-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a C# developer, you convert OneNote to HTML. Converting OneNote to HTML allows showing the content in any browser without sharing the original files. In this article, you will learn **how to convert a OneNote document to an HTML webpage using C#**.'
 tags: ['Convert OneNote to HTML C#', 'Export OneNote to HTML', 'One to HTML', 'OneNote to HTML', 'OneNote to HTML C#', 'OneNote2HTML']
 categories: ['Aspose.Note Product Family']

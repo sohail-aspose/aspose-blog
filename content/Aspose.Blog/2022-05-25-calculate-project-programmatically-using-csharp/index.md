@@ -1,9 +1,11 @@
 ---
 title: 'Calculate Project Programmatically using C#'
+seoTitle: "Calculate Project Programmatically using C# | Project Calculation in C#"
+description: "Programmatically Calculate Project Programmatically using C# with Aspose.Tasks for .NET API. Automatic or Manual Project Calculation using C#."
 date: Wed, 25 May 2022 07:47:21 +0000
 draft: false
 url: /2022/05/25/calculate-project-programmatically-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: '. As a C# developer, you can easily set project calculation mode in .NET applications and calculate project properties. In this article, you will learn **how to calculate a project programmatically using C#**.'
 tags: ['Automatic Project Calculation C#', 'Calculate Task Finish Date C#', 'Manual Project Calculation C#', 'Project Calculation in C#', 'Project Duration Calculation']
 categories: ['Aspose.Tasks Product Family']

@@ -1,9 +1,11 @@
 ---
 title: 'Convert TTF to WOFF and WOFF2 using Java'
+seoTitle: "Convert TTF to WOFF using Java | Convert TTF to WOFF2 in Java"
+description: "Programmatically convert TTF to WOFF and TTF to WOFF2 using Java with Aspose.Font for Java API. Convert True Type Fonts to Web Open Fonts using Java."
 date: Thu, 19 May 2022 17:20:00 +0000
 draft: false
 url: /2022/05/19/convert-ttf-to-woff-and-woff2-using-java/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a Java developer, you can easily convert true-type fonts into Web fonts programmatically in Java applications. In this article, you will learn **how to convert TTF to WOFF and WOFF2 using Java.**'
 tags: ['Convert TTF to WOFF', 'Convert TTF to WOFF2', 'Font Converter API', 'Java Font Converter', 'TTF to WOFF Converter API', 'TTF to WOFF in Java', 'TTF to WOFF2 in Java', 'TTF2WOFF']
 categories: ['Aspose.Font Product Family']

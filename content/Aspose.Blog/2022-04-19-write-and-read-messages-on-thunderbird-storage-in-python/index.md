@@ -1,9 +1,11 @@
 ---
 title: 'Write and Read Messages on Thunderbird Storage in Python'
+seoTitle: "Write and Read Messages on Thunderbird Storage in Python"
+description: "Use Python email library to access Thunderbird in Python. Write messages to Thunderbird storage in Python. Read messages from storage programmatically."
 date: Tue, 19 Apr 2022 11:22:53 +0000
 draft: false
 url: /2022/04/19/write-and-read-messages-on-thunderbird-storage-in-python/
-author: 'Usman Aziz'
+author: Usman Aziz
 summary: '[Thunderbird][1] is an open-source email client that allows you to get messages from more than one email servers. Thus, you can manage emails from multiple accounts in a single place. In certain cases, you may need to access email messages from Thunderbird programmatically. Furthermore, you may have to write new messages on Thunderbird. In this article, you will learn **how to write and read messages on Thunderbird storage in Python**.'
 tags: ['Python Library to Write and Read Messages on Thunderbird', 'Python Thunderbird Library', 'Read Messages from Thunderbird in Python', 'Write Messages on Thunderbird in Python']
 categories: ['Aspose.Email Product Family']

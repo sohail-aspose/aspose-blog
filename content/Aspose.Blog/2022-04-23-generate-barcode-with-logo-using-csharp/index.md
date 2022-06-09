@@ -1,9 +1,11 @@
 ---
 title: 'Generate Barcode with Logo using C#'
+seoTitle: "Generate Barcode with Logo using C# | Generate QR with Logo using C#"
+description: "Programmatically generate barcode with logo using C# with Aspose.BarCode for .NET API. Generate QR code with Logo image using C#."
 date: Sat, 23 Apr 2022 11:44:28 +0000
 draft: false
 url: /2022/04/23/generate-barcode-with-logo-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a C# developer, you can easily generate barcodes with company logos or images programmatically in .NET applications. In this article, you will learn **how to generate a barcode with a logo using C#**.'
 tags: ['Barcode with Image C#', 'Barcode with Logo C#', 'Generate Barcode in C#', 'QR Code in C#', 'QR Code with Image C#', 'QR Code with Logo C#']
 categories: ['Aspose.BarCode Product Family']

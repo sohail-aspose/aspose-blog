@@ -1,9 +1,11 @@
 ---
 title: 'Convert VSD or VSDX to VTX in Java'
+seoTitle: "Convert VSD or VSDX Visio Files to VTX Format in Java"
+description: "Convert VSD or VSDX to VTX Format in Java. Export VSD VSDX Visio files to VTX file format programmatically in Java applications."
 date: Tue, 19 Apr 2022 08:58:00 +0000
 draft: false
 url: /2022/04/19/convert-vsd-vsdx-visio-to-vtx-java/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'Visio diagram files are used to create different designs like organizational charts, UML diagrams, etc. Whereas, the VTX file format is a drawing template that is saved in XML format. In certain scenarios, you may need to convert a VSD or VSDX Visio file to the VTX format. Accordingly, this article explains how to **convert a VSD or VSDX file to VTX format programmatically in Java**.'
 tags: ['VSD to VTX in Java', 'VSDX to VTX in Java', 'Visio to VTX Java']
 categories: ['Aspose.Diagram Product Family']

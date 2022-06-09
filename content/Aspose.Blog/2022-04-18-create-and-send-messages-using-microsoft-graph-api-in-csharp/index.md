@@ -1,9 +1,11 @@
 ---
 title: 'Create and Send Messages using Microsoft Graph API in C#'
+seoTitle: "C# .NET: Create and Send Messages with Microsoft Graph API"
+description: "Use Microsoft Graph API to create and send messages programmatically in C#. Download and install the API for free from within your .NET applications."
 date: Mon, 18 Apr 2022 07:10:00 +0000
 draft: false
 url: /2022/04/18/create-and-send-messages-using-microsoft-graph-api-in-csharp/
-author: 'Usman Aziz'
+author: Usman Aziz
 summary: 'Microsoft offers [Graph API][1] to access the services of Office 365 and Microsoft Cloud programmatically from within your applications. Furthermore, you can use the Graph API to manage folders, send messages, and perform various other operations. In this article, you will learn **how to create and send messages using Microsoft Graph API in C#**.'
 tags: ['Create Messages using Microsoft Graph API in CSharp', 'DotNet Microsoft Graph API', 'DotNet Microsoft Graph API to Create and Send Messages', 'Send Messages using Microsoft Graph API in CSharp']
 categories: ['Aspose.Email Product Family']

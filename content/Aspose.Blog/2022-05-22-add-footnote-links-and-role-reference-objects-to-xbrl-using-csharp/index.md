@@ -1,9 +1,11 @@
 ---
 title: 'Add Footnote Links and Role Reference Objects to XBRL using C#'
+seoTitle: "Add Footnote Links and Role Reference Objects to XBRL using C#"
+description: "Programmatically create XBRL instance document and Add Footnote Links and Role Reference Objects to XBRL using C# with Aspose.Finance for .NET API."
 date: Sun, 22 May 2022 05:46:06 +0000
 draft: false
 url: /2022/05/22/add-footnote-links-and-role-reference-objects-to-xbrl-using-csharp/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'You can easily create an XBRL instance document programmatically and add objects or elements such as Footnote Link, Role Reference, Arc Role Reference, etc. In this article, you will learn **how to add footnote links and role reference objects to XBRL using C#**.'
 tags: ['Add ArcRole in XBRL C#', 'Add Footnote in XBRL C#', 'Add Objects to XBRL C#', 'Add Role Reference in XBRL C#', 'Footnote in XBRL', 'Role Reference in XBRL', 'XBRL', 'XBRL Instance C#']
 categories: ['Aspose.Finance Product Family']

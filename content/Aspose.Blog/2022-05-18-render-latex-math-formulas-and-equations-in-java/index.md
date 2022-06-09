@@ -1,9 +1,11 @@
 ---
 title: 'Render LaTeX Math Formulas and Equations in Java'
+seoTitle: "Render LaTeX Math Formulas and Equations in Java"
+description: ""
 date: Wed, 18 May 2022 06:46:04 +0000
 draft: false
 url: /2022/05/18/render-latex-math-formulas-and-equations-in-java/
-author: 'Muzammil Khan'
+author: Muzammil Khan
 summary: 'As a Java programmer, you can write basic equations and mathematical formulas in the TEX file programmatically without using LaTeX. In this article, you will learn **how to render equations and math formulas using Java**.'
 tags: ['Java API to Render LaTeX Math', 'LaTeX Formulas in Java', 'LaTeX Math Equation in Java', 'LaTeX Math Symbols in Java', 'LaTeX to PNG', 'LaTeX to SVG', 'Render LaTeX Math Formulas Java', 'Render Math Formulas in Java']
 categories: ['Aspose.TeX Product Family']
@@ -14,27 +16,27 @@ categories: ['Aspose.TeX Product Family']
 {{< figure align=center src="images/render-latex-math-formulas-and-equations-in-java.jpg" alt="Render LaTeX Math Formulas and Equations in Java">}}
 
 
-We can embed formulas and mathematical equations in the [TeX](https://docs.fileformat.com/page-description-language/tex/) file. LaTeX uses the TeX file as a source document that contains a set of commands. These commands specify the document's format, including text, symbols, mathematical expressions, and graphics. We can write and render any kind of equations and mathematical formulas programmatically without using LaTeX. In this article, will learn **how to render LaTeX math formulas and **equations**** **in Java**.
+We can embed formulas and mathematical equations in the [TeX][1] file. LaTeX uses the TeX file as a source document that contains a set of commands. These commands specify the document's format, including text, symbols, mathematical expressions, and graphics. We can write and render any kind of equations and mathematical formulas programmatically without using LaTeX. In this article, will learn **how to render LaTeX math formulas and **equations**** **in Java**.
 
 The following topics shall be covered in this article:
 
-*   [Java API to Render LaTeX Math Formulas & Equations](#Java-API-to-Render-LaTeX-Math-Formulas-&-Equations)
-*   [Render LaTeX Math Formulas as PNG](#Render-LaTeX-Math-Formulas-as-PNG-using-Java)
-*   [Render Complex Equations](#Render-Complex-Equations-using-Java)
-*   [Display Long Equations](#Display-Long-Equations-using-Java)
-*   [Align Several Equations](#Align-Several-Equations-using-Java)
-*   [Group and Center Equations](#Group-and-Center-Equations-using-Java)
-*   [Render Parenthesis and Brackets](#Render-Parenthesis-and-Brackets-using-Java)
-*   [Matrices in LaTeX](#Matrices-in-LaTeX-using-Java)
-*   [Render Fractions and Binomials](#Render-Fractions-and-Binomials-using-Java)
-*   [Mathematical Operators in LaTeX](#Mathematical-Operators-in-LaTeX-using-Java)
-*   [Render LaTeX Math Formulas as SVG](#Render-LaTeX-Math-Formulas-in-SVG-using-Java)
+*   [Java API to Render LaTeX Math Formulas & Equations][2]
+*   [Render LaTeX Math Formulas as PNG][3]
+*   [Render Complex Equations][4]
+*   [Display Long Equations][5]
+*   [Align Several Equations][6]
+*   [Group and Center Equations][7]
+*   [Render Parenthesis and Brackets][8]
+*   [Matrices in LaTeX][9]
+*   [Render Fractions and Binomials][10]
+*   [Mathematical Operators in LaTeX][11]
+*   [Render LaTeX Math Formulas as SVG][12]
 
 ## Java API to Render LaTeX Math Formulas & Equations {#Java-API-to-Render-LaTeX-Math-Formulas-&-Equations}
 
-For rendering LaTeX math formulas, we will be using the [Aspose.TeX for Java](https://products.aspose.com/tex/java/) API. It provides the _PngMathRendererOptions_ class for specifying the rendering options to save the Math formula as a [PNG](https://docs.fileformat.com/image/png/). Similarly, it also provides the _SvgMathRendererOptions_ class for specifying the rendering options to save the Math formula as an [SVG](https://docs.fileformat.com/page-description-language/svg/). Moreover, for the rendering of math formulas, it provides _PngMathRenderer_ and _SvgMathRenderer_ classes derived from the _MathRenderer_ class. The [render()](https://apireference.aspose.com/tex/java/com.aspose.tex/MathRenderer#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-) method of this class renders the provided math formula. Furthermore, the API also allows typesetting TeX files to different file formats like [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), or images.
+For rendering LaTeX math formulas, we will be using the [Aspose.TeX for Java][13] API. It provides the _PngMathRendererOptions_ class for specifying the rendering options to save the Math formula as a [PNG][14]. Similarly, it also provides the _SvgMathRendererOptions_ class for specifying the rendering options to save the Math formula as an [SVG][15]. Moreover, for the rendering of math formulas, it provides _PngMathRenderer_ and _SvgMathRenderer_ classes derived from the _MathRenderer_ class. The [render()][16] method of this class renders the provided math formula. Furthermore, the API also allows typesetting TeX files to different file formats like [PDF][17], [XPS][18], or images.
 
-Please either [download](https://downloads.aspose.com/tex/java) the JAR of the API or add the following _**pom.xml**_ configuration in a Maven-based Java application.
+Please either [download][19] the JAR of the API or add the following _**pom.xml**_ configuration in a Maven-based Java application.
 
 ```
 <repository>
@@ -56,16 +58,16 @@ Please either [download](https://downloads.aspose.com/tex/java) the JAR of the 
 
 We can render simple inline math formulas or equations by following the steps given below:
 
-1.  Firstly, create an instance of the **_[PngMathRendererOptions](https://apireference.aspose.com/tex/java/com.aspose.tex/PngMathRendererOptions)_** class.
-2.  Next, specify the image [resolutions](https://apireference.aspose.com/tex/java/com.aspose.tex/PngMathRendererOptions#setResolution-int-), such as 150 DPI.
+1.  Firstly, create an instance of the **_[PngMathRendererOptions][20]_** class.
+2.  Next, specify the image [resolutions][21], such as 150 DPI.
 3.  Then, specify the LaTeX document preamble.
 4.  Optionally, set various properties such as _Scale, TextColor, BackgroundColor_, etc.
 5.  After that, create the output stream for the formula image.
-6.  Finally, call the **_[render()](https://apireference.aspose.com/tex/java/com.aspose.tex/MathRenderer#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-)_** method to render the formula. It takes formula string, stream, rendering options, and the output image size as arguments.
+6.  Finally, call the **_[render()][22]_** method to render the formula. It takes formula string, stream, rendering options, and the output image size as arguments.
 
 The following code sample shows **how to render a math formula as a PNG programmatically using Java**.
 
-\[gist id="c2c60da14dd442bd04933bdbf860d05f" file="Render-LaTeX-Math-Formulas-Java\_RenderPNG.java"\]
+{{< gist aspose-tex-gists c2c60da14dd442bd04933bdbf860d05f "Render-LaTeX-Math-Formulas-Java_RenderPNG.java" >}}
 
 
 
@@ -218,15 +220,15 @@ mathRenderer.render("\\begin{document}"
 
 We can also save the rendered math formulas or equations in SVG image format by following the steps given below:
 
-1.  Firstly, create an instance of the **_[SvgMathRendererOptions](https://apireference.aspose.com/tex/java/com.aspose.tex/SvgMathRendererOptions)_** class.
+1.  Firstly, create an instance of the **_[SvgMathRendererOptions][23]_** class.
 2.  Next, specify the LaTeX document preamble.
 3.  Optionally, set various properties such as _Scale, TextColor, BackgroundColor_, etc.
 4.  After that, create the output stream for the formula image.
-5.  Finally, call the **_[render()](https://apireference.aspose.com/tex/java/com.aspose.tex/MathRenderer#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-)_** method to render the formula. It takes formula string, stream, rendering options, and the output image size as arguments.
+5.  Finally, call the **_[render()][24]_** method to render the formula. It takes formula string, stream, rendering options, and the output image size as arguments.
 
 The following code sample shows **how to render a math formula in an SVG image using Java**.
 
-\[gist id="c2c60da14dd442bd04933bdbf860d05f" file="Render-LaTeX-Math-Formulas-Java\_RenderSVG.java"\]
+{{< gist aspose-tex-gists c2c60da14dd442bd04933bdbf860d05f "Render-LaTeX-Math-Formulas-Java_RenderSVG.java" >}}
 
 
 
@@ -235,7 +237,7 @@ The following code sample shows **how to render a math formula in an SVG image u
 
 ## Get a Free License {#Get-a-Free-API-License}
 
-You can [get a free temporary license](https://purchase.aspose.com/temporary-license) to try the library without evaluation limitations.
+You can [get a free temporary license][25] to try the library without evaluation limitations.
 
 ## Conclusion
 
@@ -246,12 +248,46 @@ In this article, we have learned how to:
 *   render Matrices, Parenthesis, Brackets, Fractions, and Binomials;
 *   save the rendered formula images in PNG or SVG using Java.
 
-Besides, you can learn more about Aspose.TeX for Java API using the [documentation](https://docs.aspose.com/tex/java/). In case of any ambiguity, please feel free to contact us on the [forum](https://forum.aspose.com/c/tex/47).
+Besides, you can learn more about Aspose.TeX for Java API using the [documentation][26]. In case of any ambiguity, please feel free to contact us on the [forum][27].
 
 ## See Also
 
-*   [Create PDF from LaTeX in Java](https://blog.aspose.com/2022/04/07/create-pdf-from-latex-in-java/)
-*   [Convert LaTeX TeX LTX to PNG JPG Image in Java](https://blog.aspose.com/2021/11/28/convert-latex-to-png-or-jpg-image-in-java/)
+*   [Create PDF from LaTeX in Java][28]
+*   [Convert LaTeX TeX LTX to PNG JPG Image in Java][29]
+
+
+
+
+[1]: https://docs.fileformat.com/page-description-language/tex/
+[2]: #Java-API-to-Render-LaTeX-Math-Formulas-&-Equations
+[3]: #Render-LaTeX-Math-Formulas-as-PNG-using-Java
+[4]: #Render-Complex-Equations-using-Java
+[5]: #Display-Long-Equations-using-Java
+[6]: #Align-Several-Equations-using-Java
+[7]: #Group-and-Center-Equations-using-Java
+[8]: #Render-Parenthesis-and-Brackets-using-Java
+[9]: #Matrices-in-LaTeX-using-Java
+[10]: #Render-Fractions-and-Binomials-using-Java
+[11]: #Mathematical-Operators-in-LaTeX-using-Java
+[12]: #Render-LaTeX-Math-Formulas-in-SVG-using-Java
+[13]: https://products.aspose.com/tex/java/
+[14]: https://docs.fileformat.com/image/png/
+[15]: https://docs.fileformat.com/page-description-language/svg/
+[16]: https://apireference.aspose.com/tex/java/com.aspose.tex/MathRenderer#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-
+[17]: https://docs.fileformat.com/pdf/
+[18]: https://docs.fileformat.com/page-description-language/xps/
+[19]: https://downloads.aspose.com/tex/java
+[20]: https://apireference.aspose.com/tex/java/com.aspose.tex/PngMathRendererOptions
+[21]: https://apireference.aspose.com/tex/java/com.aspose.tex/PngMathRendererOptions#setResolution-int-
+[22]: https://apireference.aspose.com/tex/java/com.aspose.tex/MathRenderer#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-
+[23]: https://apireference.aspose.com/tex/java/com.aspose.tex/SvgMathRendererOptions
+[24]: https://apireference.aspose.com/tex/java/com.aspose.tex/MathRenderer#render-java.lang.String-java.io.OutputStream-com.aspose.tex.MathRendererOptions-com.aspose.tex.Size2D-
+[25]: https://purchase.aspose.com/temporary-license
+[26]: https://docs.aspose.com/tex/java/
+[27]: https://forum.aspose.com/c/tex/47
+[28]: https://blog.aspose.com/2022/04/07/create-pdf-from-latex-in-java/
+[29]: https://blog.aspose.com/2021/11/28/convert-latex-to-png-or-jpg-image-in-java/
+
 
 
 

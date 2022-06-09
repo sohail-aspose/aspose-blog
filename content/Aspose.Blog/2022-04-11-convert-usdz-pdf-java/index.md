@@ -1,9 +1,11 @@
 ---
 title: 'Convert USDZ to PDF in Java'
+seoTitle: "Convert USDZ to PDF Document Programmatically in Java"
+description: "Convert USDZ to PDF file programmatically in Java. Export USDZ file as a PDF document in Java based applications with high fidelity."
 date: Mon, 11 Apr 2022 11:47:00 +0000
 draft: false
 url: /2022/04/11/convert-usdz-pdf-java/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'USDZ files include the data related to shading, skeletal deformation, and other aspects of 3D scenes. In certain scenarios, you might want to convert a USDZ file to PDF format as the PDF files are widely supported over a number of platforms. For such requirements, this article explains how to **convert USDZ to PDF files in Java**.'
 tags: ['Convert USDZ to PDF in Java', 'Java USDZ to PDF', 'USDZ to PDF in Java']
 categories: ['Aspose.3D Product Family']

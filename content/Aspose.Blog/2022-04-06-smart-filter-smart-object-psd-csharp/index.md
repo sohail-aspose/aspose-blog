@@ -1,9 +1,11 @@
 ---
 title: 'Work with Smart Filters and Smart Objects in PSD File with C#'
+seoTitle: "Work with Smart Filters and Smart Object Layer in PSD in C# .NET"
+description: "Create, Edit, Update or Add Smart Filters on Smart Object Layers in PSD Image using C# .NET. Add filters like GaussianBlurSmartFilter, AddNoiseSmartFilter."
 date: Wed, 06 Apr 2022 09:13:00 +0000
 draft: false
 url: /2022/04/06/smart-filter-smart-object-psd-csharp/
-author: 'Farhan Raza'
+author: Farhan Raza
 summary: 'you can add one or more smart filters provided a layer is a smart object. This article covers how to **edit and update smart filters as well as add new filters like GaussianBlurSmartFilter, AddNoiseSmartFilter, etc. to an image programmatically in C#.**'
 tags: ['Edit Smart Filters in C#', 'PSD Smart Filters in C#', 'Smart Filters in PSD', 'Smart Filters on Smart Objects PSD']
 categories: ['Aspose.PSD Product Family']
