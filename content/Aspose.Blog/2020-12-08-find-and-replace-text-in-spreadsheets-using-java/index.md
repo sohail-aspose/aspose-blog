@@ -1,7 +1,7 @@
 ---
 title: 'Find and Replace Text in Excel Spreadsheets using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Find and Replace Text in Excel in Java | Replace Text in XLSX with Regex"
+description: "Find and replace text in Excel spreadsheets using Java. Replace text with plain text or regular expression in Excel workbooks from within Java applications."
 date: Tue, 08 Dec 2020 23:02:52 +0000
 draft: false
 url: /2020/12/08/find-and-replace-text-in-spreadsheets-using-java/

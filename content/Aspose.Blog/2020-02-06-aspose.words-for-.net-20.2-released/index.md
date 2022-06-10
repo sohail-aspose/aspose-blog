@@ -1,6 +1,6 @@
 ---
 title: 'Aspose.Words for .NET 20.2 is released'
-seoTitle: ""
+seoTitle: "Aspose.Words for .NET 20.2 is released"
 description: ""
 date: Thu, 06 Feb 2020 10:50:24 +0000
 draft: false

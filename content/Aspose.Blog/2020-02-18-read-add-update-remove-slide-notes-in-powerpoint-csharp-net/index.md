@@ -1,7 +1,7 @@
 ---
 title: 'Read, Add, Update or Remove Slide Notes in PowerPoint Presentations using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Read, Add, Update or Remove Slide Notes in PowerPoint Presentation"
+description: "Add or remove slide notes in PowerPoint presentations using C#. Read and update the slide notes in PowerPoint programmatically using C#. C# PowerPoint API."
 date: Tue, 18 Feb 2020 17:16:31 +0000
 draft: false
 url: /2020/02/18/read-add-update-remove-slide-notes-in-powerpoint-csharp-net/

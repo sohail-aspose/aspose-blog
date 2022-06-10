@@ -1,7 +1,7 @@
 ---
 title: '.NET Graphics API - Create Images and Graphics from Scratch using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create Images from Scratch using C# or VB.NET | .NET Graphics API"
+description: "Create images and vector graphics from scratch using C# or VB.NET. .NET Graphics API to draw graphics identical to GDI+ within ASP.NET or other applications."
 date: Sat, 27 Jun 2020 16:25:57 +0000
 draft: false
 url: /2020/06/27/create-images-and-graphics-using-csharp-or-vb.net/

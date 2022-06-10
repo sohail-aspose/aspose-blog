@@ -1,7 +1,7 @@
 ---
 title: 'Convert DWG and DXF Files to PDF using Java'
-seoTitle: ""
-description: ""
+seoTitle: "DWG or DXF to PDF in Java | Convert CAD Files to PDF in Java"
+description: "Use Java CAD API to convert CAD's DWG and DXF files to PDF format using Java. Convert all or selected layers in DWG to PDF. Java source code with examples."
 date: Fri, 13 Nov 2020 07:27:15 +0000
 draft: false
 url: /2020/11/13/convert-dwg-and-dxf-to-pdf-in-java/

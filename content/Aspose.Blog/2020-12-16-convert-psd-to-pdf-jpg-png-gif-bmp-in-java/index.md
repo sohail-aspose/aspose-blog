@@ -1,7 +1,7 @@
 ---
 title: 'Convert PSD to PDF, JPG, PNG, GIF, BMP, and JPEG 2000 in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PSD to PDF, JPEG, PNG, GIF, BMP, JPEG2000 in Java"
+description: "Use Java PSD API to convert PSD files to PDF, JPEG, PNG, GIF, BMP, and Jpeg2000 images using Java. Convert specific layers in PSD to raster images in Java."
 date: Wed, 16 Dec 2020 01:19:00 +0000
 draft: false
 url: /2020/12/16/convert-psd-to-pdf-jpg-png-gif-bmp-in-java/

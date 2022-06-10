@@ -1,7 +1,7 @@
 ---
 title: 'Access and Export Pages in Multipage TIFF, GIF, and Other Formats using C# and Java'
-seoTitle: ""
-description: ""
+seoTitle: "C#, Java: Export Multipage GIF, TIFF, PSD, DICOM, CDR, WebP Images"
+description: "Export multipage images to other formats in C# and Java. Access and export pages in multipage GIF, TIFF, PSD, DICOM, CDR, WebP to single or multipage image."
 date: Tue, 03 Mar 2020 02:16:48 +0000
 draft: false
 url: /2020/03/03/access-and-export-pages-in-multipage-images-in-csharp-java/

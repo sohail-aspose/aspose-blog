@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove AutoFilter in Excel File (XLSX/XLS) using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Add or Remove AutoFilter in Excel XLSX/XLS | Data Filtering with C#"
+description: "Add Insert Remove or Delete AutoFilter in Excel files XLSX/XLS. Dynamic Date, Number, Contain, Not contain, Custom Auto filter using C# .NET."
 date: Wed, 16 Sep 2020 11:22:46 +0000
 draft: false
 url: /2020/09/16/add-remove-autofilter-in-excel-file-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert PowerPoint PPTX to JPG Images using Java'
-seoTitle: ""
-description: ""
+seoTitle: "PPTX to JPG using Java | Convert PPTX Slides to JPG Images in Java"
+description: "Convert PowerPoint PPTX to JPG images using Java. Generate thumbnails by converting slides in PPTX to JPG images from within your Java applications."
 date: Wed, 21 Oct 2020 23:02:00 +0000
 draft: false
 url: /2020/10/21/convert-pptx-to-jpg-images-using-java/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert Image to Text using C# OCR Library'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Image to Text using C# OCR Library | PNG, JPG, BMP to Text"
+description: "Perform OCR and convert images to text using C# or VB.NET. Convert PNG, JPG, BMP images to text using C# OCR Library within ASP.NET or any .NET application."
 date: Thu, 28 May 2020 16:27:36 +0000
 draft: false
 url: /2020/05/28/perform-ocr-on-images-and-scanned-documents-using-csharp-vb.net/

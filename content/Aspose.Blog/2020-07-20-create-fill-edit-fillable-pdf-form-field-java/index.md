@@ -1,7 +1,7 @@
 ---
 title: 'Fill, Create, or Edit Fillable PDF Forms Programmatically using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Fill, Create or Edit Fillable PDF Form & Field Programmatically"
+description: "Create fillable PDF form with Java. Edit or Fill fillable PDF form fields in Java. Preserve Extended rights or Set JavaScript in PDF using Document Action."
 date: Mon, 20 Jul 2020 21:32:59 +0000
 draft: false
 url: /2020/07/20/create-fill-edit-fillable-pdf-form-field-java/

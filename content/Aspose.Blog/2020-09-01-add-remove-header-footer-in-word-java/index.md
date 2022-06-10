@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove Header and Footer in Word Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Add Insert Delete Remove Header Footer in Word (DOCX/DOC)"
+description: "Add or Insert, Delete or Remove Header and Footer in Word Documents (DOCX/DOC) programatically using Java. Image, table, text header footer."
 date: Tue, 01 Sep 2020 18:17:04 +0000
 draft: false
 url: /2020/09/01/add-remove-header-footer-in-word-java/

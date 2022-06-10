@@ -1,7 +1,7 @@
 ---
 title: 'Convert CSV to Excel or Excel to CSV File using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Convert CSV to Excel XLSX XLS or Excel to CSV Programmatically"
+description: "Convert Excel XLSX XLS to CSV or CSV to Excel programmatically using Java code. Import or Export CSV, XLSX, XLS file easily with high fidelity."
 date: Thu, 10 Sep 2020 22:20:53 +0000
 draft: false
 url: /2020/09/10/convert-csv-excel-java/

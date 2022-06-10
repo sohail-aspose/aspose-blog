@@ -1,7 +1,7 @@
 ---
 title: 'C++ PDF Library - Create PDF Files Programmatically in C++'
-seoTitle: ""
-description: ""
+seoTitle: "C++ Create PDF Files | C++ PDF Library to Manipulate PDF Documents"
+description: "Create PDF files programmatically in C++. Use C++ PDF library for creating, manipulating or converting PDF documents in C++ applications."
 date: Tue, 17 Mar 2020 17:01:35 +0000
 draft: false
 url: /2020/03/17/create-pdf-files-in-cpp-using-pdf-api/

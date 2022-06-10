@@ -1,7 +1,7 @@
 ---
 title: 'Convert Word Documents to PDF using Android Library'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Word to PDF in Android | Word to PDF Library Source Code"
+description: "Learn how to build your own Word to PDF converter app for Android from scratch. Source code to integrate Word DOCX to PDF conversion in your Android app."
 date: Mon, 03 Aug 2020 15:26:42 +0000
 draft: false
 url: /2020/08/03/build-android-word-to-pdf-converter-app/

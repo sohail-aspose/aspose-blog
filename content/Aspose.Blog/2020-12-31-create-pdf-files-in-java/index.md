@@ -1,7 +1,7 @@
 ---
 title: 'Create PDF Files using Java - Java PDF API'
-seoTitle: ""
-description: ""
+seoTitle: "Create PDF Files in Java | Insert Text, Images, Tables, Forms in PDF"
+description: "Use Java PDF API to create PDF files in Java. Containing text, paragraphs, tables, images, and forms from within your Java-based applications."
 date: Thu, 31 Dec 2020 16:30:50 +0000
 draft: false
 url: /2020/12/31/create-pdf-files-in-java/

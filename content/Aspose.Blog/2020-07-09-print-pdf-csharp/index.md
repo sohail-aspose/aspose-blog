@@ -1,7 +1,7 @@
 ---
 title: 'C# Print PDF Documents Programmatically with .NET'
-seoTitle: ""
-description: ""
+seoTitle: "C# Print PDF Documents Programmatically with .NET | Printer Page Setting"
+description: "Using C#, print a PDF, or multiple PDF in your .NET applications. Print secured PDF and to different page sources, tray or bin. Track Print Progress of PDF."
 date: Thu, 09 Jul 2020 23:02:37 +0000
 draft: false
 url: /2020/07/09/print-pdf-csharp/

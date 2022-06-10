@@ -1,7 +1,7 @@
 ---
 title: 'Convert PUB to PDF file Programmatically using C++'
-seoTitle: ""
-description: ""
+seoTitle: "C++ Convert PUB to PDF File | Publisher to PDF File Conversion"
+description: "C++ Convert PUB to PDF Programmatically. Microsoft Publisher files. Convert Publisher files to PDF by simple and easy steps."
 date: Mon, 06 Jul 2020 22:09:10 +0000
 draft: false
 url: /2020/07/06/convert-pub-to-pdf-cpp/

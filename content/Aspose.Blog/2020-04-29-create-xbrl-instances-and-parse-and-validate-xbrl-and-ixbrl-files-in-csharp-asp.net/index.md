@@ -1,7 +1,7 @@
 ---
 title: 'Create, Parse and Validate XBRL and iXBRL Financial Reports using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create XBRL Instances in C# | Pasre and Validate XBRL and iXBRL in C#"
+description: "Create financial reports in XBRL using C#. Create XBRL instances programmatically. Validate XBRL and iXBRL files in C#. C# XBRL library for financial data."
 date: Wed, 29 Apr 2020 13:35:51 +0000
 draft: false
 url: /2020/04/29/create-xbrl-instances-and-parse-and-validate-xbrl-and-ixbrl-files-in-csharp-asp.net/

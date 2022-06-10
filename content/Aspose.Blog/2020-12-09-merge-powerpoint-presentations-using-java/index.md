@@ -1,7 +1,7 @@
 ---
 title: 'Merge PowerPoint Presentations using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Merge PowerPoint Presentations in Java | Merge Slides in PPTX in Java"
+description: "Merge PowerPoint PPTX presentations using Java. Merge all or selected slides from source to target presentations and select slide layout from slide master."
 date: Wed, 09 Dec 2020 17:18:47 +0000
 draft: false
 url: /2020/12/09/merge-powerpoint-presentations-using-java/

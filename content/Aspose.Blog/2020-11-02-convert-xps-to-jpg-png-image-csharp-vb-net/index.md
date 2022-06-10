@@ -1,7 +1,7 @@
 ---
 title: 'Convert XPS, OXPS to JPG or PNG Image using C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Convert XPS OXPS to JPG PNG Image Programmatically in C# VB.NET"
+description: "Convert XPS or OXPS to JPG, PNG, BMP, or TIFF picture or image programmatically using C# or VB.NET in your .NET applications. Export or Change XPS OXPS files."
 date: Mon, 02 Nov 2020 12:54:36 +0000
 draft: false
 url: /2020/11/02/convert-xps-to-jpg-png-image-csharp-vb-net/

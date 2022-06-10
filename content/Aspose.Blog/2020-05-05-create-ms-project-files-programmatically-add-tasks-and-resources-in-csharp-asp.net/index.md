@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Project Files Programmatically in C# or VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Create MS Project Files (.mpp) in C# | Add Tasks, Resources, or Calenders"
+description: "C# examples to create MS Project's MPP, MPT and XML files programmatically. Add tasks and resources to projects using C# in ASP.NET. MS Project Library."
 date: Tue, 05 May 2020 15:17:04 +0000
 draft: false
 url: /2020/05/05/create-ms-project-files-programmatically-add-tasks-and-resources-in-csharp-asp.net/

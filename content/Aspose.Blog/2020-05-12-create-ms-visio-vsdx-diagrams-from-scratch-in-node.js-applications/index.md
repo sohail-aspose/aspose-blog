@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Visio Diagrams in Node.js Applications'
-seoTitle: ""
-description: ""
+seoTitle: "Create MS Visio (VSDX) Diagrams in Node.Js | Visio API for Node.js"
+description: "Create MS Visio diagrams from scratch in Node.js applications. Creare VSDX, VDX, VSX, and other Visio formats in JavaScript. Visio API for Node.js."
 date: Tue, 12 May 2020 17:23:22 +0000
 draft: false
 url: /2020/05/12/create-ms-visio-vsdx-diagrams-from-scratch-in-node.js-applications/

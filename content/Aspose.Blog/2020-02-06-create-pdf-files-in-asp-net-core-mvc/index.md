@@ -1,7 +1,7 @@
 ---
 title: 'ASP.NET PDF Editor - Create PDF Files in ASP.NET Core'
-seoTitle: ""
-description: ""
+seoTitle: "Create PDF Files using ASP.NET PDF Editor | PDF Editor for .NET Core"
+description: "Create PDF documents using ASP.NET PDF editor. Generate PDF documents, reports, invoices, and receipts using open source ASP.NET Core PDF editor in C#."
 date: Thu, 06 Feb 2020 12:38:12 +0000
 draft: false
 url: /2020/02/06/create-pdf-files-in-asp-net-core-mvc/

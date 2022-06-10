@@ -1,7 +1,7 @@
 ---
 title: 'Convert Image to Text using Java OCR API'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Image to Text using Java OCR Library | PNG, JPG, BMP to Text"
+description: "Use Java OCR Library to convert image to text using Java. Perform OCR on JPEG, PNG, and BMP image and extract single or multi-line text."
 date: Tue, 28 Jul 2020 22:19:00 +0000
 draft: false
 url: /2020/07/28/convert-image-to-text-using-java-ocr-api/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert SVG Files to PNG, JPEG, BMP, TIFF, and GIF Images using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert SVG to PNG, JPEG, BMP, TIFF, GIF | C# .NET SVG Converter"
+description: "Convert SVG files to PNG, JPEG, BMP, GIF, and TIFF images using C# or VB.NET. Convert SVG to PNG, SVG to JPEG, SVG to BMP, SVG to TIFF, SVG to GIF in C#."
 date: Mon, 18 May 2020 18:25:55 +0000
 draft: false
 url: /2020/05/18/convert-svg-file-to-png-jpeg-bmp-tiff-and-gif-images-using-csharp-vb.net/

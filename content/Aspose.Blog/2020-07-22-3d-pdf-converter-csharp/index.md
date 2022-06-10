@@ -1,7 +1,7 @@
 ---
 title: 'Create 3D PDF Converter Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "3D PDF Converter and Creator Programmatically in C# .NET"
+description: "Create 3D PDF Converter application using C# in .NET Framework. Convert 3D PDF file to HTML or Image like PNG, JPG, etc in your applications."
 date: Wed, 22 Jul 2020 21:05:50 +0000
 draft: false
 url: /2020/07/22/3d-pdf-converter-csharp/

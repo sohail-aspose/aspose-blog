@@ -1,7 +1,7 @@
 ---
 title: 'Split MS Word Documents using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Split Word Documents using C# | Split Document by Page, Section, Range"
+description: "Split MS Word documents into multiple documents using C#. Split a Word document (DOC/DOCX) by sections, pages or range of pages using C# or VB.NET."
 date: Wed, 26 Aug 2020 22:11:55 +0000
 draft: false
 url: /2020/08/26/split-ms-word-documents-using-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Add or Modify VBA Macros in Excel Files using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Add or Modify VBA Macro in Excel using C# | Extract VBA from Excel in C#"
+description: "Extract, add and modify VBA macros from MS Excel workbooks using C#. Manipulate VBA modules in spreadsheets from within your .NET applications."
 date: Mon, 21 Dec 2020 19:00:57 +0000
 draft: false
 url: /2020/12/21/add-modify-vba-macros-in-excel-using-csharp/

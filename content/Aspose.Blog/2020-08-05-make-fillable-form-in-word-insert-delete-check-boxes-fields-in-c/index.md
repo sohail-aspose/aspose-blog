@@ -1,7 +1,7 @@
 ---
 title: 'Make Fillable Form in Word | Insert, Delete Check Boxes &amp; Fields in C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Make Fillable Form in Word | Insert or Delete Check Boxes Text Boxes"
+description: "Make or create a fillable form, add check boxes, insert text box and combo boxes with C# VB.NET in your .NET applications. Fillable form fields in DOCX/DOC."
 date: Wed, 05 Aug 2020 12:02:18 +0000
 draft: false
 url: /2020/08/05/make-fillable-form-in-word-insert-delete-check-boxes-fields-in-c/

@@ -1,7 +1,7 @@
 ---
 title: 'Create Clipping Path in TIFF Images using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create Clipping Path in Tiff Image using C# | Tiff to PSD with Clipping Path"
+description: "Use .NET Image Processing API to create clipping paths in TIFF images using C#. Export TIFF images having a clipping path to PSD files using C# or VB.NET."
 date: Mon, 31 Aug 2020 14:30:34 +0000
 draft: false
 url: /2020/08/31/create-clipping-path-in-tiff-images-using-csharp/

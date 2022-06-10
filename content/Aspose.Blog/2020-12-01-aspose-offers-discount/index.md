@@ -1,7 +1,7 @@
 ---
 title: 'Get 25% OFF on Aspose.Total'
-seoTitle: ""
-description: ""
+seoTitle: "Get 25% OFF Aspose.Total | .NET, Java, Android, C++, and Others"
+description: "New Year Sale - Aspose is offering you 25% OFF on Aspose.Total - a complete collection of our native APIs for .NET, Java, Android, C++, and other platforms."
 date: Tue, 01 Dec 2020 04:00:00 +0000
 draft: false
 url: /2020/12/01/aspose-offers-discount/

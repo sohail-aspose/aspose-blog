@@ -1,7 +1,7 @@
 ---
 title: 'How to Convert PDF to Excel in C# .NET - PDF to XLS or XLSX'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF to Excel in C# | PDF to XLS | PDF to XLSX | .NET API"
+description: "Convert PDF to Excel in C#. Convert PDF to XLS, PDF to XLSX. Export tabular data from PDF to Excel in C#. PDF to Excel Converter class library for .NET."
 date: Fri, 03 Jan 2020 18:00:44 +0000
 draft: false
 url: /2020/01/03/convert-pdf-to-excel-in-csharp-net-pdf-to-xls-pdf-to-xlsx/

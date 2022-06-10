@@ -1,7 +1,7 @@
 ---
 title: 'Create Excel XLSX/XLS File in Node.js Applications - A Complete Guide'
-seoTitle: ""
-description: ""
+seoTitle: "Create Excel XLSX/XLS File in Node.js | Best Guide for Node.js Excel API"
+description: "Learn how to create Excel XLSX/XLS file in Node.js applications. Best Excel automation guide with Node.js code to create charts, images, and pivot tables."
 date: Wed, 05 Aug 2020 17:10:33 +0000
 draft: false
 url: /2020/08/05/create-excel-files-in-node.js/

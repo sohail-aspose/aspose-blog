@@ -1,7 +1,7 @@
 ---
 title: 'Search and Extract Text from PDF Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Search, Read and Extract Text in PDF in C# VB.NET | .NET PDF API"
+description: "Search, Read, or Extract text from PDF documents in C#. You can extract from a specific page or region, or whole PDF file. Read text using .NET C# VB.NET."
 date: Sat, 16 May 2020 16:10:00 +0000
 draft: false
 url: /2020/05/16/extract-text-from-pdf-csharp-vb-net/

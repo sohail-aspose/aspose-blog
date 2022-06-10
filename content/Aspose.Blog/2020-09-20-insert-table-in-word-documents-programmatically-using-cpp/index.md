@@ -1,7 +1,7 @@
 ---
 title: 'Insert Table in Word Documents (DOC/DOCX) using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Add or Insert Table in Word Document DOC/DOCX Programmatically C++"
+description: "C++ Add or Insert table in word documents as simple, formatted, nested or HTML table can be added in Word Documents DOC DOCX programmatically in Cpp."
 date: Sun, 20 Sep 2020 23:27:06 +0000
 draft: false
 url: /2020/09/20/insert-table-in-word-documents-programmatically-using-cpp/

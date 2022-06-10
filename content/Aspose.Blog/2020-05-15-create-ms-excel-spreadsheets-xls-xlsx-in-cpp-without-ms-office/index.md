@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Excel Spreadsheets in C++ without MS Office - A Comprehensive Guide'
-seoTitle: ""
-description: ""
+seoTitle: "Create Excel Files in C++ | Create Charts, Formulas, Tables in Excel Files"
+description: "Create Excel XLS XLSX files using C++. Add data to existing Excel workbooks, apply formulas, create charts, and tables programmatically. C++ Excel Library."
 date: Fri, 15 May 2020 18:46:08 +0000
 draft: false
 url: /2020/05/15/create-ms-excel-spreadsheets-xls-xlsx-in-cpp-without-ms-office/

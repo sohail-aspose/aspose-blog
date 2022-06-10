@@ -1,7 +1,7 @@
 ---
 title: 'Convert AI to PSD, PDF, JPEG, or PNG Image Format in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert AI to PSD, PDF, JPEG, or PNG Image Format in Java"
+description: "Convert Adobe Illustrator Artwork AI file to PSD, PDF, PNG or JPEG image formats programmatically using Java language. Export AI files to supported format."
 date: Sat, 19 Dec 2020 22:02:00 +0000
 draft: false
 url: /2020/12/19/convert-ai-to-psd-pdf-jpeg-or-png-image-format-in-java/

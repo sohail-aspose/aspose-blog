@@ -1,7 +1,7 @@
 ---
 title: 'Create MS PowerPoint Presentations in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create PowerPoint Presentation in C# | Add Text, Tables, Images, Charts"
+description: "Use .NET PowerPoint API to create PPTX presentation from scratch using C#. Insert slides, text, tables and charts in the presentations dynamically."
 date: Fri, 04 Dec 2020 11:55:47 +0000
 draft: false
 url: /2020/12/04/create-powerpoint-presentations-in-csharp/

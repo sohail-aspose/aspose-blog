@@ -1,7 +1,7 @@
 ---
 title: 'C# PDF to PPTX Conversion - Handle Notes and Decoration Graphics'
-seoTitle: ""
-description: ""
+seoTitle: "PDF to PowerPoint PPTX in C# | Handle Notes and Decoration Graphics"
+description: "Learn how to handle comments, notes, and decoration graphics in PDF to PowerPoint PPTX conversion using C# .NET. Advanced Tricks with code samples."
 date: Thu, 15 Oct 2020 13:51:05 +0000
 draft: false
 url: /2020/10/15/advanced-tricks-to-convert-pdf-to-pptx-csharp/

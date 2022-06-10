@@ -1,12 +1,12 @@
 ---
 title: 'Create Pivot Tables in Excel and Sort or Hide Data using C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Create Pivot Table in Excel in C# | Sort or Hide Pivot Table Data in C#"
+description: "Create Pivot Table in Excel programmatically in C#. Sort data in Excel Pivot Table using C#. Hide Pivot Table data programmatically in C#, VB.NET, ASP.NET."
 date: Fri, 10 Jan 2020 07:12:24 +0000
 draft: false
 url: /2020/01/10/create-pivot-tables-in-excel-sort-hide-pivot-table-data-programmatically/
 author: Usman Aziz
-summary: ''
+summary: "In this article, you'll learn how to **create Pivot Table** in **Excel** and **sort** or **hide** the Pivot Table data or items **programmatically** in **C#** using **Aspose.Cells for .NET** - .NET API to create and manipulate Excel spreadsheets without requiring Microsoft Excel."
 tags: ['Aspose.Cells for .NET', 'create excel pivot table in c#', 'create excel pivot table programmatically', 'create pivot table excel', 'hide data in pivot table', 'how to create pivot table programmatically', 'pivot tables in excel in c#', 'sort pivot table excel']
 categories: ['Aspose.Cells Product Family']
 ---

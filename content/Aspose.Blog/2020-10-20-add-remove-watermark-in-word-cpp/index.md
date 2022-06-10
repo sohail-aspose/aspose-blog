@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove Watermark in Word (DOC/DOCX) using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Add Insert Delete Remove Watermark in Word DOC/DOCX with C++"
+description: "You can programmatically Add Insert Delete Remove Watermark in Word DOC/DOCX document files with C++. Image or Text watermark can be used."
 date: Tue, 20 Oct 2020 06:16:43 +0000
 draft: false
 url: /2020/10/20/add-remove-watermark-in-word-cpp/

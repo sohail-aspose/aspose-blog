@@ -1,7 +1,7 @@
 ---
 title: 'Sharing Data with Aspose - Data Security'
-seoTitle: ""
-description: ""
+seoTitle: "Sending Data to Aspose - Data Security and Privacy"
+description: "You can send and share data with Aspose without worrying about data security or privacy because we have got you covered with best & secure practices."
 date: Tue, 27 Oct 2020 22:43:06 +0000
 draft: false
 url: /2020/10/27/data-security-aspose/

@@ -1,7 +1,7 @@
 ---
 title: 'Draw Graphics and Create 2D Drawings using C# or VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: ".NET Graphics API | C# Draw Graphics and Create 2D Drawing Shapes"
+description: "Learn how to create drawings and draw various graphics in C# using .NET Graphics API. Draw line, rectangle, polygon, arc, curve, ellipse graphics using C#."
 date: Tue, 30 Jun 2020 00:37:15 +0000
 draft: false
 url: /2020/06/30/draw-graphics-and-create-2d-drawings-using-csharp-or-vb.net/

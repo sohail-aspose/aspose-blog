@@ -1,7 +1,7 @@
 ---
 title: 'Convert JPG, PNG, TIFF, EMF, or BMP Images to PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert Images to PDF | Convert JPG, PNG, TIFF, EMF, BMP to PDF"
+description: "Convert images to PDF in C# .NET. JPG, PNG, TIFF, EMF, and BMP to PDF in Windows/Mac. Create, Change, Make & Save photo or (pic) picture to PDF high quality."
 date: Sun, 26 Jul 2020 22:27:18 +0000
 draft: false
 url: /2020/07/26/images-to-pdf-csharp/

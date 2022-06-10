@@ -1,7 +1,7 @@
 ---
 title: 'Generate Word Documents from Templates Dynamically using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Generate Word Documents from Templates in Java | Create Word Docs"
+description: "Generate Word documents from templates in Java. Create word document by populating template placeholders or tags with Java object values or data sources."
 date: Tue, 14 Jan 2020 11:43:18 +0000
 draft: false
 url: /2020/01/14/generate-word-documents-from-templates-dynamically-using-java/

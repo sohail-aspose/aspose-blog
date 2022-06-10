@@ -1,7 +1,7 @@
 ---
 title: 'Convert Presentation to Webpage HTML Programmatically using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PPTX PPT Presentation to Webpage HTML Programmatically C++"
+description: "Convert Microsoft PowerPoint Presentation to a webpage, HTML or MHTML format using C++ Programmatically. Export specific or all slides of PPTX or PPT."
 date: Fri, 04 Sep 2020 21:17:12 +0000
 draft: false
 url: /2020/09/04/convert-presentation-to-webpage-html-using-cpp/

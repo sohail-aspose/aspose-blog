@@ -1,7 +1,7 @@
 ---
 title: 'Convert MS Visio Diagrams to PDF, PNG, JPEG, SVG, HTML and XAML in Node.js'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Visio VSD(X) to PDF, JPEG, PNG, SVG, XML, HTML in Node.js"
+description: "Node.js Visio Converter API. Convert Visio VSD or VSDX to PDF, Visio to JPEG, Visio to PNG, Visio to SVG, Visio to XML, Visio to HTML in Node.js."
 date: Wed, 13 May 2020 18:29:48 +0000
 draft: false
 url: /2020/05/13/convert-ms-visio-vsd-vsdx-to-pdf-png-jpeg-svg-html-xaml-in-node-js/

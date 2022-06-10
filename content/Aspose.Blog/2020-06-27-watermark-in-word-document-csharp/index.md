@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove Watermark in Word Document (DOCX/DOC) in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Add or Remove Watermark in Word DOC/DOCX | Image or Text in C#"
+description: "You can add or remove watermark in word DOC/DOCX file. Delete or remove watermark in word documents. Image or text watermark in DOCX/DOC by C# .NET."
 date: Sat, 27 Jun 2020 14:08:00 +0000
 draft: false
 url: /2020/06/27/watermark-in-word-document-csharp/

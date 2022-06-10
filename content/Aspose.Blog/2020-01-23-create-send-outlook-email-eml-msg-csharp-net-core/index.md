@@ -1,12 +1,12 @@
 ---
 title: 'Create and Send Outlook Emails using C# .NET or .NET Core'
-seoTitle: ""
-description: ""
+seoTitle: "C# Send Outlook Emails | Create Outlook Email in ASP.NET | C# Email API"
+description: "C# .NET Email Library. Send Outlook emails in C# using SMTP. Send emails asynchronously in ASP.NET C#. Create and send emails (MSG, EML) in C# .NET Core."
 date: Thu, 23 Jan 2020 08:55:49 +0000
 draft: false
 url: /2020/01/23/create-send-outlook-email-eml-msg-csharp-net-core/
 author: Usman Aziz
-summary: ''
+summary: "In this blog, you will learn how to **create Outlook email** messages (including MSG, EML, EMLX, or MHTML) and **send emails** **synchronously** or **asynchronously** using **C#** in **.NET** or **.NET Core**."
 tags: ['C# .net email library', 'create and send outlook emails', 'create outlook msg in C# .net', 'send email in C# .net', 'send emails asynchronously']
 categories: ['Aspose.Email Product Family']
 ---

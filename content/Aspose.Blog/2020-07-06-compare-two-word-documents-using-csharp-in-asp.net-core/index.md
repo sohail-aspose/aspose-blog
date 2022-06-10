@@ -1,7 +1,7 @@
 ---
 title: 'Compare Two Word Documents using C# in ASP.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Compare Two Word Documents in C# ASP.NET | DOC/DOCX Diff Checker"
+description: "Compare two Word DOC/DOCX documents using C# in ASP.NET Core web application. Use .NET diff checker API to find differences in Word documents in ASP.NET."
 date: Mon, 06 Jul 2020 01:46:00 +0000
 draft: false
 url: /2020/07/06/compare-two-word-documents-using-csharp-in-asp.net-core/

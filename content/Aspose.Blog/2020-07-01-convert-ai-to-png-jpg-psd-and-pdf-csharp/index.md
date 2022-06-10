@@ -1,7 +1,7 @@
 ---
 title: 'Convert AI to PNG, JPG, PSD and PDF file with C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Convert AI to PNG, JPG, PSD, or PDF | Quick & Easy AI Converter"
+description: "Convert AI to PNG, JPG, PSD or PDF file formats easily and quickly. Convert Adobe Illustrator files to supported picture and image formats."
 date: Wed, 01 Jul 2020 16:32:00 +0000
 draft: false
 url: /2020/07/01/convert-ai-to-png-jpg-psd-and-pdf-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert RTF Documents to PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "RTF to PDF C# Conversion | Convert RTF Document to PDF Format in C#"
+description: "Convert RTF documents to PDF format using C#. Step by step guide to perform RTF to PDF conversion within a couple of lines of C# code."
 date: Mon, 26 Oct 2020 13:19:13 +0000
 draft: false
 url: /2020/10/26/convert-rtf-to-pdf-in-csharp/

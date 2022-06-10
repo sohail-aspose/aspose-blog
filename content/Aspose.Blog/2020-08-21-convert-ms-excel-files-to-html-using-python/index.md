@@ -1,7 +1,7 @@
 ---
 title: 'Convert MS Excel Files to HTML using Python'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Excel File to HTML in Python | XLS/XLSX to HTML using Python"
+description: "Use Python Excel to HTML converter API to convert MS Excel XLS/XLSX files to HTML using Python. High quality Excel to HTML conversion with worksheet tabs."
 date: Fri, 21 Aug 2020 08:50:04 +0000
 draft: false
 url: /2020/08/21/convert-ms-excel-files-to-html-using-python/

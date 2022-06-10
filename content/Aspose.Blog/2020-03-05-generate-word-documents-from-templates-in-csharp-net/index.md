@@ -1,7 +1,7 @@
 ---
 title: 'Generate Word Documents from Templates in C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Generate Word Document from Template in C# .NET | .NET Word API"
+description: "Generate Word document from template in C# .NET. Dynamically create Word reports from predefined Word templates using objects, CSV, JSON, and XML data in C#."
 date: Thu, 05 Mar 2020 16:35:38 +0000
 draft: false
 url: /2020/03/05/generate-word-documents-from-templates-in-csharp-net/

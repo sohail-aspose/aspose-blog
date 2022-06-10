@@ -1,7 +1,7 @@
 ---
 title: 'Convert EPUB to PDF - Simple Steps with Screenshots'
-seoTitle: ""
-description: ""
+seoTitle: "Convert EPUB to PDF | From EPUB to PDF using C# | EPUB to PDF"
+description: "Convert EPUB to PDF format with simple steps in C# language. EPUB to PDF format conversion gives you best results with many features."
 date: Wed, 17 Jun 2020 22:56:38 +0000
 draft: false
 url: /2020/06/17/epub-to-pdf-csharp/

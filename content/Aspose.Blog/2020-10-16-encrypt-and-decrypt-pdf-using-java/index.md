@@ -1,7 +1,7 @@
 ---
 title: 'Encrypt and Decrypt PDF Files using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Encrypt and Decrypt PDF in Java | Encrypt PDF with Password in Java"
+description: "Steps to encrypt and decrypt PDF files in Java. Encrypt PDF with a password and AES or RC4 cryptographic algorithm. Change security permissions in PDF."
 date: Fri, 16 Oct 2020 22:03:17 +0000
 draft: false
 url: /2020/10/16/encrypt-and-decrypt-pdf-using-java/

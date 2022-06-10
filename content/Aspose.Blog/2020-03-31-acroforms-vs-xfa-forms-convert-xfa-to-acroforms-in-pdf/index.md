@@ -1,7 +1,7 @@
 ---
 title: 'AcroForms vs XFA Forms - Convert XFA to AcroForms in PDF'
-seoTitle: ""
-description: ""
+seoTitle: "AcroForms vs XFA Forms | Convert XFA to AcroForms in C# or Java | PDF"
+description: "AcroForms vs XFA forms. Convert XFA to AcroForms in PDF using C# or Java. Comparison of differences in AcroForms and XFA. C# and Java XFA to AcroForms."
 date: Tue, 31 Mar 2020 14:54:55 +0000
 draft: false
 url: /2020/03/31/acroforms-vs-xfa-forms-convert-xfa-to-acroforms-in-pdf/

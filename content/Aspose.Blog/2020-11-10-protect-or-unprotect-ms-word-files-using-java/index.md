@@ -1,7 +1,7 @@
 ---
 title: 'Protect or Unprotect MS Word Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Protect or Unprotect Word DOCX Files | Java Word Processing API"
+description: "Protect or unprotect MS Word DOCX files using Java. Apply different protection types to protect DOCX with password. Unprotect DOCX without passowrd in Java."
 date: Tue, 10 Nov 2020 22:28:46 +0000
 draft: false
 url: /2020/11/10/protect-or-unprotect-ms-word-files-using-java/

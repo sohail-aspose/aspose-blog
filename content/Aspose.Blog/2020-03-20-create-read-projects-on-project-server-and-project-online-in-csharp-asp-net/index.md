@@ -1,7 +1,7 @@
 ---
 title: 'Read or Create Projects on Project Server and Project Online using C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Create or Read Projects on Project Server or Project Online | C# ASP.NET"
+description: ".NET API to connect to Project Server or Project Online. Read or create projects in C#, ASP.NET or .NET Core application. Project Server/Online API for C#."
 date: Fri, 20 Mar 2020 15:56:35 +0000
 draft: false
 url: /2020/03/20/create-read-projects-on-project-server-and-project-online-in-csharp-asp-net/

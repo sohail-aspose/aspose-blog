@@ -1,12 +1,12 @@
 ---
 title: 'Convert PDF Files to MS Word Documents (DOC/DOCX) in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java PDF to Word | Convert PDF to DOC or PDF to DOCX in Java"
+description: "Convert PDF to Word in Java. Convert PDF to DOC or PDF to DOCX programmatically using Java PDF to Word (DOC/DOCX) converter library. PDF Converter API."
 date: Fri, 17 Jan 2020 13:33:18 +0000
 draft: false
 url: /2020/01/17/convert-pdf-to-word-doc-docx-in-java/
 author: Usman Aziz
-summary: ''
+summary: "**PDF** is one of the most commonly used formats for sending the document out to third parties. The reason behind this popularity is PDF's compatibility across multiple platforms regardless of any hardware/software requirements. However, in some cases, you would want to convert the PDF document into an editable document format. **PDF to DOC or DOCX** format could be the priority conversion option in such cases. In order to automate the conversion process, this article showcases how to **convert PDF to Word programmatically in Java**."
 tags: ['PDF to DOC', 'convert pdf to doc in java', 'convert pdf to docx in java', 'convert pdf to word in java', 'pdf to word']
 categories: ['Aspose.PDF Product Family']
 ---

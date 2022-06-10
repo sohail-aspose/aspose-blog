@@ -1,7 +1,7 @@
 ---
 title: 'Split a PDF File into Multiple Files using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Split PDF into Multiple Files using C# | .NET PDF Splitter Library"
+description: "Split a PDF file into multiple files using C#. Split each page or a collection of pages in PDF to separate files in C#. Download PDF splitter API for free."
 date: Tue, 03 Nov 2020 23:40:33 +0000
 draft: false
 url: /2020/11/03/split-pdf-into-multiple-files-using-csharp/

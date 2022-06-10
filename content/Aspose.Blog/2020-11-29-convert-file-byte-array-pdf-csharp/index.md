@@ -1,7 +1,7 @@
 ---
 title: 'Convert PDF File to Byte Array or Byte Array to PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF File to Byte Array | Byte Array to PDF in C# .NET"
+description: "Convert a PDF File to Byte Array or a Byte Array to PDF File programmatically using C#. Import or Export Byte Array as a File in .NET."
 date: Sun, 29 Nov 2020 19:13:48 +0000
 draft: false
 url: /2020/11/29/convert-file-byte-array-pdf-csharp/

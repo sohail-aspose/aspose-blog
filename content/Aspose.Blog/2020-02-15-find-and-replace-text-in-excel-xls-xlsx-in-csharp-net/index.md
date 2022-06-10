@@ -1,7 +1,7 @@
 ---
 title: 'Find and Replace Text in Excel Spreadsheets using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Find and Replace Text in Excel in C# | Replace Text in Excel with Regex"
+description: "Find and replace text in Excel using C#. Find and replace text in Excel using a regular expression (regex). Update cell values in Excel in C# .NET."
 date: Sat, 15 Feb 2020 02:50:46 +0000
 draft: false
 url: /2020/02/15/find-and-replace-text-in-excel-xls-xlsx-in-csharp-net/

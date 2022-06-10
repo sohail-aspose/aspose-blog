@@ -1,7 +1,7 @@
 ---
 title: 'Compress PNG, JPEG, and TIFF Images using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Compress Images using C# | Compress PNG, JPEG and TIF Images"
+description: "Compression PNG, JPEG and TIFF images using C#. Apply various types of compression techniques to reduce images size from within .NET applications."
 date: Fri, 27 Nov 2020 04:53:55 +0000
 draft: false
 url: /2020/11/27/compress-png-jpeg-and-tiff-images-using-csharp/

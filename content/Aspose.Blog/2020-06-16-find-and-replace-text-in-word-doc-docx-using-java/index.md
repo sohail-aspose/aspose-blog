@@ -1,7 +1,7 @@
 ---
 title: 'Find and Replace Text in Word Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Find and Replace Text in Word Documents using Java | Word DOC/DOCX"
+description: "Learn how to find and replace text in Word document using Java. Find and replace text or phrase in Word DOC DOCX in Java without MS Word/Office."
 date: Tue, 16 Jun 2020 01:47:54 +0000
 draft: false
 url: /2020/06/16/find-and-replace-text-in-word-doc-docx-using-java/

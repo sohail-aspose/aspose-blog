@@ -1,7 +1,7 @@
 ---
 title: 'Convert Word DOCX/DOC to PDF in C# .NET - A Complete Guide'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Word DOCX to PDF in C# | DOC to PDF, DOCX to PDF"
+description: "Convert Word DOCX or DOC to PDF in C# .NET. Convert DOCX to PDF with multiple customization options in C#. Convert DOCX to PDF in C# or ASP.NET or .NET Core."
 date: Thu, 02 Jan 2020 12:07:49 +0000
 draft: false
 url: /2020/01/02/convert-word-doc-docx-to-pdf-in-csharp-net-core/

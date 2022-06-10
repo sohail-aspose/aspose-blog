@@ -1,7 +1,7 @@
 ---
 title: 'Word Document (DOC/DOCX) to HTML Conversion using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Word Document (DOC/DOCX) to HTML or HTML5 Conversion using Java"
+description: "Convert DOC or DOCX Word document to HTML, MHTML or HTML5 with Aspose.Words for Java API. Password protected and encrypted documents supported."
 date: Wed, 15 Jul 2020 21:32:44 +0000
 draft: false
 url: /2020/07/15/word-document-doc-docx-to-html-conversion-using-java/

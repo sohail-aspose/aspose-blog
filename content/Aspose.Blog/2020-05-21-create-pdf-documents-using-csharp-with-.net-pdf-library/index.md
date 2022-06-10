@@ -1,7 +1,7 @@
 ---
 title: 'Create PDF Files using C# with .NET PDF Library'
-seoTitle: ""
-description: ""
+seoTitle: "Create PDF Files using C# or VB.NET | .NET PDF Library"
+description: "C# PDF Library to create PDF files programmatically using C# or VB.NET. Generate PDF with text, image, table, annotation, hyperlink, and bookmarks in C#."
 date: Thu, 21 May 2020 17:20:45 +0000
 draft: false
 url: /2020/05/21/create-pdf-documents-using-csharp-with-.net-pdf-library/

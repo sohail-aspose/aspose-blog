@@ -1,7 +1,7 @@
 ---
 title: 'Load a PDF File to Further Modify and Convert It using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Load PDF and Convert It to Popular Formats using C#"
+description: "Aspose.Words provides the ability to load a PDF document for its further modification. You can save such a PDF in any supported format."
 date: Mon, 29 Jun 2020 18:10:51 +0000
 draft: false
 url: /2020/06/29/load-pdf-to-modify-and-convert-it-using-csharp/

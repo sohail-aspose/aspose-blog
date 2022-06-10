@@ -1,7 +1,7 @@
 ---
 title: 'Read Emails from MS Exchange Server using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Read Emails from MS Exchange Server | .NET Email API"
+description: "Use .NET Exchange Server API to read email messages from MS Exchange Server using C#. Connect to your Exchange Server using EWS or IMAP."
 date: Fri, 20 Nov 2020 17:15:45 +0000
 draft: false
 url: /2020/11/20/read-emails-from-exchange-server-using-csharp/

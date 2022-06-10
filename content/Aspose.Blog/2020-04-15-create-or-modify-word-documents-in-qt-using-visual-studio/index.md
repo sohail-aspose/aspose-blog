@@ -1,7 +1,7 @@
 ---
 title: 'Handle Word Documents in Qt Applications in Visual Studio'
-seoTitle: ""
-description: ""
+seoTitle: "Create Word Documents in Qt using C++ | C++ Word Library for Qt Apps"
+description: "Create and handle Word (DOC or DOCX) files in Qt applications. Use the C++ Word library in Qt to read/write and edit Word documents in Visual Studio."
 date: Wed, 15 Apr 2020 16:43:32 +0000
 draft: false
 url: /2020/04/15/create-or-modify-word-documents-in-qt-using-visual-studio/

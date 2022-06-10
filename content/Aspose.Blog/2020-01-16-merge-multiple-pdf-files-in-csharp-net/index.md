@@ -1,7 +1,7 @@
 ---
 title: 'Merge Multiple PDF Files using C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Merge PDF Files in C# | Combine Two or Multiple PDF Files in C# VB.NET"
+description: "Merge PDF files in C# or VB.NET. Combine two or multiple PDF files using the file stream objects into a single PDF within ASP.NET and .NET Core."
 date: Thu, 16 Jan 2020 15:24:08 +0000
 draft: false
 url: /2020/01/16/merge-multiple-pdf-files-in-csharp-net/

@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Excel Files using Python - Python Excel API'
-seoTitle: ""
-description: ""
+seoTitle: "Python Create Excel XLSX XLS Files | Best Python API with Source Code"
+description: "Use Python Excel API to create Excel XLS/XLSX files using Python. Source code to insert data, image, chart, and pivot table in Excel sheets using Python."
 date: Wed, 19 Aug 2020 17:05:25 +0000
 draft: false
 url: /2020/08/19/create-excel-xls-xlsx-using-python-excel-api/

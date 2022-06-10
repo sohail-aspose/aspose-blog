@@ -1,7 +1,7 @@
 ---
 title: 'Create PDF Files using C# - .NET PDF API'
-seoTitle: ""
-description: ""
+seoTitle: "Create PDF Files in C# | C# Generate PDF with Text, Image, Table, Forms"
+description: "Use C# PDF API to create PDF files from scratch using C#. Add text, images, tables, and forms in PDF documents dynamically using C# or VB.NET."
 date: Wed, 02 Dec 2020 22:49:24 +0000
 draft: false
 url: /2020/12/02/create-pdf-files-using-csharp/

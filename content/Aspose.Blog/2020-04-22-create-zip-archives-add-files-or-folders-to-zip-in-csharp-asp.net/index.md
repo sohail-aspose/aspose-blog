@@ -1,7 +1,7 @@
 ---
 title: 'Add Files or Folders to ZIP Archives Programmatically in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create ZIP Archive in C# | ZIP Single or Multiple Files in C# | ZIP Library"
+description: "C# Create ZIP files. ZIP single or multiple files. Create AES encrypted ZIP archive to compress files or folders. Create password-protected ZIP files in C#."
 date: Wed, 22 Apr 2020 12:48:02 +0000
 draft: false
 url: /2020/04/22/create-zip-archives-add-files-or-folders-to-zip-in-csharp-asp.net/

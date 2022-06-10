@@ -1,7 +1,7 @@
 ---
 title: 'Convert JSON to CSV and CSV to JSON using C# or VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert JSON to CSV or CSV to JSON | C# VB.NET"
+description: "Convert CSV to JSON or JSON to CSV Programmatically using C# or VB.NET languages. You can import or export JSON and CSV files in .NET."
 date: Tue, 24 Nov 2020 21:11:22 +0000
 draft: false
 url: /2020/11/24/convert-csv-json-charp-vb-net/

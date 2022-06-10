@@ -1,7 +1,7 @@
 ---
 title: 'Convert HTML to Plain Text or Extract Text from HTML in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert HTML to Plain Text in C# | HTML to Plain Text in C#"
+description: "Convert HTML to Plain Text File or Extract Text from HTML webpage in C#. Convert online URL to TXT file programmatically using C# programming language."
 date: Tue, 15 Dec 2020 10:26:00 +0000
 draft: false
 url: /2020/12/15/convert-html-to-plain-text-or-extract-text-from-html-in-c/

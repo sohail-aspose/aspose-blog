@@ -1,7 +1,7 @@
 ---
 title: 'Convert PDF to SVG Format using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF to SVG in Java | Java PDF to SVG Converter API"
+description: "Use Java PDF to SVG converter API to convert PDF files into SVG format within a couple of lines of code. Free download or installation of API from Maven."
 date: Wed, 04 Nov 2020 22:24:49 +0000
 draft: false
 url: /2020/11/04/convert-pdf-to-svg-using-java/

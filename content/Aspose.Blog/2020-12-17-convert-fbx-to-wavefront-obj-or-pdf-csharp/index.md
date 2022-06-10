@@ -1,7 +1,7 @@
 ---
 title: 'Convert FBX to Wavefront OBJ or PDF File Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert FBX to Wavefront OBJ | Export FBX to PDF in C#"
+description: "Convert FBX to OBJ file or PDF document programmatically in C#. Import or Export 3D FBX files and scenes in .NET based applications."
 date: Thu, 17 Dec 2020 21:43:00 +0000
 draft: false
 url: /2020/12/17/convert-fbx-to-wavefront-obj-or-pdf-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Create Word Documents in Qt Applications using Aspose.Words for C++'
-seoTitle: ""
-description: ""
+seoTitle: "Generate Word Documents in QT using C++ | C++ Word Library for Qt"
+description: "Generate Word document in Qt applications using C++. Integrate Word library in Qt applications and handle Word documents through C++ Word library for Qt."
 date: Tue, 14 Apr 2020 12:15:03 +0000
 draft: false
 url: /2020/04/14/generate-word-document-in-qt-applications-with-cpp-word-library/

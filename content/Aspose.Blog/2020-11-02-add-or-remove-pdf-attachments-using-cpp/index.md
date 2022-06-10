@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove Attachments in PDF Files using C++'
-seoTitle: ""
-description: ""
+seoTitle: "C++ Add or Remove Attachments in PDF Files | C++ PDF API"
+description: "Use C++ PDF API to access, add and remove attachments in PDF files using C++ from within your applications. Complete tutorial with C++ code samples."
 date: Mon, 02 Nov 2020 23:38:54 +0000
 draft: false
 url: /2020/11/02/add-or-remove-pdf-attachments-using-cpp/

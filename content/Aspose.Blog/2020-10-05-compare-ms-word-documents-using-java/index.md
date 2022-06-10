@@ -1,7 +1,7 @@
 ---
 title: 'Compare MS Word Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Compare MS Word Documents in Java | DOC/DOCX Diff Checker"
+description: "Compare two MS Word (DOC/DOCX) documents in Java with options of ignoring formatting, setting granularity, and specifying target document to view changes."
 date: Mon, 05 Oct 2020 16:44:15 +0000
 draft: false
 url: /2020/10/05/compare-ms-word-documents-using-java/

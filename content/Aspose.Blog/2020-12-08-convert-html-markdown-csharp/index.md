@@ -1,7 +1,7 @@
 ---
 title: 'Convert HTML to Markdown or Markdown to HTML in C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert HTML to Markdown (.md file) or Markdown to HTML webpage"
+description: "You can convert HTML webpage to markdown file and .MD file to HTML Programmatically using C# in your .NET framework-based applications."
 date: Tue, 08 Dec 2020 11:37:46 +0000
 draft: false
 url: /2020/12/08/convert-html-markdown-csharp/

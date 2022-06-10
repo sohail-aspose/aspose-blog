@@ -1,7 +1,7 @@
 ---
 title: 'Convert Image to Text using C++ OCR Library'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Image to Text using C++ OCR Library | PNG, JPG, BMP to Text"
+description: "Use C++ OCR Library to convert image to text using C++. Perform OCR on JPEG, PNG, and BMP image and extract single or multi-line text."
 date: Tue, 23 Jun 2020 02:34:59 +0000
 draft: false
 url: /2020/06/23/convert-image-to-text-using-cpp-ocr-library/

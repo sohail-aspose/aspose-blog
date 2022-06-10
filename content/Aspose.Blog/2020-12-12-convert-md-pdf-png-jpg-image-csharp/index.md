@@ -1,7 +1,7 @@
 ---
 title: 'Convert Markdown (MD) to PDF or PNG, JPG Image using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Markdown (MD) to PDF, PNG, JPG Image Programmatically C#"
+description: "You can convert the Markdown (MD) files to PDF, PNG, JPG image programmatically using C# in .NET. Import or Export Markdown files in .NET."
 date: Sat, 12 Dec 2020 22:19:00 +0000
 draft: false
 url: /2020/12/12/convert-md-pdf-png-jpg-image-csharp/

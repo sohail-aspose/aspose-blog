@@ -1,7 +1,7 @@
 ---
 title: 'Convert DWG/DXF to PNG, JPEG, BMP, TIFF, and GIF Image in C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# DWG or DXF to PNG JPEG BMP TIFF and GIF Image | C# CAD API"
+description: "Use C# .NET CAD API to convert DWG or DXF files to PNG, JPEG, BMP, TIFF, and GIF Image using C# or VB.NET within your .NET applications."
 date: Mon, 28 Sep 2020 21:49:00 +0000
 draft: false
 url: /2020/09/28/dwg-dxf-to-png-jpeg-bmp-tiff-gif-using-csharp/

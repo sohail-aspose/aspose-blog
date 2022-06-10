@@ -1,7 +1,7 @@
 ---
 title: 'Create 7z (7-Zip) Archives Programmatically using C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Create 7zip Archive using C# .NET | Create AES Encrypted 7z Files in C#"
+description: "Create 7zip (.7z) archive programmatically using C# or VB.NET. Apply AES encryption to 7zip archives and set a password for file in 7zip archives using C#."
 date: Wed, 06 May 2020 17:15:21 +0000
 draft: false
 url: /2020/05/06/create-7zip-archives-programmatically-using-csharp-asp.net/

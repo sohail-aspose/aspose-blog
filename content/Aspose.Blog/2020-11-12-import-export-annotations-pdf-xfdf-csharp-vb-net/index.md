@@ -1,7 +1,7 @@
 ---
 title: 'Import or Export Annotations from PDF to XFDF using C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Import or Export Annotations from PDF to XFDF using C# VB.NET"
+description: "Import or Export Annotations from PDF or XFDF files Programmatically using C# or VB.NET in your .NET framework based applications."
 date: Thu, 12 Nov 2020 00:56:26 +0000
 draft: false
 url: /2020/11/12/import-export-annotations-pdf-xfdf-csharp-vb-net/

@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Word Documents (DOC/DOCX) using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Create MS Word Documents in C++ | Add Text, Image, Table, List in Docs"
+description: "C++ Word Processing API to create MS Word DOC/DOCX documents using C++. Insert text, tables, images, lists, and other elements in Word documents."
 date: Tue, 25 Aug 2020 04:17:31 +0000
 draft: false
 url: /2020/08/25/create-ms-word-documents-using-cpp/

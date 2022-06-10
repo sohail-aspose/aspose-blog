@@ -1,7 +1,7 @@
 ---
 title: 'Convert SVG to PDF or XPS Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert SVG to PDF or XPS Programmatically using C# VB.NET"
+description: "You can convert SVG to PDF or XPS files programmatically using C# or VB.NET languages. Render the Scalable Vector Graphics in .NET applications."
 date: Fri, 04 Dec 2020 08:50:58 +0000
 draft: false
 url: /2020/12/04/convert-svg-pdf-xps-chsarp-vb-net/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert PDF to TEXT or TXT to PDF using C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF to TXT | Text to PDF Programmatically in C# VB.NET"
+description: "Convert PDF to TXT or Text to PDF Programmatically using C# or VB.NET. Read text from PDF file and convert it with or without formatting routines."
 date: Mon, 28 Sep 2020 22:29:14 +0000
 draft: false
 url: /2020/09/28/convert-pdf-text-csharp-vb.net/

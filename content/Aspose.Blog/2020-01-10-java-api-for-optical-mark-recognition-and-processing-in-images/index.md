@@ -1,12 +1,12 @@
 ---
 title: 'Java API for Optical Mark Recognition and Processing in Images'
-seoTitle: ""
-description: ""
+seoTitle: "Java OMR Library | Optical Mark Recognition and Image Processing | Java"
+description: "Java OMR library for optical mark recognition and processing in images using Java. Generate OMR template and perform OMR operations on images using Java."
 date: Fri, 10 Jan 2020 16:55:09 +0000
 draft: false
 url: /2020/01/10/java-api-for-optical-mark-recognition-and-processing-in-images/
 author: Usman Aziz
-summary: ''
+summary: "Do you need a simple yet feature-rich **Java OMR library**? Do you want to recognize optical marks in scanned images? Try **Aspose.OMR for Java** - A Java class library to perform the **Optical Mark Recognition** (OMR) operations in Java-based applications. Let's have a quick walk through the features of the said **Java API** to see how to **recognize optical marks** in a variety of image formats and capture **human-marked data** from surveys, questionnaires or tests containing MCQs."
 tags: ['Aspose.OMR', 'OMR Recognition and Processing', 'java omr library', 'omr in images', 'omr reader', 'optical mark reader', 'optical mark recognition java']
 categories: ['Aspose.OMR Product Family']
 ---

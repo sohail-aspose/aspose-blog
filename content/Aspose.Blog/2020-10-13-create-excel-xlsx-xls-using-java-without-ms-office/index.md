@@ -1,7 +1,7 @@
 ---
 title: 'Create Excel Files using Java without MS Office'
-seoTitle: ""
-description: ""
+seoTitle: "Create Excel Files in Java | Add Charts, Tables, Formulas in XLSX XLS"
+description: "Create MS Excel XLSX or XLS files using Java without MS Office. Java code samples of how to add tables, charts, and built-in or add-in functions in Excel."
 date: Tue, 13 Oct 2020 02:34:04 +0000
 draft: false
 url: /2020/10/13/create-excel-xlsx-xls-using-java-without-ms-office/

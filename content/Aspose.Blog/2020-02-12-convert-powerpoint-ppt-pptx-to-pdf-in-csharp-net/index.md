@@ -1,7 +1,7 @@
 ---
 title: 'Convert PowerPoint PPT or PPTX to PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert PowerPoint to PDF | PPT to PDF | PPTX to PDF | C# .NET"
+description: "Convert PowerPoint to PDF in C#. Convert PPT to PDF or PPTX to PDF in C#. Convert PowerPoint to password-protected PDF in C#, ASP.NET, .NET Core."
 date: Wed, 12 Feb 2020 09:06:52 +0000
 draft: false
 url: /2020/02/12/convert-powerpoint-ppt-pptx-to-pdf-in-csharp-net/

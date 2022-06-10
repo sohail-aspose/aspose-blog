@@ -1,7 +1,7 @@
 ---
 title: 'Unzip Files in ZIP Archives using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Unzip Files Programmatically | Extract Protected ZIP | C# ZIP Extractor"
+description: "Unzip files in C#. Extract password-protected ZIP files in C#. Extract ZIP archive and unzip single or multiple files in ASP.NET. C# ZIP extractor library."
 date: Thu, 23 Apr 2020 16:04:07 +0000
 draft: false
 url: /2020/04/23/unzip-files-in-password-protected-zip-archives-in-csharp-asp.net/

@@ -1,7 +1,7 @@
 ---
 title: 'Mail Merge in MS Word Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Mail Merge API | Mail Merge in MS Word using Java | Aspose.Words"
+description: "Learn how to use Mail Merge in MS Word documents using Java with Java Mail Merge API without MS Word or Office Interop. MS Word Mail Merge Library."
 date: Fri, 11 Dec 2020 18:05:06 +0000
 draft: false
 url: /2020/12/11/mail-merge-in-word-documents-using-java/

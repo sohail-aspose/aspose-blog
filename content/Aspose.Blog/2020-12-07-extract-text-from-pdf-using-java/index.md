@@ -1,7 +1,7 @@
 ---
 title: 'Extract Text from PDF using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Extract Text from PDF in Java | Java Text Extractor API for PDF"
+description: "Use Java text extractor API to extract text from PDF files in Java. Extract text from whole PDF, a specific page, section or using regular expression."
 date: Mon, 07 Dec 2020 23:09:31 +0000
 draft: false
 url: /2020/12/07/extract-text-from-pdf-using-java/

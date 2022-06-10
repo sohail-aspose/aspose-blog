@@ -1,7 +1,7 @@
 ---
 title: 'Rotate PDF Pages, the Text or Image with C# or VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Rotate PDF File Page | Rotate Text or Image in PDF with C# or VB.NET"
+description: "Rotate PDF page. Rotate Specific, certain, particular pages or the text and image/picture using C# or VB.NET programmatically."
 date: Sun, 18 Oct 2020 21:07:00 +0000
 draft: false
 url: /2020/10/18/rotate-pdf-text-image-page-with-csharp-vb-net/

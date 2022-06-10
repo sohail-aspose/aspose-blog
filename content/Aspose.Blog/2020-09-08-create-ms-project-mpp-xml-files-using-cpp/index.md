@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Project Files using C++ - Add Tasks, Resources, or Calenders to Projects'
-seoTitle: ""
-description: ""
+seoTitle: "Create MS Project Files mpp/xml in C++ | Add Tasks, Resources, Calender"
+description: "Create MS Project files (.mpp/.xml) using C++. Learn how to add tasks, resources, calendars and resource assignments in MS Project files using C++."
 date: Tue, 08 Sep 2020 22:57:00 +0000
 draft: false
 url: /2020/09/08/create-ms-project-mpp-xml-files-using-cpp/

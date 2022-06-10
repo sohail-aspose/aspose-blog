@@ -1,7 +1,7 @@
 ---
 title: 'Protect and Unprotect Excel Files using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Protect and Unprotect Excel File in C# | Password Protect Excel Workbook"
+description: "Protect and unprotect Excel files programmatically using C#. Protect workbooks using password and set the desired protection type using .NET Excel API."
 date: Mon, 14 Dec 2020 10:12:00 +0000
 draft: false
 url: /2020/12/14/protect-or-unprotect-excel-files-using-csharp/

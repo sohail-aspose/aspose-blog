@@ -1,7 +1,7 @@
 ---
 title: 'Convert CSV to PDF or PDF to CSV Programmatically using C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Convert CSV to PDF or PDF to CSV Programmatically using C# VB.NET"
+description: "Convert CSV to PDF and PDF to CSV Programmatically using C# or VB.NET. Comma separated values and other delimiters can be converted easily."
 date: Fri, 20 Nov 2020 16:07:51 +0000
 draft: false
 url: /2020/11/20/csv-pdf-csharp-vb-net/

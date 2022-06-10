@@ -1,7 +1,7 @@
 ---
 title: 'Generate and Read Barcodes using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Generate and Read Barcode in C++ | C++ Barcode Generator and Reader"
+description: "Generate barcode using C++. Scan and read barcodes including QR, Aztec, DataMatrix, Code128, and other barcodes in C++. C++ Barcode Generator and Reader."
 date: Thu, 04 Jun 2020 05:49:06 +0000
 draft: false
 url: /2020/06/04/generate-and-read-barcodes-using-cpp-barcode-generator-and-reader/

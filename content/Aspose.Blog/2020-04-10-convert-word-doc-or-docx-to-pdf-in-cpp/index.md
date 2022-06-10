@@ -1,7 +1,7 @@
 ---
 title: 'Convert Word DOC or DOCX to PDF in C++'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Word DOC/DOCX to PDF in C++ | DOCX to PDF or DOC to PDF"
+description: "Convert Word DOCX to PDF or DOC to PDF in C++. Convert DOCX to PDF/A or other PDF Standards in C++. Apply text/image compression in DOCX to PDF in C++."
 date: Fri, 10 Apr 2020 14:29:18 +0000
 draft: false
 url: /2020/04/10/convert-word-doc-or-docx-to-pdf-in-cpp/

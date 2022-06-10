@@ -1,12 +1,12 @@
 ---
 title: 'PHP Barcode Generator and Reader API - Generate and Scan Barcodes in PHP'
-seoTitle: ""
-description: ""
+seoTitle: "PHP Barcode Generator and Reader API | Generate Barcodes in PHP"
+description: "Use PHP Barcode generator and scanner to generate QR or other barcodes in PHP. Scan and read various barcode symbologies using PHP barcode reader."
 date: Wed, 29 Jan 2020 17:54:19 +0000
 draft: false
 url: /2020/01/29/php-barcode-generator-reader-and-scanner-api/
 author: Usman Aziz
-summary: ''
+summary: '**Barcodes** are used to visually represent the data about an object in the machine-readable form. It is more popular to keep the data about products which can be read using the **barcode scanners**. In order to make it possible to generate and read a variety of barcodes in the PHP based web applications, we have released Aspose.BarCode for PHP via Java - an easy to use **PHP barcode generator and reader API** which is designed to work via Java Bridge.'
 tags: ['Aspose.BarCode for PHP via Java', 'barcode generator API in PHP', 'barcode scanner in php', 'php barcode generator', 'php barcode generator tutorial', 'php barcode reader', 'qr code generator and reader in php']
 categories: ['Aspose.BarCode Product Family']
 ---

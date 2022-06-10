@@ -1,7 +1,7 @@
 ---
 title: 'Create OMR Sheet Checker or Scanner Software in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create OMR Question and Bubble Sheet Checker or Scanner Software C#"
+description: "You can create OMR sheet checker, scanner software for bubble question and answer sheet and perform OCR on templates using C# or VB.NET. OMR Creator Maker."
 date: Tue, 25 Aug 2020 21:56:24 +0000
 draft: false
 url: /2020/08/25/create-omr-question-answer-sheet-csharp/

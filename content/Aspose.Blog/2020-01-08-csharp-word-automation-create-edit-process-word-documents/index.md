@@ -1,7 +1,7 @@
 ---
 title: '.NET Word Automation - Create, Edit or Convert MS Word Documents using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Create or Edit Word Document | C# .NET Word Automation"
+description: ".NET Word Automation. Create MS Word DOC/DOCX documents in C#. Edit or modify, parse, and convert Word DOC/DOCX documents using C# or VB.NET in ASP.NET."
 date: Wed, 08 Jan 2020 08:42:26 +0000
 draft: false
 url: /2020/01/08/csharp-word-automation-create-edit-process-word-documents/

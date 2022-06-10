@@ -1,7 +1,7 @@
 ---
 title: 'Detect Latin Symbols in TrueType and Type1 Fonts using C++'
-seoTitle: ""
-description: ""
+seoTitle: "C++ Detect Latin Symbols in TrueType and Type1 Fonts | Aspose.Font API"
+description: "Use C++ font manipulation API to detect Latin symbols in a TrueType or Type1 font using C++. Check whether a font supports Latin symbols or not."
 date: Thu, 01 Oct 2020 16:18:43 +0000
 draft: false
 url: /2020/10/01/detect-latin-symbols-in-truetype-type1-fonts-cpp/

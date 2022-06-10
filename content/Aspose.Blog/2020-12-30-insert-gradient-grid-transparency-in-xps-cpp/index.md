@@ -1,7 +1,7 @@
 ---
 title: 'Insert Gradient, Grid, or Transparent Objects in XPS File with C++'
-seoTitle: ""
-description: ""
+seoTitle: "Insert Gradient, Grid, or Transparent Objects in XPS File with C++"
+description: "You can insert or add gradient, grid, or transparent objects in XPS files programmatically using C++. Insert Linear, vertical, horizontal gradient."
 date: Wed, 30 Dec 2020 21:48:00 +0000
 draft: false
 url: /2020/12/30/insert-gradient-grid-transparency-in-xps-cpp/

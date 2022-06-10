@@ -1,7 +1,7 @@
 ---
 title: 'Mail Merge in Word Documents using C# or VB.NET - .NET Mail Merge API'
-seoTitle: ""
-description: ""
+seoTitle: "C# Mail Merge API | MS Word Mail Merge API for .NET | Aspose.Words"
+description: "Learn how to use Mail Merge in MS Word documents using C# or VB.NET with .NET Mail Merge API without MS Word or Office Interop. MS Word Mail Merge Library."
 date: Tue, 14 Jul 2020 06:59:00 +0000
 draft: false
 url: /2020/07/14/mail-merge-in-word-documents-using-csharp-or-vb.net/

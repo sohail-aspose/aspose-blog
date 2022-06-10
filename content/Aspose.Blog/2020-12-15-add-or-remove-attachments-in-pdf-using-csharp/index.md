@@ -1,7 +1,7 @@
 ---
 title: 'Add and Remove Attachments in PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Add or Remove Attachments in PDF | Extract PDF Attachments C#"
+description: "Extract, add or remove attachments in PDF files using C#. Step by step guide with code samples to manipulate the PDF attachments programmatically."
 date: Tue, 15 Dec 2020 18:22:35 +0000
 draft: false
 url: /2020/12/15/add-or-remove-attachments-in-pdf-using-csharp/

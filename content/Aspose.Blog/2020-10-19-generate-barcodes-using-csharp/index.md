@@ -1,7 +1,7 @@
 ---
 title: 'Generate Barcodes using C# - .NET Barcode API'
-seoTitle: ""
-description: ""
+seoTitle: "C# Generate Barcodes | Generate QR Code, Code128, Aztech, Datamatrix"
+description: "Generate barcode using C# or VB.NET. Generate Code128, Code11, Code39, QR, Datamatrix, EAN13, EAN8, ITF14, PDF417 and other popular barcodes using C#."
 date: Mon, 19 Oct 2020 23:42:00 +0000
 draft: false
 url: /2020/10/19/generate-barcodes-using-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert CSV to Excel Files or Excel to CSV using C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert CSV to Excel or Excel to CSV | XSLX to CSV | CSV to XLSX"
+description: "Convert CSV to Excel XLS/XLSX or Export Excel to CSV Comma Separated Values Programmatically using C# or VB.NET. Export CSV or Excel files."
 date: Tue, 17 Nov 2020 10:39:22 +0000
 draft: false
 url: /2020/11/17/csv-excel-csharp-vb-net/

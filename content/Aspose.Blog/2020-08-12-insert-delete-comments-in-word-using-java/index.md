@@ -1,7 +1,7 @@
 ---
 title: 'Insert or Delete Comments in Word (DOCX/DOC) using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Insert Delete Comments in Word (DOCX/DOC) Programmatically in Java"
+description: "You can insert, add, delete, or remove comments from word documents like DOCX or DOC. Work with comments programmatically using Java in your applications."
 date: Wed, 12 Aug 2020 23:50:22 +0000
 draft: false
 url: /2020/08/12/insert-delete-comments-in-word-using-java/

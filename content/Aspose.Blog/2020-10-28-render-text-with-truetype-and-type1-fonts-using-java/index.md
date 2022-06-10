@@ -1,7 +1,7 @@
 ---
 title: 'Render Text with TrueType and Type1 Fonts using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java: Render Text with TrueType and Type1 Fonts using Java Font API"
+description: "Use Java font manipulation API to render text with TrueType and Type1 fonts using Java. Render provided text as JPEG image using glyphs in Ttf and Type1."
 date: Wed, 28 Oct 2020 23:41:55 +0000
 draft: false
 url: /2020/10/28/render-text-with-truetype-and-type1-fonts-using-java/

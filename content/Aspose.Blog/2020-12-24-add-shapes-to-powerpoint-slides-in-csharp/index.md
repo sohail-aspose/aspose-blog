@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove Shapes in PowerPoint Slides using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Add Shapes to PowerPoint Slides in C# | .NET PowerPoint API"
+description: "Add or remove shapes in PowerPoint slides using C#. Add rectangle, ellipse, lines, and use shape connectors. Clone shapes from one slide to another."
 date: Thu, 24 Dec 2020 10:19:00 +0000
 draft: false
 url: /2020/12/24/add-shapes-to-powerpoint-slides-in-csharp/

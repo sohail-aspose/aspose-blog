@@ -1,7 +1,7 @@
 ---
 title: 'Convert PUB to PDF Programmatically in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PUB File to PDF Document Programmatically in Java"
+description: "Convert PUB to PDF Documents Programmatically using Java. You can import, export or change Microsoft Publisher File to PDF."
 date: Tue, 01 Dec 2020 10:17:00 +0000
 draft: false
 url: /2020/12/01/convert-pub-pdf-java/

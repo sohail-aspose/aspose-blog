@@ -1,7 +1,7 @@
 ---
 title: 'Split HTML Webpage into Multiple Files Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Split HTML Webpage into Multiple Files - Quick and Easy Conversion"
+description: "Split HTML webpage into multiple files using C# language. Simple and Quick HTML Splitter Feature in your .NET Framework-based applications."
 date: Tue, 22 Dec 2020 09:42:00 +0000
 draft: false
 url: /2020/12/22/split-html-webpage-into-multiple-files-csharp/

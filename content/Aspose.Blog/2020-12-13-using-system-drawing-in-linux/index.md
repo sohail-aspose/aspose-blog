@@ -1,7 +1,7 @@
 ---
 title: 'Using System.Drawing in Linux without libgdiplus'
-seoTitle: ""
-description: ""
+seoTitle: "Using System.Drawing in Linux | C# Graphics API for Linux"
+description: "Use C# .NET Graphics API to use System.Drawing in Linux without libgdiplus. Use Aspose.Drawing in .NET Core applications without rendering issues."
 date: Sun, 13 Dec 2020 12:20:08 +0000
 draft: false
 url: /2020/12/13/using-system-drawing-in-linux/

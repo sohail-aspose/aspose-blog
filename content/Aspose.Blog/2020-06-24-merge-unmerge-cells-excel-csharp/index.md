@@ -1,7 +1,7 @@
 ---
 title: 'Merge or Unmerge Cells in Excel Worksheet with C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Excel Merge or Unmerge Cells in Worksheet Programmatically"
+description: "You can merge or unmerge cells in Excel file. Merge cells of a range or split merged cells in Excel in C#. Named ranges can also be merged."
 date: Wed, 24 Jun 2020 23:08:52 +0000
 draft: false
 url: /2020/06/24/merge-unmerge-cells-excel-csharp/

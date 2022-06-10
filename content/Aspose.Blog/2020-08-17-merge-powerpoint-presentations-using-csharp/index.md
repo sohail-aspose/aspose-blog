@@ -1,7 +1,7 @@
 ---
 title: 'Merge PowerPoint Presentations using C# or VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Merge PowerPoint Presentations using C# | Merge Multiple PPT/PPTX C#"
+description: "Merge or combine PowerPoint PPT/PPTX presentations using C# or VB.NET. Merge all or selected slides from one PowerPoint presentation to other using C#."
 date: Mon, 17 Aug 2020 15:22:06 +0000
 draft: false
 url: /2020/08/17/merge-powerpoint-presentations-using-csharp/

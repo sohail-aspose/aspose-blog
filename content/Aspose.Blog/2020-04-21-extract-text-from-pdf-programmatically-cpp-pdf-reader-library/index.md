@@ -1,7 +1,7 @@
 ---
 title: 'Extract Text from PDF Documents Programmatically using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Extract Text from PDF in C++ | C++ PDF Reader and Text Extractor Library"
+description: "C++ library to extract text from PDF documents programmatically in C++. Read PDF files using C++ PDF reader and extractor library. Parse PDF files in C++."
 date: Tue, 21 Apr 2020 12:01:56 +0000
 draft: false
 url: /2020/04/21/extract-text-from-pdf-programmatically-cpp-pdf-reader-library/

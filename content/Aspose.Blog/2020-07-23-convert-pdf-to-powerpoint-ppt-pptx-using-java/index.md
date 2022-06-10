@@ -1,7 +1,7 @@
 ---
 title: 'Convert PDF to PowerPoint PPT/PPTX using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF to PPT or PPTX in Java | Java PDF to PowerPoint Converter"
+description: "Convert PDF to PowerPoint (PPT or PPTX) presentations using Java. Convert PDF to PPT or PDF to PPTX and track the conversion progress using Java converter."
 date: Thu, 23 Jul 2020 04:36:53 +0000
 draft: false
 url: /2020/07/23/convert-pdf-to-powerpoint-ppt-pptx-using-java/

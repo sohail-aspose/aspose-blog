@@ -1,7 +1,7 @@
 ---
 title: 'Convert GIF Images to TIFF, PDF, PNG, JPG, or BMP using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert GIF to TIFF, PDF, PNG, JPG, or BMP | .NET GIF Converter"
+description: "Programmatically convert animated GIF images to TIFF, PDF, PNG, JPG, or BMP images in C# or VB.NET using .NET GIF Converter API."
 date: Wed, 10 Jun 2020 17:45:06 +0000
 draft: false
 url: /2020/06/10/convert-gif-images-to-tiff-pdf-png-jpg-or-bmp-using-csharp/

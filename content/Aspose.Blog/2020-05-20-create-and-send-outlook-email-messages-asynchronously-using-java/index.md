@@ -1,7 +1,7 @@
 ---
 title: 'Create and Send Outlook Email Messages using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Create and Send Outlook Emails using Java | Send Emails Asynchronously"
+description: "Java Email Library to create and send Outlook emails in Java. Send emails synchronously or asynchronously via SMTP using Java. Create MSG, EML, MHT emails."
 date: Wed, 20 May 2020 15:30:04 +0000
 draft: false
 url: /2020/05/20/create-and-send-outlook-email-messages-asynchronously-using-java/

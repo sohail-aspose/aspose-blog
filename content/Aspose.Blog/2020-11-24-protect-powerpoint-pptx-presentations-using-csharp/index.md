@@ -1,7 +1,7 @@
 ---
 title: 'Protect PowerPoint Files with Password or Digital Signatures in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Protect PowerPoint Files in C# | Protect with Password or Digital Signature"
+description: "Protect PowerPoint PPTX presentation documents using C#. Protect PPTX presentations using a password or a digital signature programmatically using .NET API."
 date: Tue, 24 Nov 2020 23:06:01 +0000
 draft: false
 url: /2020/11/24/protect-powerpoint-pptx-presentations-using-csharp/

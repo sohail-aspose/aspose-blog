@@ -1,7 +1,7 @@
 ---
 title: 'Aspose.Words for .NET 20.1 is released'
-seoTitle: ""
-description: ""
+seoTitle: "Aspose.Words for .NET 20.1 is released"
+description: "This month was finished with good productivity, as the result 63 improvements and fixes (with 7 Enterprise/Priority Support issues among them) were included to this regular monthly release . Totally 105 issues have been processed."
 date: Tue, 07 Jan 2020 08:26:49 +0000
 draft: false
 url: /2020/01/07/aspose.words-for-.net-%e2%80%93-december-2019/

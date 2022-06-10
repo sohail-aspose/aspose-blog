@@ -1,7 +1,7 @@
 ---
 title: 'Convert XPS to BMP, JPEG, PNG, and TIFF using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert XPS to BMP, JPEG, PNG, and TIFF using Java | XPS Converter"
+description: "Use Java XPS converter API to convert XPS to BMP, JPEG, PNG, and TIFF programmatically in Java. Customize the XPS to raster image conversion."
 date: Fri, 18 Dec 2020 09:49:58 +0000
 draft: false
 url: /2020/12/18/convert-xps-to-bmp-jpeg-png-and-tiff-using-java/

@@ -1,7 +1,7 @@
 ---
 title: 'Create, Edit, Read and Convert SVG Files using C# - Aspose.SVG for .NET'
-seoTitle: ""
-description: ""
+seoTitle: "C# SVG Library | Create, Edit, Read and Convert SVG Files using C# .NET"
+description: "C# SVG library. Create and edit SVG files programmatically in C#. Read SVG and convert SVG to PDF, XPS, JPEG, PNG, BMP, GIF, TIFF in C# ASP.NET or .NET Core."
 date: Thu, 13 Feb 2020 16:32:20 +0000
 draft: false
 url: /2020/02/13/create-edit-read-and-convert-svg-files-using-c-aspose.svg-for-.net/

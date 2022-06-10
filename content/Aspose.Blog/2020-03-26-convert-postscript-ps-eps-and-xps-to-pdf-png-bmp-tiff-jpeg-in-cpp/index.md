@@ -1,7 +1,7 @@
 ---
 title: 'Convert PostScript PS/EPS and XPS to PDF and Raster Images in C++'
-seoTitle: ""
-description: ""
+seoTitle: "C++ Convert PostScript PS, EPS and XPS to PDF, PNG, BMP, TIFF, JPEG"
+description: "Convert PostScript PS/EPS and XPS to PDF and images in C++. Convert PS/EPS and XPS to PDF and PNG BMP TIFF and JPEG in C++. PostScript and XPS C++ library."
 date: Thu, 26 Mar 2020 16:12:53 +0000
 draft: false
 url: /2020/03/26/convert-postscript-ps-eps-and-xps-to-pdf-png-bmp-tiff-jpeg-in-cpp/

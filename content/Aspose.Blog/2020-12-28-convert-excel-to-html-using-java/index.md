@@ -1,7 +1,7 @@
 ---
 title: 'Convert Excel Files to HTML using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Excel to HTML using Java | Convert XLSX XLS Files to HTML in Java"
+description: "Convert MS Excel XLSX or XLS files to HTML using Java. Use options to enable tooltips in Excel to HTML conversion and enhance the presentation of the HTML."
 date: Mon, 28 Dec 2020 10:05:51 +0000
 draft: false
 url: /2020/12/28/convert-excel-to-html-using-java/

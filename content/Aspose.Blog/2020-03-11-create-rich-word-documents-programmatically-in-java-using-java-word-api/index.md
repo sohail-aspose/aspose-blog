@@ -1,7 +1,7 @@
 ---
 title: 'Create Rich Word Documents Programmatically in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Create Word Document using Java | Create Rich Word Doc/Docx in Java"
+description: "Learn how to create Word document programmatically in Java. Java Word API to create rich Word DOC/DOCX with headings, paragraphs, tables, lists, images."
 date: Wed, 11 Mar 2020 22:08:00 +0000
 draft: false
 url: /2020/03/11/create-rich-word-documents-programmatically-in-java-using-java-word-api/

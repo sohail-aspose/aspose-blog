@@ -1,7 +1,7 @@
 ---
 title: 'Create, Fill, or Edit Fillable PDF Forms Programmatically with C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create and Fill PDF form using C# .NET | Edit Fillable PDF form in C#"
+description: "Create fillable PDF form using C#. Edit or Fill fillable PDF form fields in C# .NET. Preserve Extended rights or Set JavaScript in PDF using Document Action."
 date: Mon, 25 May 2020 22:23:00 +0000
 draft: false
 url: /2020/05/25/create-fill-edit-fillable-pdf-form-csharp/

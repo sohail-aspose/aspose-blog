@@ -1,7 +1,7 @@
 ---
 title: 'Manipulate CFF, TrueType, and Type1 Fonts using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Work with CFF, TrueType, Type1 Fonts in Java | Get Font Metrics Info"
+description: "Use Java Font Management API to load or save CFF, TrueType, Type1, and OpenType fonts using Java. Get font metrics information within Java applications."
 date: Tue, 27 Oct 2020 23:28:34 +0000
 draft: false
 url: /2020/10/27/work-with-cff-truetype-and-type1-fonts-using-java/

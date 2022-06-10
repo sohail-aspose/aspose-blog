@@ -1,7 +1,7 @@
 ---
 title: 'Convert EMF, WMF and SVG Images Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert EMF, WMF and SVG using C# | Compress EMF WMF SVG in C#"
+description: "Convert EMF, WMF, and SVG vector images using C#. Compress EMF to EMZ, WMF to WMZ, SVG to SVGZ. Convert EMF, WMF, SVG to PNG in C# or VB.NET."
 date: Wed, 03 Jun 2020 22:08:58 +0000
 draft: false
 url: /2020/06/03/convert-emf-wmf-svg-csharp/

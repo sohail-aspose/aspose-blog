@@ -1,7 +1,7 @@
 ---
 title: 'Create OneNote (.ONE) Documents Programmatically in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create OneNote Files using C# | Add Images, Tables, Tags to OneNote File"
+description: "Create OneNote (.one) files programmatically using C# or VB.NET. Add images, tables, tags, and hyperlinks to OneNote documents using .NET OneNote library."
 date: Fri, 08 May 2020 18:47:36 +0000
 draft: false
 url: /2020/05/08/create-onenote-files-add-images-tables-tags-to-onenote-file-using-csharp/

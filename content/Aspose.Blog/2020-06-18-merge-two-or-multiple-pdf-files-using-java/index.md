@@ -1,7 +1,7 @@
 ---
 title: 'Merge Multiple PDF Files  into a Single PDF using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Merge PDF Files in Java | Combine Two or Multiple PDF Files in Java"
+description: "Merge PDF files in Java. Combine or merge two or multiple PDF files programmatically in Java. Merge PDFs in single PDF in Spring or any Java application."
 date: Thu, 18 Jun 2020 01:32:16 +0000
 draft: false
 url: /2020/06/18/merge-two-or-multiple-pdf-files-using-java/

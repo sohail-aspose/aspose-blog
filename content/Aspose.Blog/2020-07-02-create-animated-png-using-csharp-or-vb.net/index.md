@@ -1,7 +1,7 @@
 ---
 title: 'Create Animated PNG Images using C# or VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Create Animated PNG using C# | PNG or TIFF to APNG | APNG to GIF"
+description: "Use .NET Imaging API to create animated PNG (APNG) images using C#. Create animated PNG from PNG/JPEG or multipage tiff. Export APNG to animated GIF in C#."
 date: Thu, 02 Jul 2020 06:24:09 +0000
 draft: false
 url: /2020/07/02/create-animated-png-using-csharp-or-vb.net/

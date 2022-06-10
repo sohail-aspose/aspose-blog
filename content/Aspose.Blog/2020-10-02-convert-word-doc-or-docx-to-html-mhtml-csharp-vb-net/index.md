@@ -1,7 +1,7 @@
 ---
 title: 'Convert Word DOC or DOCX to HTML, MHTML in C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Word to HTML in C# | DOCX DOC to HTML or MHTML in C#"
+description: "Convert Word documents DOC/DOCX to HTML or MHTML webpage programmatically using C# VB.NET. Render export or Save as the word files with many options."
 date: Fri, 02 Oct 2020 20:19:07 +0000
 draft: false
 url: /2020/10/02/convert-word-doc-or-docx-to-html-mhtml-csharp-vb-net/

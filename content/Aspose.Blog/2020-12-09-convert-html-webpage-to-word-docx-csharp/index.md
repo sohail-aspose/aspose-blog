@@ -1,7 +1,7 @@
 ---
 title: 'Convert HTML Webpage to Word File (DOCX/DOC) using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert HTML to Word | HTML to DOCX or DOC in C# | Aspose"
+description: "You can convert HTML webpages to Word DOCX/DOC file programmatically in C#. Import or Export HTML pages to Word format in C# ASP.NET."
 date: Wed, 09 Dec 2020 15:13:53 +0000
 draft: false
 url: /2020/12/09/convert-html-webpage-to-word-docx-csharp/

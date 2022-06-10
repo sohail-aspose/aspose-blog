@@ -1,7 +1,7 @@
 ---
 title: 'Add Fill Layer in Photoshop Document (PSD file) - Easy Guide'
-seoTitle: ""
-description: ""
+seoTitle: "Add Fill Layer in Photoshop | Add Fill Layer in PSD File using C#"
+description: "Add fill layer in Photoshop document with C#. Insert fill layer in PSD at runtime as well as in existing files. Pattern, gradient, and color fill supported."
 date: Tue, 09 Jun 2020 18:29:58 +0000
 draft: false
 url: /2020/06/09/add-fill-layer-in-photoshop/

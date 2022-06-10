@@ -1,7 +1,7 @@
 ---
 title: 'Convert PSD to PDF, JPG, PNG and Other Raster Image Formats in C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# PSD to JPG, PNG, BMP, TIFF, GIF, JP2, or PDF | Convert PSD Layers"
+description: "C# convert PSD to JPG, PNG, BMP, TIFF, GIF, JP2, or PDF programmatically. Convert PSD layers to JPG, PNG, BMP and other image formats in C#. .NET PSD API."
 date: Fri, 27 Mar 2020 15:57:22 +0000
 draft: false
 url: /2020/03/27/convert-psd-to-pdf-jpg-png-tiff-gif-bmp-jp2-in-csharp-net/

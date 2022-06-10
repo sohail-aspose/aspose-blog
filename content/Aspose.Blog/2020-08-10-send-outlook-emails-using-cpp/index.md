@@ -1,7 +1,7 @@
 ---
 title: 'Send Outlook Emails (MSG, EML, EMLX) using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Send Outlook Emails C++ | C++ Send Emails Synchronously via SMTP"
+description: "Send MS Outlook emails (MSG, EML, EMLX) using C++. Send bulk of emails having an alternate view or as TNEF via SMTP client using C++ Email Library."
 date: Mon, 10 Aug 2020 15:10:30 +0000
 draft: false
 url: /2020/08/10/send-outlook-emails-using-cpp/

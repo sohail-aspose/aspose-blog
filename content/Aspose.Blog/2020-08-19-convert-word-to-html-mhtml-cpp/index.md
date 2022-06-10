@@ -1,7 +1,7 @@
 ---
 title: 'Convert Word to HTML MHTML Programmatically using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Word to HTML MHTML Programmatically using C++"
+description: "Convert Word (DOCX/DOC) to HTML or MHTML with different options. Saving round trip information or embedding fonts as Base64 resources using C++."
 date: Wed, 19 Aug 2020 21:37:30 +0000
 draft: false
 url: /2020/08/19/convert-word-to-html-mhtml-cpp/

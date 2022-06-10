@@ -1,7 +1,7 @@
 ---
 title: 'Generate and Scan Barcodes Programmatically using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Generate Barcodes using Java | Java Barcode Generator and Scanner"
+description: "Generate barcodes using Java. Generate and scan Code 128, QR, Pdf417, Datamatrix, Aztec, and other barcodes in Java using barcode generator and reader API."
 date: Tue, 07 Apr 2020 03:11:00 +0000
 draft: false
 url: /2020/04/07/generate-or-scan-barcodes-qr-codes-in-java-using-java-barcode-library/

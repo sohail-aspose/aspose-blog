@@ -1,7 +1,7 @@
 ---
 title: 'Convert MS Excel XLSX Files to DOCX using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Excel to Word Conversion | Convert XLSX or XLS to DOCX in C#"
+description: "Convert MS Excel XLSX or XLS workbooks to Word DOCX format using C# or VB.NET within ASP.NET or other .NET based applications. C# code samples."
 date: Thu, 15 Oct 2020 01:58:46 +0000
 draft: false
 url: /2020/10/15/convert-excel-xlsx-to-docx-using-csharp/

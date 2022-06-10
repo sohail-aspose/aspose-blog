@@ -1,7 +1,7 @@
 ---
 title: 'Load, Save and Extract Information from Fonts using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Load CFF, TrueType, Type1 Fonts from File | Get Font Metrics"
+description: "Use .NET Font Management API to load and save CFF, TrueType, Type1, and OpenType fonts using C# or VB.NET. Also, get font metrics information using C#."
 date: Mon, 14 Sep 2020 17:24:48 +0000
 draft: false
 url: /2020/09/14/load-save-extract-information-from-fonts-using-csharp/

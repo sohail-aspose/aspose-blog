@@ -1,7 +1,7 @@
 ---
 title: 'Aspose.Words for .NET 20.3 is released!'
-seoTitle: ""
-description: ""
+seoTitle: "Aspose.Words for .NET Standard for Xamarin.iOS Mac and Android"
+description: "Xamarin developers can use Aspose.Words for .NET Standard in Xamarin.iOS 10.14 or newer, Xamarin.Mac 3.8 or newer and with Xamarin.Android 8.0 or newer."
 date: Tue, 10 Mar 2020 12:37:17 +0000
 draft: false
 url: /2020/03/10/aspose.words-for-.net-20.3-released/

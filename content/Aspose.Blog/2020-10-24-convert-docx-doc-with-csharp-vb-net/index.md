@@ -1,7 +1,7 @@
 ---
 title: 'Convert DOCX to DOC or DOC to DOCX with C# VB.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Convert DOCX to DOC | DOC to DOCX Programmatically in C# VB.NET"
+description: "Convert DOCX to DOC or From DOC to DOCX Programmatically using C# or VB.NET. Batch convert DOC and DOCX files. Change DOCX to DOC or Save As word files."
 date: Sat, 24 Oct 2020 19:34:27 +0000
 draft: false
 url: /2020/10/24/convert-docx-doc-with-csharp-vb-net/

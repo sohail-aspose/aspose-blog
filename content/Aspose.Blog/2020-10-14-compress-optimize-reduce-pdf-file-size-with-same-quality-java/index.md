@@ -1,7 +1,7 @@
 ---
 title: 'Compress, or Optimize PDF Files with Same Quality using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Compress PDF Size with Same Quality | Optimize Reduce PDF Size"
+description: "You can compress, optimize PDF files to reduce and minimize file size with same quality in Java environment. Shrink or lessen size efficiently quickly."
 date: Wed, 14 Oct 2020 23:23:09 +0000
 draft: false
 url: /2020/10/14/compress-optimize-reduce-pdf-file-size-with-same-quality-java/

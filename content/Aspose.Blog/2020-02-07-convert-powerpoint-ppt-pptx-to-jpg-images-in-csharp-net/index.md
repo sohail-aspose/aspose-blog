@@ -1,7 +1,7 @@
 ---
 title: 'Convert PowerPoint PPT/PPTX to JPG Images in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PowerPoint to JPG in C# | Convert PPT to JPG or PPTX to JPG"
+description: "Convert PowerPoint to JPG images in C#. Convert PPT to JPG or PPTX to JPG in C#. Create your online PPT(X) to JPG converter in ASP.NET using C#."
 date: Fri, 07 Feb 2020 13:38:22 +0000
 draft: false
 url: /2020/02/07/convert-powerpoint-ppt-pptx-to-jpg-images-in-csharp-net/

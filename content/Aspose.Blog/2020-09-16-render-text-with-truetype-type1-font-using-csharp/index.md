@@ -1,7 +1,7 @@
 ---
 title: 'Render Text with TrueType and Type1 Fonts using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Render Text with TrueType and Type1 Fonts in C# | .NET Font Rendering"
+description: "Use .NET Font Rendering API to render the text using TrueType TTF or Type1 fonts glyphs using C# or VB.NET within your .NET applications."
 date: Wed, 16 Sep 2020 16:53:58 +0000
 draft: false
 url: /2020/09/16/render-text-with-truetype-type1-font-using-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Merge Two or More PDF Files using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Merge PDF Files in C++ | Combine Two or More PDF Files | C++ PDF API"
+description: "Use C++ PDF API to merge two or more PDF files into single file using C++. Complete tutorial with API references, source code and API's download link."
 date: Mon, 09 Nov 2020 18:13:04 +0000
 draft: false
 url: /2020/11/09/merge-pdf-files-using-cpp/

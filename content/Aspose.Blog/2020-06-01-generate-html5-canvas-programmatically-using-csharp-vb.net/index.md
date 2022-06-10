@@ -1,7 +1,7 @@
 ---
 title: 'Generate HTML5 Canvas Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Generate HTML5 Canvas using C# | Export SVG to HTML5 Canvas in C#"
+description: "Dynamically generate HTML5 Canvas element using C#. Export SVG, CMX, EMF, WMF, and CDR to HTML5 Canvas. Embed canvas in a web page dynamically using C#."
 date: Mon, 01 Jun 2020 18:16:12 +0000
 draft: false
 url: /2020/06/01/generate-html5-canvas-programmatically-using-csharp-vb.net/

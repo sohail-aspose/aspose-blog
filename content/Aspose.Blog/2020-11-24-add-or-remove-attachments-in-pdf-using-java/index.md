@@ -1,7 +1,7 @@
 ---
 title: 'Add or Remove Attachments in PDF using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Add or Remove Attachments in PDF in Java | Get PDF Attachment Info"
+description: "Use Java PDF API to add or remove attachments from PDF in Java. Get attachment information and remove one or all attachments in PDF using Java PDF API."
 date: Tue, 24 Nov 2020 01:49:51 +0000
 draft: false
 url: /2020/11/24/add-or-remove-attachments-in-pdf-using-java/

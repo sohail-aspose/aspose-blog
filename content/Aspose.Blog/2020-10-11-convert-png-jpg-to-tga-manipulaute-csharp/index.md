@@ -1,7 +1,7 @@
 ---
 title: 'Convert PNG, JPG to TGA or Manipulate TGA using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PNG JPG Image to TGA | Manipulate Truevision TGA TARGA C#"
+description: "You can convert JPG or PNG images to Truevision Targa TGA in your .NET applications using C#. You can edit, update, or manipulate TGA in C#."
 date: Sun, 11 Oct 2020 19:31:41 +0000
 draft: false
 url: /2020/10/11/convert-png-jpg-to-tga-manipulaute-csharp/

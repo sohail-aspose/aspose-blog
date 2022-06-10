@@ -1,7 +1,7 @@
 ---
 title: 'Convert PDF Documents to Excel XLS/XLSX using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF to Excel using Java | PDF to XLS or PDF to XLSX | Java API"
+description: "Convert PDF documents to Excel workbooks using Java. Convert PDF to XLS or PDF to XLSX and export tabular data from PDF to Excel using Java."
 date: Wed, 24 Jun 2020 00:21:50 +0000
 draft: false
 url: /2020/06/24/convert-pdf-to-excel-xls-xlsx-using-java/

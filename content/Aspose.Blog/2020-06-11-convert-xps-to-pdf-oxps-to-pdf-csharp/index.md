@@ -1,7 +1,7 @@
 ---
 title: 'Convert XPS or OXPS to PDF Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert XPS to PDF | Convert OXPS to PDF Programmatically"
+description: "Convert XPS to PDF using C# and Convert OXPS to PDF in C# .NET applications. You can convert any page of XPS or OXPS file or export all pages."
 date: Thu, 11 Jun 2020 20:14:58 +0000
 draft: false
 url: /2020/06/11/convert-xps-to-pdf-oxps-to-pdf-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Merge MS Word Documents using C# ASP.NET'
-seoTitle: ""
-description: ""
+seoTitle: "Merge MS Word Documents in C# ASP.NET | Merge Multiple DOCX Files"
+description: "Merge MS Word DOC/DOCX documents into a single document in C# ASP.NET Core. Merge Word documents into a single DOCX or PDF document in ASP.NET."
 date: Tue, 07 Jul 2020 02:45:00 +0000
 draft: false
 url: /2020/07/07/merge-ms-word-documents-using-csharp-asp.net-core/

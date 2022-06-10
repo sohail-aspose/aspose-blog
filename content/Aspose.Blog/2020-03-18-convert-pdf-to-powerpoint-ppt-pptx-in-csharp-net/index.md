@@ -1,7 +1,7 @@
 ---
 title: 'Convert PDF File to PowerPoint Presentation in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PDF to PPT or PPTX in C# | Convert PDF to PowerPoint | C# .NET"
+description: "Convert PDF to PPT or PPTX in C#. PDF to PPT or PDF to PPTX. Convert PDF pages to slides with selectable text or images. Track PDF to PPT conversion in C#."
 date: Wed, 18 Mar 2020 13:15:29 +0000
 draft: false
 url: /2020/03/18/convert-pdf-to-powerpoint-ppt-pptx-in-csharp-net/

@@ -1,7 +1,7 @@
 ---
 title: 'ASP.NET PowerPoint Viewer - Display PowerPoint Presentations in ASP.NET'
-seoTitle: ""
-description: ""
+seoTitle: "ASP.NET PowerPoint Viewer | Display PPT/PPTX Files in ASP.NET Core"
+description: "ASP.NET Core PowerPoint Viewer. View PowerPoint PPT or PPTX presentaions in ASP.NET web application. Complete open source code and tutorial."
 date: Sun, 23 Feb 2020 11:13:40 +0000
 draft: false
 url: /2020/02/23/asp-net-core-powerpoint-viewer-display-ppt-pptx-presentations/

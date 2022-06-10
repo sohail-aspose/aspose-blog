@@ -1,7 +1,7 @@
 ---
 title: 'Protect or Unprotect Word Documents Programmatically using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Protect or Unlock Word Documents in C# | Protect Doc with Password"
+description: "Protect and unlock Word documents in C#. Apply various protection types to whole or parts of Word document. Unprotect Word doc without a password in C#."
 date: Thu, 27 Feb 2020 02:41:32 +0000
 draft: false
 url: /2020/02/27/protect-unprotect-word-documents-programmatically-using-csharp-net/

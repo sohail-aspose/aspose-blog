@@ -1,7 +1,7 @@
 ---
 title: 'Read Barcodes using C# Barcode API'
-seoTitle: ""
-description: ""
+seoTitle: "Read Barcodes using C# | .NET Barcode Reader and Scanner API"
+description: "Scan and read barcodes using C# or VB.NET. Read popular barcode symbologies including Code 128, QR, Aztec, Datamatrix from within .NET applications."
 date: Tue, 20 Oct 2020 23:42:00 +0000
 draft: false
 url: /2020/10/20/scan-and-read-barcodes-using-csharp/

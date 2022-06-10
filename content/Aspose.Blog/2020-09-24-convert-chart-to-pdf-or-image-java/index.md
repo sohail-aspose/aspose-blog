@@ -1,7 +1,7 @@
 ---
 title: 'Convert Chart to PDF and Images like JPG, PNG, WMF in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Chart to PDF and Image | Export Chart to Picture JPG, PNG Java"
+description: "Convert chart to PDF and image/picture like JPG, PNG, WMP, TIFF, BMP, SVG, or GIF. Render excel workbook and excel worksheet charts using Java."
 date: Thu, 24 Sep 2020 17:18:02 +0000
 draft: false
 url: /2020/09/24/convert-chart-to-pdf-or-image-java/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert Base64 String to PDF or JPG/PNG Image with Java'
-seoTitle: ""
-description: ""
+seoTitle: "Java Convert Base64 String to PDF or JPG/PNG Images"
+description: "Convert Base64 string to PDF or image like JPG, PNG in Java. Convert Base64 string in HTML page to image to view Base64 image and string example."
 date: Wed, 29 Jul 2020 16:40:17 +0000
 draft: false
 url: /2020/07/29/convert-base64-string-to-pdf-jpg-png-image-with-java/

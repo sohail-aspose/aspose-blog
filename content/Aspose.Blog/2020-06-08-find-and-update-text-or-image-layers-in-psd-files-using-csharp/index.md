@@ -1,7 +1,7 @@
 ---
-title: 'Find Layers and Update Layer''s Text or Image in Photoshop Files using C#'
-seoTitle: ""
-description: ""
+title: 'Find Layers and Update Layer's Text or Image in Photoshop Files using C#'
+seoTitle: "C# Update Text and Image in Photoshop Layers (PSD)"
+description: "Find layer and update the layer's text and image in Photoshop PSD files using C# or VB.NET. Find PSD layers by name and update the layer's content using C#."
 date: Mon, 08 Jun 2020 17:23:47 +0000
 draft: false
 url: /2020/06/08/find-and-update-text-or-image-layers-in-psd-files-using-csharp/

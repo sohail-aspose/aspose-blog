@@ -1,7 +1,7 @@
 ---
 title: 'Convert PLT to PDF or JPEG Image Programmatically in C#'
-seoTitle: ""
-description: ""
+seoTitle: "Convert PLT to PDF or JPEG Image Programmatically in C#"
+description: "PLT is a vector-based format used for plotter machines. However, only a few applications support this format so you might need to convert to more compatible formats as per your requirements. You can convert PLT files to PDF, PNG, or JPEG images with few quick and simple steps."
 date: Thu, 24 Dec 2020 06:55:00 +0000
 draft: false
 url: /2020/12/24/convert-plt-to-pdf-or-jpeg-image-csharp/

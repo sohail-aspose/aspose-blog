@@ -1,7 +1,7 @@
 ---
 title: 'Merge MS Word Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Merge MS Word DOCX Documents using Java | Merge Two DOCX Files"
+description: "Merge MS Word (DOC/DOCX) documents programmatically using Java. Merge two or more Word documents with additional options using Java Word Document Merger."
 date: Thu, 10 Sep 2020 22:17:00 +0000
 draft: false
 url: /2020/09/10/merge-ms-word-documents-using-java/

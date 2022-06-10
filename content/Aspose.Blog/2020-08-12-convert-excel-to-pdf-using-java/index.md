@@ -1,7 +1,7 @@
 ---
 title: 'Convert Excel Files to PDF using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Excel to PDF using Java | Convert XLSX or XLS to PDF in Java"
+description: "Convert MS Excel files to PDF using Java Excel to PDF converter API. Convert XLSX to PDF or XLS to PDF or PDF/A from within your Java applications."
 date: Wed, 12 Aug 2020 20:37:06 +0000
 draft: false
 url: /2020/08/12/convert-excel-to-pdf-using-java/

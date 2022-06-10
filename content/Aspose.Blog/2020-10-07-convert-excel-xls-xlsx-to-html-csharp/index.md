@@ -1,7 +1,7 @@
 ---
 title: 'Convert Excel XLS/XLSX to HTML using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Excel to HTML using C# | Convert XLS or XLSX to HTML using C#"
+description: "Convert MS Excel XLS/XLSX file to HTML using C# or VB.NET. Convert Excel to HTML with tooltips and presentation preferences options using .NET converter API."
 date: Wed, 07 Oct 2020 18:27:58 +0000
 draft: false
 url: /2020/10/07/convert-excel-xls-xlsx-to-html-csharp/

@@ -1,7 +1,7 @@
 ---
 title: 'Convert EPS to PNG or PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "EPS to PNG or PDF in C# | Convert EPS to PNG or EPS to PDF using C#"
+description: "Convert EPS (Encapsulated PostScript) images to PNG or PDF using C# or VB.NET. EPS to PNG and EPS to PDF with extended options using C#."
 date: Mon, 21 Sep 2020 16:49:28 +0000
 draft: false
 url: /2020/09/21/convert-eps-to-png-or-pdf-using-csharp/

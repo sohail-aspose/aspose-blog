@@ -1,7 +1,7 @@
 ---
 title: 'Create Outlook Emails (MSG, EML, EMLX) using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Create Outlook Email using C++ | Create EML, EMLX, MSG File in C++"
+description: "Create Outlook email in C++ using Aspose's email library for C++. Create and save Outlook emails in EML, EMLX, and MSG formats using C++."
 date: Fri, 07 Aug 2020 15:33:07 +0000
 draft: false
 url: /2020/08/07/create-outlook-email-msg-eml-emlx-using-cpp/

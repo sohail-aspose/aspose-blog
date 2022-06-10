@@ -1,7 +1,7 @@
 ---
 title: 'Convert XML to PDF - Easy XML to PDF Conversion'
-seoTitle: ""
-description: ""
+seoTitle: "XML to PDF | Convert XML to PDF | XML to PDF using C#"
+description: "Convert XML to PDF file when input follows XSD schema of the API. Include HTML in XML file. Convert XML and XSLT to PDF in C#."
 date: Sat, 20 Jun 2020 21:56:16 +0000
 draft: false
 url: /2020/06/20/xml-to-pdf-csharp/

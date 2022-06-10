@@ -1,7 +1,7 @@
 ---
 title: 'C# Convert HTML to JPG, PNG, BMP and GIF Image with .NET'
-seoTitle: ""
-description: ""
+seoTitle: "C# Convert HTML to JPG, PNG, BMP and GIF Image with .NET"
+description: "Convert HTML to JPG, PNG, BMP, or GIF image programmatically with C# in your .NET applications. Convert HTML files using VB.NET."
 date: Sat, 30 May 2020 21:28:47 +0000
 draft: false
 url: /2020/05/30/html-to-jpg-png-bmp-and-gif-images-csharp/

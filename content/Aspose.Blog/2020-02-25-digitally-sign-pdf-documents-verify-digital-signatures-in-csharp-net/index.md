@@ -1,7 +1,7 @@
 ---
 title: 'Add and Verify Digital Signatures in PDF Documents using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Add and Verify Digital Signatures in PDF in C# | Digitally Sign PDF in C#"
+description: "Add digital signature to PDF in C#. Verify or validate the digitally sign PDF documents using C# in ASP.NET MVC or any .NET Core application. C# PDF Library."
 date: Tue, 25 Feb 2020 16:38:29 +0000
 draft: false
 url: /2020/02/25/digitally-sign-pdf-documents-verify-digital-signatures-in-csharp-net/

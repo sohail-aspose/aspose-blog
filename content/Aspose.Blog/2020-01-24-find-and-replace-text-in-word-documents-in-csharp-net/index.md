@@ -1,12 +1,12 @@
 ---
 title: 'Find and Replace Text in a Word Document using C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "Find and Replace Text in Word Documents in C# .NET | .NET Core"
+description: "Learn useful ways to find and replace text in Word document in C#. Find and replace text or phrase in Word DOC DOCX in C#. Without MS Word/Office interop."
 date: Fri, 24 Jan 2020 13:54:06 +0000
 draft: false
 url: /2020/01/24/find-and-replace-text-in-word-documents-in-csharp-net/
 author: Usman Aziz
-summary: ''
+summary: 'This article covers various approaches to **find and replace text in Word documents** using **C#** in **.NET** or **.NET Core** applications.'
 tags: ['Word Document Finding and Replacing Text in C#.NET', 'c# find and replace text in word document', 'c# replace text in docx file', 'find and replace text in word document', 'find text in word document using c#', 'how to replace text in word document']
 categories: ['Aspose.Words Product Family']
 ---

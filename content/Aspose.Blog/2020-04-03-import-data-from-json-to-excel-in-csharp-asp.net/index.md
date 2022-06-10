@@ -1,7 +1,7 @@
 ---
 title: 'Import Data from JSON to Excel Worksheet in C# .NET'
-seoTitle: ""
-description: ""
+seoTitle: "JSON to Excel in C# | Convert JSON to Excel | Import JSON Data to Excel"
+description: "JSON to Excel in C# programmatically. Convert JSON file to Excel in C#. Import JSON data to Excel worksheets. Convert JSON to XLS or XLSX in C#."
 date: Fri, 03 Apr 2020 16:06:48 +0000
 draft: false
 url: /2020/04/03/import-data-from-json-to-excel-in-csharp-asp.net/

@@ -1,7 +1,7 @@
 ---
 title: 'Create PowerPoint Presentations using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Create PowerPoint Presentations in C++ | Insert Slides, Text, Chart, Table"
+description: "Create PowerPoint PPTX presentations using C++. Insert slides, tables, charts and text in new or existing presentations from within C++ applications."
 date: Tue, 29 Dec 2020 22:32:00 +0000
 draft: false
 url: /2020/12/29/create-powerpoint-presentations-using-cpp/

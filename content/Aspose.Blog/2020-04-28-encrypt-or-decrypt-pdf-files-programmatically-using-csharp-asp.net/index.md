@@ -1,7 +1,7 @@
 ---
 title: 'Encrypt and Decrypt PDF Files using C#'
-seoTitle: ""
-description: ""
+seoTitle: "C# Encrypt and Decrypt PDF Files | Encrypt PDF with Password in C#"
+description: "Steps to encrypt and decrypt PDF files in C# or VB.NET. Encrypt PDF documents with a password. Change security permissions in PDF using C# PDF Library."
 date: Tue, 28 Apr 2020 11:03:33 +0000
 draft: false
 url: /2020/04/28/encrypt-or-decrypt-pdf-files-programmatically-using-csharp-asp.net/

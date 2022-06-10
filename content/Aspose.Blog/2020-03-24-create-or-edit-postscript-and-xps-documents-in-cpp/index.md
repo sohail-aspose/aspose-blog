@@ -1,7 +1,7 @@
 ---
 title: 'Create or Edit XPS Documents Programmatically in C++'
-seoTitle: ""
-description: ""
+seoTitle: "Create or Edit XPS Documents in C++ | C++ XPS API | XPS Library"
+description: "C++ XPS API. Create and edit XPS documents in C++. Convert XPS, PS, and EPS documents programmatically. Native C++ Library for XPS and PostScript documents."
 date: Tue, 24 Mar 2020 16:28:40 +0000
 draft: false
 url: /2020/03/24/create-or-edit-postscript-and-xps-documents-in-cpp/

@@ -1,7 +1,7 @@
 ---
 title: 'Encrypt or Decrypt PDF Files using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Encrypt and Decrypt PDF Files in C++ | C++ PDF Encryption in AES, RC4"
+description: "C++ code to encrypt and decrypt PDF files. Set password and user's privileges while encrypting PDF files with AES128, 256, or RC4 cryptography using C++."
 date: Fri, 25 Sep 2020 01:17:29 +0000
 draft: false
 url: /2020/09/25/encrypt-or-decrypt-pdf-files-using-cpp/

@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Excel Files Programmatically in C# without MS Office'
-seoTitle: ""
-description: ""
+seoTitle: "How to Create Excel XLSX Files in C# | Create Charts and Tables in Excel"
+description: "Create Excel XLSX files using C# programmatically without MS Office or MS Excel. Create an Excel file with charts, graphs, and tables in C# ASP.NET."
 date: Tue, 21 Jan 2020 13:11:07 +0000
 draft: false
 url: /2020/01/21/create-excel-xls-xlsx-programmatically-in-csharp-net/

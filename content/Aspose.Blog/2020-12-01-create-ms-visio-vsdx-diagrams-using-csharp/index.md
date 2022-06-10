@@ -1,7 +1,7 @@
 ---
 title: 'Create MS Visio VSDX Diagrams using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Create Visio VSDX Diagrams using C# | Create Shapes or Flowcharts"
+description: "Create MS Visio VSDX diagrams using C#. Create flowcharts, insert Visio master, pages, shapes, and text within new or existing MS Visio VSDX diagrams."
 date: Tue, 01 Dec 2020 22:51:01 +0000
 draft: false
 url: /2020/12/01/create-ms-visio-vsdx-diagrams-using-csharp/

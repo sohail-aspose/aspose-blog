@@ -1,7 +1,7 @@
 ---
 title: 'Add and Verify Digital Signatures in PDF Documents using Java'
-seoTitle: ""
-description: ""
+seoTitle: "Digitally Sign PDF using Java | Add and Verify Digital Signatures in PDF"
+description: "Digitally sign PDF documents using Java. Verify, or validate the digitally sign PDFs using Java Swing or any Java-based application with Java PDF Library."
 date: Wed, 15 Jul 2020 23:03:00 +0000
 draft: false
 url: /2020/07/15/add-and-verify-digital-signatures-in-pdf-documents-using-java/

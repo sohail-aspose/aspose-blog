@@ -1,7 +1,7 @@
 ---
 title: 'HTML to PDF C# Conversion using .NET API'
-seoTitle: ""
-description: ""
+seoTitle: "HTML to PDF in C# | Convert URL or HTML File to PDF in C# for Free"
+description: "Convert HTML to PDF in C# or VB.NET. Convert HTML file or web page from URL to PDF using C# HTML to PDF converter API within ASP.NET or any .NET application."
 date: Fri, 28 Feb 2020 02:36:00 +0000
 draft: false
 url: /2020/02/28/convert-html-to-pdf-programmatically-in-csharp-net/

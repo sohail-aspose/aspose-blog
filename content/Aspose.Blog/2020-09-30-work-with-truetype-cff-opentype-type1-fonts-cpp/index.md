@@ -1,7 +1,7 @@
 ---
 title: 'Work with CFF, TrueType, and Type1 Fonts using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Work with TrueType, CFF, and Type1 Fonts using C++ | Aspose.Font"
+description: "Use C++ Font Manipulation API to load TrueType, CFF, OpenType, and Type1 fonts using C++. Extract font metric information using C++."
 date: Wed, 30 Sep 2020 16:08:44 +0000
 draft: false
 url: /2020/09/30/work-with-truetype-cff-opentype-type1-fonts-cpp/

@@ -1,7 +1,7 @@
 ---
 title: 'Insert Text or Image in XPS File Programmatically using C++'
-seoTitle: ""
-description: ""
+seoTitle: "Insert Text or Image in XPS File Programmatically using C++"
+description: "You can insert image or text in XPS files programmatiaclly using C++. Add or update a picture, graphic in tiled form or text as unicode string."
 date: Tue, 29 Dec 2020 12:42:00 +0000
 draft: false
 url: /2020/12/29/insert-image-text-xps-cpp/

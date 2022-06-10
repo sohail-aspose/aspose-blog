@@ -1,7 +1,7 @@
 ---
 title: 'Find and Replace Text in PDF using C#'
-seoTitle: ""
-description: ""
+seoTitle: "Find and Replace Text in PDF in C# | Replace Text in PDF using Regex C#"
+description: "Find and replace text in PDF documents using C#. Find and replace text in the whole PDF, a particular page of PDF, or a page region. Find text using regex."
 date: Tue, 22 Dec 2020 10:57:00 +0000
 draft: false
 url: /2020/12/22/find-and-replace-text-in-pdf-using-csharp/

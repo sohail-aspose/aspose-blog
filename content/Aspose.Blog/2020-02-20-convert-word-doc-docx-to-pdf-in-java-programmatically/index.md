@@ -1,7 +1,7 @@
 ---
 title: 'Convert Word DOC/DOCX to PDF in Java'
-seoTitle: ""
-description: ""
+seoTitle: "Convert Word to PDF in Java | DOC to PDF or DOCX to PDF in Java"
+description: "Convert Word DOC/DOCX to PDF in Java. Convert DOC to PDF or DOCX to PDF in Java. Convert popular formats of Word to PDF. Code examples and tutorials."
 date: Thu, 20 Feb 2020 02:39:33 +0000
 draft: false
 url: /2020/02/20/convert-word-doc-docx-to-pdf-in-java-programmatically/
