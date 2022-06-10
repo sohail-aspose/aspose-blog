@@ -1,12 +1,12 @@
 ---
-title: 'Convert CAD's DWG and DXF to PDF using C#'
+title: "Convert CAD's DWG and DXF to PDF using C#"
 seoTitle: "DWG DXF to PDF C# | Convert CAD Files to PDF in C# .NET"
 description: "Use C# .NET CAD to PDF converter API to convert DWG or DXF to PDF using C#. DWG to PDF to DXF to PDF with customized rendering options."
 date: Wed, 02 Sep 2020 16:33:29 +0000
 draft: false
 url: /2020/09/02/convert-autocad-dwg-dxf-to-pdf-using-csharp/
 author: Usman Aziz
-summary: '[AutoCAD][1] is used by designers to create various types of designs of buildings, bridges, automobiles, chips and etc. in a wide range of industries. However, the AutoCAD formats ([DWG][2], [DXF][3], etc.) can only be viewed in a dedicated software or an [online AutoCAD viewer][4]. To make things easier, the AutoCAD drawings could be converted into PDF files which can be viewed anywhere without any dependency. In this article, you will learn **how to convert AutoCAD DWG/DXF drawings to PDF programmatically using C#**.'
+summary: "AutoCAD is used by designers to create various types of designs of buildings, bridges, automobiles, chips and etc. in a wide range of industries. However, the AutoCAD formats (DWG, DXF, etc.) can only be viewed in a dedicated software or an online AutoCAD viewer. To make things easier, the AutoCAD drawings could be converted into PDF files which can be viewed anywhere without any dependency. In this article, you will learn **how to convert AutoCAD DWG/DXF drawings to PDF programmatically using C#**."
 tags: ['convert autocad drawing to pdf', 'convert autocad layer to pdf csharp', 'convert autocad to pdf csharp', 'convert dwg to pdf csharp', 'convert dxf to pdf csharp']
 categories: ['Aspose.CAD Product Family']
 ---
